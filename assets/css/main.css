@@ -103,6 +103,7 @@ input, select, textarea {
 		color: #333f48;
 		font-size: 13pt;
 		line-height: 2em;
+		text-align: justify;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2177,7 +2178,7 @@ input, select, textarea {
 			}
 
 			table.default th {
-				text-align: left;
+				text-align: center;
 				padding: 0.5em 1em 0.5em 1em;
 				margin: 0 0 1em 0;
 				font-family: 'Open Sans Condensed', sans-serif;
@@ -2550,7 +2551,7 @@ input, select, textarea {
 /* Sidebar + Content */
 
 	.sidebar h2.major {
-		text-align: left;
+		text-align: justify;
 		margin: 0 0 1.5em 0;
 	}
 
