@@ -2,31 +2,31 @@
 	{
 			"name": "Reihanneh Hosseini",
 			"position": "President",
-			"photo": "images/reihaneh.jpg",
+			"photo": "images/reihaneh.png",
 			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
 		},
 	{
 			"name": "Lorenzo Peve",
 			"position": "Vice President",
-			"photo": "images/lorenzo.jpg",
+			"photo": "images/lorenzo.png",
 			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
 	},
 	{
 			"name": "Thiago Araujo",
 			"position": "Secretary",
-			"photo": "images/thiago.jpg",
+			"photo": "images/thiago.png",
 			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
 	},
 	{
 			"name": "Ahmed Hussein",
 			"position": "Treasurer",
-			"photo": "images/ahmed.jpg",
+			"photo": "images/ahmed.png",
 			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
 	},
 	{
 			"name": "Joseph Vantassel",
 			"position": "Web Master",
-			"photo": "images/joe.jpg",
+			"photo": "images/joe.png",
 			"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
 	}
 ]
