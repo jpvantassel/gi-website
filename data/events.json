@@ -24,14 +24,7 @@
     "name": "Explore UT",
     "semester": "Spring 2019",
     "date": "2 March 2019",
-    "image": "images/exploreut2019.jpg",
+    "image": "images/exploreut_2019.jpg",
     "caption": "Introducing Geotechnical Engineering to the next generation."
-  },
-  {
-    "name": "Volleyball",
-    "semester": "Spring 2019",
-    "date": null,
-    "image": "images/volley2019.jpg",
-    "caption": "Weekly volleyball games at the Recreational Sports Center."
   }
 ]
