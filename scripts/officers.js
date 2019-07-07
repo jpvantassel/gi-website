@@ -10,7 +10,7 @@ function officerTemplate(person) {
                         <section>
                             <h3>${person.name} - <em>${person.position}</em></h3>
                             <div>
-                                <a href='#' class='image featured'><img src=${person.photo} alt='' /></a>
+                                <a href='#' class='image featured'><img src=${person.image} alt='' /></a>
                             </div>
                         </section>
                     </article>

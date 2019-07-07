@@ -1,0 +1,30 @@
+[
+  {
+    "name": "4th of July Picnic and Fireworks",
+    "semester": "Summer 2019",
+    "date": "4 July 2019",
+    "image": "images/july4th2019.jpg",
+    "caption": "Socializing before 4th of July fireworks."
+  },
+  {
+    "name": "Graduation Party",
+    "semester": "Spring 2019",
+    "date": "18 May 2019",
+    "image": "images/grad2019.jpg",
+    "caption": "Party to celebrate our most recent graduates."
+  },
+  {
+    "name": "Volleyball",
+    "semester": "Spring 2019",
+    "date": null,
+    "image": "images/volley2019.jpg",
+    "caption": "Weekly volleyball games at the Recreational Sports Center."
+  },
+  {
+    "name": "Explore UT",
+    "semester": "Spring 2019",
+    "date": "2 March 2019",
+    "image": "images/exploreut2019.jpg",
+    "caption": "Introducing Geotechnical Engineering to the next generation."
+  }
+]
