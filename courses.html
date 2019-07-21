@@ -31,10 +31,10 @@
 		<nav id="nav">
 				<ul>
 					<li><a href="index.html">Home</a></li>
-					<!-- <li><a href="seminars.html">Educational Seminars</a></li> -->
+					<li><a href="seminars.html">Educational Seminars</a></li>
 					<li><a href="social.html">Social Events</a></li>
-					<!-- <li><a href="educational.html">Educational Resources</a></li> -->
-					<li class="current"><a href="courses.html">Academic Resources</a></li>
+					<li><a href="educational.html">Educational Resources</a></li>
+					<li class="current"><a href="academic.html">Academic Resources</a></li>
 					<li><a href="officers.html">Officers</a></li>
 				</ul>
 			</nav>
@@ -83,9 +83,40 @@
 					</div>
 				</div>
 
-				<!-- Course Info Here -->
-				<div id="courses-div"></div>
+				<!-- Sorting Buttons -->
+				<div class="row">
+					<!-- <div class="col-6 col-6-medium col-12-small"> -->
+						
+					<!-- <div>
+						<h3><em>Semester</em></h3>
+						<p><button onclick="sortcourses()">Show All</button>
+						<button onclick="sortcourses(sem='Fall 2019')">Fall 2019</button>
+						<button onclick="sortcourses(sem='Spring 2020')">Spring 2020</button></p>
+					</div> -->
 
+					<!-- <div class="col-6 col-6-medium col-12-small"> -->
+					<div>
+						<!-- <h3><em>Department</em></h3> -->
+						<h3>Sorting Options:</h3>
+						<p><button onclick="sortcourses()">Show All</button>
+						<button onclick="sortcourses(dept='Geotechnical Engineering')">Geotechnical Engineering</button>
+						<button onclick="sortcourses(dept='Structural Engineering')">Structural Engineering</button>
+						<button onclick="sortcourses(dept='Transportation Engineering')">Transportation Engineering</button>
+						<button onclick="sortcourses(dept='Petroleum and Geosystems Engineering')">Petroleum and Geosystems Engineering</button>
+						<button onclick="sortcourses(dept='Geological Science')">Geological Science</button>
+						<button onclick="sortcourses(dept='Statistics and Data Sciences')">Statistics and Data Sciences</button>
+						<button onclick="sortcourses(dept='Engineering Mechanics')">Engineering Mechanics</button>
+						<button onclick="sortcourses(dept='Electrical Engineering')">Electrical Engineering</button></p>
+					</div>
+				</div>
+				<!-- </section> -->
+
+	
+				<!-- Course Info Here -->
+				<div class="row">
+					<div id="courses-div"></div>
+				</div>
+					
 				<!-- Features -->
 				<section class="box features">
 					<h2 class="major"><span>What do we do</span></h2>
@@ -123,8 +154,8 @@
 						<div class="col-3 col-6-medium col-12-small">
 							<!-- Feature -->
 							<section class="box feature">
-								<a href="courses.html" class="image featured"><img src="images/classroom.jpg" alt="" /></a>
-								<h3><a href="courses.html">Academic Resources</a></h3>
+								<a href="academic.html" class="image featured"><img src="images/classroom.jpg" alt="" /></a>
+								<h3><a href="academic.html">Academic Resources</a></h3>
 								<p>
 									Academic resources for our current members.
 								</p>

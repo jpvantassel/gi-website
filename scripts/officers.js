@@ -32,7 +32,6 @@ function officerTemplate(person) {
 }
 
 $.getJSON('data/officers.json', function (officerdata) {
-    console.log("Tada!")
     document.getElementById("officer-div").innerHTML = `
     ${officerdata.map(officerTemplate).join('')}
     `

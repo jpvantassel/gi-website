@@ -16,7 +16,6 @@ function courseTemplate(course) {
                     </article>
                 </div>
             </div>
-
             <div class="col-5 col-12-medium">
                 <div class="sidebar">
                     <section>
@@ -30,9 +29,23 @@ function courseTemplate(course) {
     `
 }
 
-$.getJSON('data/courses.json', function (coursedata) {
-    console.log("Tada!")
+function sortcourses(dept=true) {
+    $.getJSON('data/courses.json', function (raw_data) {
+        var sorted_data=[]
+        
+        for (var i=0; i<raw_data.length; i++) {
+            if (raw_data[i].department==dept | dept) {
+                sorted_data.push(raw_data[i])
+            }
+        }
+        document.getElementById("courses-div").innerHTML = `
+        ${sorted_data.map(courseTemplate).join('')}
+        `
+    })
+}
+
+$.getJSON('data/courses.json', function (raw_data) {
     document.getElementById("courses-div").innerHTML = `
-    ${coursedata.map(courseTemplate).join('')}
+    ${raw_data.map(courseTemplate).join('')}
     `
 });

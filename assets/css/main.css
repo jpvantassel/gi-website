@@ -1765,7 +1765,6 @@ input, select, textarea {
 			top: 0;
 			width: 100%;
 			height: 100%;
-			/* background: url("images/overlay.png"); */
 			border-radius: 8px;
 		}
 
@@ -1827,7 +1826,7 @@ input, select, textarea {
 		-o-transition: background-color .2s ease-in-out;
 		-ms-transition: background-color .2s ease-in-out;
 		transition: background-color .2s ease-in-out;
-		font-size: 1.25em;
+		font-size: 0.9em;
 		padding: 0.85em 1.85em;
 		text-align: center;
 	}
@@ -1837,7 +1836,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #bf5700;
+			background: #333f48;
 		}
 
 		input[type="button"]:active,
@@ -1845,7 +1844,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #bf5700;
+			background: #333f48;
 		}
 
 		input[type="button"].alt,

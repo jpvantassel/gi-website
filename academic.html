@@ -8,7 +8,7 @@
 <html>
 
 <head>
-	<title>GI UTA Officers</title>
+	<title>GI UTA Courses</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -29,16 +29,15 @@
 
 		<!-- Nav -->
 		<nav id="nav">
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="seminars.html">Educational Seminars</a></li>
-				<li><a href="social.html">Social Events</a></li>
-				<li><a href="educational.html">Educational Resources</a></li>
-				<li><a href="courses.html">Academic Resources</a></li>
-				<li class="current"><a href="officers.html">Officers</a></li>
-			</ul>
-		</nav>
-
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="seminars.html">Educational Seminars</a></li>
+					<li><a href="social.html">Social Events</a></li>
+					<li><a href="educational.html">Educational Resources</a></li>
+					<li class="current"><a href="courses.html">Academic Resources</a></li>
+					<li><a href="officers.html">Officers</a></li>
+				</ul>
+			</nav>
 		<!-- Main -->
 		<section id="main">
 			<div class="container">
@@ -50,7 +49,7 @@
 
 							<article class="box page-content">
 								<header>
-									<h2>Officers</h2>
+									<h2>Academic Resources</h2>
 								</header>
 							</article>
 
@@ -58,14 +57,14 @@
 					</div>
 				</div>
 
-				<!-- Measage From the Board -->
+				<!-- Measage About Courses At UT -->
 				<div class="row">
 					<div class="col-12 col-12-medium">
 						<div class="content">
 							<!-- Header & Welcome message -->
 							<article class="box page-content">
 								<section>
-									<h3>A message from the board:</h3>
+									<h3>A message about courses at:</h3>
 									<p>
 										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla
 										imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut 
@@ -84,9 +83,45 @@
 					</div>
 				</div>
 
-				<!-- Officer Info Here -->
-				<div id="officer-div"></div>
+				<!-- Sorting Buttons -->
+				<div class="row">
+					<!-- <div class="col-6 col-6-medium col-12-small"> -->
+						
+					<!-- <div>
+						<h3><em>Semester</em></h3>
+						<p><button onclick="sortcourses()">Show All</button>
+						<button onclick="sortcourses(sem='Fall 2019')">Fall 2019</button>
+						<button onclick="sortcourses(sem='Spring 2020')">Spring 2020</button></p>
+					</div> -->
 
+					<!-- <div class="col-6 col-6-medium col-12-small"> -->
+					<div>
+						<!-- <h3><em>Department</em></h3> -->
+						<h3>Sorting Options:</h3>
+						<p><button onclick="sortcourses()">Show All</button>
+						<button onclick="sortcourses(dept='Geotechnical Engineering')">Geotechnical Engineering</button>
+						<button onclick="sortcourses(dept='Structural Engineering')">Structural Engineering</button>
+						<button onclick="sortcourses(dept='Transportation Engineering')">Transportation Engineering</button>
+						<button onclick="sortcourses(dept='Petroleum and Geosystems Engineering')">Petroleum and Geosystems Engineering</button>
+						<button onclick="sortcourses(dept='Geological Science')">Geological Science</button>
+						<button onclick="sortcourses(dept='Statistics and Data Sciences')">Statistics and Data Sciences</button>
+						<button onclick="sortcourses(dept='Engineering Mechanics')">Engineering Mechanics</button>
+						<button onclick="sortcourses(dept='Electrical Engineering')">Electrical Engineering</button></p>
+					</div>
+				</div>
+				<!-- </section> -->
+
+	
+				<!-- Course Info Here -->
+				<!-- <div class="row">
+					<h2 class="major"><span>Classes of Interest</span></h2>
+					<div class="col-12 col-12-medium"> -->
+				<div class="row">
+					<div id="courses-div"></div>
+				</div>
+					<!-- </div>
+				</div> -->
+					
 				<!-- Features -->
 				<section class="box features">
 					<h2 class="major"><span>What do we do</span></h2>
@@ -133,6 +168,7 @@
 						</div>
 					</div>
 				</section>
+
 			</div>
 		</section>
 
@@ -159,7 +195,7 @@
 	<script src="assets/js/breakpoints.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
-	<script src="scripts/officers.js"></script>
+	<script src="scripts/courses.js"></script>
 </body>
 
 </html>
