@@ -2,6 +2,12 @@ import pandas as pd
 import re
 import json
 
+# Inputs: 
+#   GeotechCourseWork_Clean.csv
+#
+# Outputs:
+#   survey.json
+
 data = pd.read_csv("GeotechCourseWork_Clean.csv")
 
 dept_names = ["Geotechnical Engineering",

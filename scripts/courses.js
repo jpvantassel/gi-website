@@ -8,8 +8,10 @@ function courseTemplate(course) {
                 <div class='content'>
                     <article class='box page-content'>
                         <section>
-                            <h3>${course.name} - <em>${course.department}</em></h3>
+                            <h3>${course.name}</h3>
+                            <h4>${course.department}</h4>
                             <div>
+                            <p> Next Offered: ${course.semester} ${course.year}</p>
                             <p> ${course.description} </p>
                             </div>
                         </section>

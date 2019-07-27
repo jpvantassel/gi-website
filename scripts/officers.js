@@ -8,7 +8,8 @@ function officerTemplate(person) {
                 <div class='content'>
                     <article class='box page-content'>
                         <section>
-                            <h3>${person.name} - <em>${person.position}</em></h3>
+                            <h4>${person.position}</h4>
+                            <h3>${person.name}</h3>
                             <div>
                                 <a href='#' class='image featured'><img src=${person.image} alt='' /></a>
                             </div>
@@ -21,6 +22,7 @@ function officerTemplate(person) {
                 <div class="sidebar">
                     <section>
                         <h3><br></h3>
+                        <h4><br></h4>
                         <div>
                             <p> ${person.bio} </p>
                         </div>

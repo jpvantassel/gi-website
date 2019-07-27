@@ -3,270 +3,405 @@
     "name": "Consolidation Shearing Properties of Soils",
     "department": "Geotechnical Engineering",
     "image": "images/Consolidation Shearing Properties of Soils.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15445,
+    "description": "Theoretical and experimental studies of the consolidation and shearing properties of both saturated and unsaturated soils.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Soil and Rock Dynamics",
     "department": "Geotechnical Engineering",
     "image": "images/Soil and Rock Dynamics.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15454,
+    "description": "Wave propagation in soil and rock, foundation vibration and isolation, dynamic behavior of soil.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Advanced Soil and Rock Dynamics",
     "department": "Geotechnical Engineering",
     "image": "images/Advanced Soil and Rock Dynamics.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Decision, Risk, and Reliability",
     "department": "Geotechnical Engineering",
     "image": "images/Decision, Risk, and Reliability.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Advanced Analysis of Geotechnical Engineering",
     "department": "Geotechnical Engineering",
     "image": "images/Advanced Analysis of Geotechnical Engineering.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "In-Situ Soil Characterization",
     "department": "Geotechnical Engineering",
     "image": "images/In-Situ Soil Characterization.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Geotechnical Earthquake Engineering",
     "department": "Geotechnical Engineering",
     "image": "images/Geotechnical Earthquake Engineering.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Foundation Engineering",
     "department": "Geotechnical Engineering",
     "image": "images/Foundation Engineering.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15449,
+    "description": "Bearing capacity, design of piers and pile foundations.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
-    "name": "Underground Opening",
+    "name": "Underground Openings",
     "department": "Geotechnical Engineering",
-    "image": "images/Underground Opening.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "image": "images/Underground Openings.png",
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Earth Retaining Structures",
     "department": "Geotechnical Engineering",
     "image": "images/Earth Retaining Structures.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Geoenvironmental Engineering",
     "department": "Geotechnical Engineering",
     "image": "images/Geoenvironmental Engineering.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Engineering Geology",
     "department": "Geotechnical Engineering",
     "image": "images/Engineering Geology.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Stability of Earth Slopes",
     "department": "Geotechnical Engineering",
     "image": "images/Stability of Earth Slopes.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15450,
+    "description": "Development and application of limit equilibrium procedures, including effects of seepage, rapid drawdown, and seismic loading and reinforcement for stability analysis of natural and constructed slopes.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "The Finite Element Method",
     "department": "Structural Engineering",
     "image": "images/The Finite Element Method.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15410,
+    "description": "Introductory concepts; weighted residual methods; strong and weak forms;boundary conditions; global v. local basis functions; error estimates; smooth and nonsmooth problems; one-dimensional second- and fourth-order problems; two-dimensional potential and plate problems; two-dimensional and three-dimensional elasticity; dynamic and eigenvalue problems; numerical, computational, and meshing issues; applications using commercial software.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Dynamics Response of Structures",
     "department": "Structural Engineering",
     "image": "images/Dynamics Response of Structures.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Earthquake Engineering",
     "department": "Structural Engineering",
     "image": "images/Earthquake Engineering.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15425,
+    "description": "Earthquake characteristics; seismic loads; elastic and inelastic response; analysis and design of buildings for earthquakes.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Computer Methods in Structural Analysis",
     "department": "Structural Engineering",
     "image": "images/Computer Methods in Structural Analysis.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15405,
+    "description": "Linear and nonlinear analysis of trusses and frames; introduction to structural stability; and computational aspects of linear and nonlinear structural analysis.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Design and Perf of Pavements",
     "department": "Transportation Engineering",
     "image": "images/Design and Perf of Pavements.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Bituminous Materials",
     "department": "Transportation Engineering",
     "image": "images/Bituminous Materials.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 15470,
+    "description": "Design and use of asphalt mixtures; chemical, physical, and rheological properties of asphalt; and practical applications in highways, airports, and other construction.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Advanced Geomechanics",
     "department": "Petroleum and Geosystems Engineering",
     "image": "images/Advanced Geomechanics.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 18905,
+    "description": "Recent literature on petroleum production practice and petroleum and geosystems engineering problems.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Advanced Reservoir Engineering",
     "department": "Petroleum and Geosystems Engineering",
     "image": "images/Advanced Reservoir Engineering.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 18940,
+    "description": "Basic concepts of reservoir engineering, with applications to the production of hydrocarbons from both gas and oil reservoirs. Examines the governing equations for flow in permeable media, as well as conceptssuch as streamline flow; pseudo-steady-state flow, fractional flow, and both immiscible and miscible flow. Uses black oil and compositional reservoir simulators.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Finite Element Methods",
     "department": "Petroleum and Geosystems Engineering",
     "image": "images/Finite Element Methods.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 18915,
+    "description": "Recent literature on petroleum production practice and petroleum and geosystems engineering problems.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Computational Methods in Geoscience",
     "department": "Geological Science",
     "image": "images/Computational Methods in Geoscience.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 26725,
+    "description": "A survey of geophysical data analysis methods, with a focus on time series, including sampling and aliasing, convolution and correlation, statistics, linear digital filters, properties and applications of the discrete Fourier transform, and least squares. Instruction in MATLAB andFortran and solution of data analysis problems using these two languages.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Inverse Theory",
     "department": "Geological Science",
     "image": "images/Inverse Theory.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 26745,
+    "description": "Vector spaces; model parameter estimation methods from inaccurate, insufficient, and inadequate measurements; linear, quasi-linear, and highly non-linear problems; local and global optimization methods. Emphasis on practical problem solving.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Geomorphology Process & Form",
     "department": "Geological Science",
     "image": "images/Geomorphology Process & Form.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Seismology 1",
     "department": "Geological Science",
     "image": "images/Seismology 1.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 26735,
+    "description": "Seismic, gravity, magnetic, electrical, and electromagnetic methods of exploration for petroleum and minerals.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Seismology 2",
     "department": "Geological Science",
     "image": "images/Seismology 2.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 26704,
+    "description": "Basic seismology theory and its application to the study of the interior of the Earth (crust, mantle, and core), earthquakes, and plate tectonics.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Advanced Structural Geology",
     "department": "Geological Science",
     "image": "images/Advanced Structural Geology.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 26700,
+    "description": "Origin of earth structures, solution of advanced structural problems, newest techniques, field techniques, and field problems.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Seismic Imaging",
     "department": "Geological Science",
     "image": "images/Seismic Imaging.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 26754,
+    "description": "Seismic reflection imaging for visualizing the interior of Earth's upper crust. Study of fundamental imaging concepts from a unified geometrical point of view. Hands-on practical experience with imaging seismic data in an open-source software environment.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Modeling flow and transport through porous materials",
     "department": "Geological Science",
     "image": "images/Modeling flow and transport through porous materials.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Vadose Zone Hydrology",
     "department": "Geological Science",
     "image": "images/Vadose Zone Hydrology.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Crustal Geofluids",
     "department": "Geological Science",
     "image": "images/Crustal Geofluids.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Statistical Methods 1",
     "department": "Statistics and Data Sciences",
     "image": "images/Statistical Methods 1.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 55625,
+    "description": "Introduction to the fundamental concepts and methods of statistics. Includes descriptive statistics, sampling distributions, confidence intervals, and hypothesis testing. May include simple and multiple linear regression, analysis of variance, and categorical analysis. Use of statistical software is emphasized.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Statistical Methods 2",
     "department": "Statistics and Data Sciences",
     "image": "images/Statistical Methods 2.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Monte Carlo Methods in Stats",
     "department": "Statistics and Data Sciences",
     "image": "images/Monte Carlo Methods in Stats.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Bootstrap Statistics",
     "department": "Statistics and Data Sciences",
     "image": "images/Bootstrap Statistics.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Regression Analysis",
     "department": "Statistics and Data Sciences",
     "image": "images/Regression Analysis.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 55640,
+    "description": "Concepts of probability and mathematical statistics with applications in data analysis and research. Simple and multiple linear regression, inference in regression, prediction of new observations, diagnosis and remedial measures, transformations, and model building. Emphasis on both understanding the theory and applying theory to analyze data.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Solid Mechanics 1",
     "department": "Engineering Mechanics",
     "image": "images/Solid Mechanics 1.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 13775,
+    "description": "Mathematical description of stress, deformation, and constitutive equations of solid mechanics; boundary value problems of elasticity.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Solid Mechanics 2",
     "department": "Engineering Mechanics",
     "image": "images/Solid Mechanics 2.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Advanced Theory of Finite Element Methods",
     "department": "Engineering Mechanics",
     "image": "images/Advanced Theory of Finite Element Methods.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Wave Propagation 1",
     "department": "Engineering Mechanics",
     "image": "images/Wave Propagation 1.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Acoustics 1",
     "department": "Electrical Engineering",
     "image": "images/Acoustics 1.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 16770,
+    "description": "Plane waves in fluids; transient and steady-state reflection and transmission; lumped elements; refraction; strings, membranes, and rooms; horns; ray acoustics; absorption and dispersion.",
+    "year": 2019,
+    "semester": "Fall"
   },
   {
     "name": "Acoustics 2",
     "department": "Electrical Engineering",
     "image": "images/Acoustics 2.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Wave Phenomena",
     "department": "Electrical Engineering",
     "image": "images/Wave Phenomena.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": null,
+    "description": "Description forthcoming.",
+    "year": null,
+    "semester": null
   },
   {
     "name": "Electromechanical Transducers",
     "department": "Electrical Engineering",
     "image": "images/Electromechanical Transducers.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."
+    "unique": 16775,
+    "description": "Modeling, analysis, and design of transducers for reception and transmission of acoustic and vibration signals; dynamics of coupled electrical, mechanical, and acoustical systems; and the effects of transducer characteristics on fidelity and efficiency of transduction.",
+    "year": 2019,
+    "semester": "Fall"
   }
 ]

@@ -1,0 +1,288 @@
+{
+  "Geotechnical Engineering": {
+    "Consolidation Shearing Properties of Soils": {
+      "unique": 15445,
+      "description": "Theoretical and experimental studies of the consolidation and shearing properties of both saturated and unsaturated soils.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Soil and Rock Dynamics": {
+      "unique": 15454,
+      "description": "Wave propagation in soil and rock, foundation vibration and isolation, dynamic behavior of soil.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Advanced Soil and Rock Dynamics": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Decision, Risk, and Reliability": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Advanced Analysis of Geotechnical Engineering": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "In-Situ Soil Characterization": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Geotechnical Earthquake Engineering": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Foundation Engineering": {
+      "unique": 15449,
+      "description": "Bearing capacity, design of piers and pile foundations.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Underground Openings": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Earth Retaining Structures": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Geoenvironmental Engineering": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Engineering Geology": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Stability of Earth Slopes": {
+      "unique": 15450,
+      "description": "Development and application of limit equilibrium procedures, including effects of seepage, rapid drawdown, and seismic loading and reinforcement for stability analysis of natural and constructed slopes.",
+      "year": 2019,
+      "semester": "Fall"
+    }
+  },
+  "Structural Engineering": {
+    "The Finite Element Method": {
+      "unique": 15410,
+      "description": "Introductory concepts; weighted residual methods; strong and weak forms;boundary conditions; global v. local basis functions; error estimates; smooth and nonsmooth problems; one-dimensional second- and fourth-order problems; two-dimensional potential and plate problems; two-dimensional and three-dimensional elasticity; dynamic and eigenvalue problems; numerical, computational, and meshing issues; applications using commercial software.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Dynamics Response of Structures": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Earthquake Engineering": {
+      "unique": 15425,
+      "description": "Earthquake characteristics; seismic loads; elastic and inelastic response; analysis and design of buildings for earthquakes.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Computer Methods in Structural Analysis": {
+      "unique": 15405,
+      "description": "Linear and nonlinear analysis of trusses and frames; introduction to structural stability; and computational aspects of linear and nonlinear structural analysis.",
+      "year": 2019,
+      "semester": "Fall"
+    }
+  },
+  "Transportation Engineering": {
+    "Design and Perf of Pavements": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Bituminous Materials": {
+      "unique": 15470,
+      "description": "Design and use of asphalt mixtures; chemical, physical, and rheological properties of asphalt; and practical applications in highways, airports, and other construction.",
+      "year": 2019,
+      "semester": "Fall"
+    }
+  },
+  "Petroleum and Geosystems Engineering": {
+    "Advanced Geomechanics": {
+      "unique": 18905,
+      "description": "Recent literature on petroleum production practice and petroleum and geosystems engineering problems.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Advanced Reservoir Engineering": {
+      "unique": 18940,
+      "description": "Basic concepts of reservoir engineering, with applications to the production of hydrocarbons from both gas and oil reservoirs. Examines the governing equations for flow in permeable media, as well as conceptssuch as streamline flow; pseudo-steady-state flow, fractional flow, and both immiscible and miscible flow. Uses black oil and compositional reservoir simulators.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Finite Element Methods": {
+      "unique": 18915,
+      "description": "Recent literature on petroleum production practice and petroleum and geosystems engineering problems.",
+      "year": 2019,
+      "semester": "Fall"
+    }
+  },
+  "Geological Science": {
+    "Computational Methods in Geoscience": {
+      "unique": 26725,
+      "description": "A survey of geophysical data analysis methods, with a focus on time series, including sampling and aliasing, convolution and correlation, statistics, linear digital filters, properties and applications of the discrete Fourier transform, and least squares. Instruction in MATLAB andFortran and solution of data analysis problems using these two languages.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Inverse Theory": {
+      "unique": 26745,
+      "description": "Vector spaces; model parameter estimation methods from inaccurate, insufficient, and inadequate measurements; linear, quasi-linear, and highly non-linear problems; local and global optimization methods. Emphasis on practical problem solving.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Geomorphology Process & Form": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Seismology 1": {
+      "unique": 26735,
+      "description": "Seismic, gravity, magnetic, electrical, and electromagnetic methods of exploration for petroleum and minerals.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Seismology 2": {
+      "unique": 26704,
+      "description": "Basic seismology theory and its application to the study of the interior of the Earth (crust, mantle, and core), earthquakes, and plate tectonics.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Advanced Structural Geology": {
+      "unique": 26700,
+      "description": "Origin of earth structures, solution of advanced structural problems, newest techniques, field techniques, and field problems.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Seismic Imaging": {
+      "unique": 26754,
+      "description": "Seismic reflection imaging for visualizing the interior of Earth's upper crust. Study of fundamental imaging concepts from a unified geometrical point of view. Hands-on practical experience with imaging seismic data in an open-source software environment.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Modeling flow and transport through porous materials": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Vadose Zone Hydrology": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Crustal Geofluids": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    }
+  },
+  "Statistics and Data Sciences": {
+    "Statistical Methods 1": {
+      "unique": 55625,
+      "description": "Introduction to the fundamental concepts and methods of statistics. Includes descriptive statistics, sampling distributions, confidence intervals, and hypothesis testing. May include simple and multiple linear regression, analysis of variance, and categorical analysis. Use of statistical software is emphasized.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Statistical Methods 2": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Monte Carlo Methods in Stats": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Bootstrap Statistics": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Regression Analysis": {
+      "unique": 55640,
+      "description": "Concepts of probability and mathematical statistics with applications in data analysis and research. Simple and multiple linear regression, inference in regression, prediction of new observations, diagnosis and remedial measures, transformations, and model building. Emphasis on both understanding the theory and applying theory to analyze data.",
+      "year": 2019,
+      "semester": "Fall"
+    }
+  },
+  "Engineering Mechanics": {
+    "Solid Mechanics 1": {
+      "unique": 13775,
+      "description": "Mathematical description of stress, deformation, and constitutive equations of solid mechanics; boundary value problems of elasticity.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Solid Mechanics 2": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Advanced Theory of Finite Element Methods": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Wave Propagation 1": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    }
+  },
+  "Electrical Engineering": {
+    "Acoustics 1": {
+      "unique": 16770,
+      "description": "Plane waves in fluids; transient and steady-state reflection and transmission; lumped elements; refraction; strings, membranes, and rooms; horns; ray acoustics; absorption and dispersion.",
+      "year": 2019,
+      "semester": "Fall"
+    },
+    "Acoustics 2": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Wave Phenomena": {
+      "unique": null,
+      "description": "Description forthcoming.",
+      "year": null,
+      "semester": null
+    },
+    "Electromechanical Transducers": {
+      "unique": 16775,
+      "description": "Modeling, analysis, and design of transducers for reception and transmission of acoustic and vibration signals; dynamics of coupled electrical, mechanical, and acoustical systems; and the effects of transducer characteristics on fidelity and efficiency of transduction.",
+      "year": 2019,
+      "semester": "Fall"
+    }
+  }
+}

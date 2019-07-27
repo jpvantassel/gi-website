@@ -8,6 +8,9 @@ plt.style.use('seaborn-colorblind')
 with open("survey.json", "r") as f:
     survey = json.load(f)
 
+with open("coursedetails.json", "r") as f:
+    details = json.load(f)
+
 x = [1, 2, 3, 4, 5]
 labels = ["Warn against",
           "Not recommend",
@@ -16,6 +19,7 @@ labels = ["Warn against",
           "Strongly recommend",
           ]
 width = 0.75
+
 
 def autolabel(rects):
     """Attach a text label above each bar in *rects*, displaying its height."""
@@ -27,8 +31,10 @@ def autolabel(rects):
                     textcoords="offset points",
                     ha='center', va='bottom')
 
+# Test Case
 # dept = "Geotechnical Engineering"
 # course = "Consolidation Shearing Properties of Soils"
+
 
 courses = []
 for dept in survey.keys():
@@ -72,9 +78,13 @@ for dept in survey.keys():
         plt.close()
 
         courses += [{"name": course,
-                        "department": dept,
-                        "image": fpath,
-                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fringilla imperdiet est in lobortis.Vivamus eu egestas mauris, et dictum nibh. Sed ut condimentum turpis, venenatis lacinia sapien. Etiam vehicula faucibus quam non bibendum. Quisque finibus auctor volutpat. Integer nisi nibh, ultrices sed enim sit amet, ullamcorper laoreet lacus. Donec suscipit in eros nec rhoncus. Vestibulum ultricies rutrum lorem, et bibendum elit mollis vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc quis consectetur massa. Aenean euismod ut eros sit amet eleifend. Aenean1 massa mi, lacinia vitae volutpat eget, porttitor sed urna. Aliquam erat volutpat."}]
+                     "department": dept,
+                     "image": fpath,
+                     "unique": details[dept][course]["unique"],
+                     "description": details[dept][course]["description"],
+                     "year": details[dept][course]["year"],
+                     "semester": details[dept][course]["semester"],
+                     }]
 
 with open("courses.json", "w") as f:
     json.dump(courses, f, indent=2)
