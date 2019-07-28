@@ -11,7 +11,7 @@ function eventTemplate(event) {
                             <h3 style='text-align:center'>${event.name}</h3>
                             <h4 style='text-align:center'>${event.semester}</h4>
                             <div>
-                                <a href='#' class='image sixty'><img src=${event.image} alt='' /></a>
+                                <a class="image featured"><img src=${event.image} alt='' /></a>
                             </div>
                         </section>
                     </article>

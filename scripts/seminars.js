@@ -11,7 +11,7 @@ function seminarTemplate(seminar) {
                             <h3 style='text-align:center'>${seminar.name}</h3>
                             <h4 style='text-align:center'>${seminar.date}</h4>
                             <div>
-                                <a href='#' class='image sixty'><img src=${seminar.image} alt='' /></a>
+                                <a class="image featured"><img src=${seminar.image} alt='' /></a>
                             </div>
                         </section>
                     </article>
