@@ -207,7 +207,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 3em;
+		margin-bottom: 1em;
 	}
 
 /* Section/Article */
@@ -1776,14 +1776,14 @@ input, select, textarea {
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 2em 0;
+			margin: 0 0 1.5em 0;
 		}
 
 		.image.sixty {
 			display: block;
 			float: center;
 			width: 60%;
-			margin: 0 auto;	
+			margin: 1em auto;	
 		}
 
 		.image.left {
@@ -1793,7 +1793,7 @@ input, select, textarea {
 
 		.image.centered {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 0 0 1.5em 0;
 		}
 
 			.image.centered img {
@@ -2994,7 +2994,7 @@ input, select, textarea {
 		/* Section/Article */
 
 			section, article {
-				margin-bottom: 2em;
+				margin-bottom: 1em;
 			}
 
 		/* Button */

@@ -19,10 +19,10 @@ function courseTemplate(course) {
                 </div>
             </div>
             <div class="col-5 col-12-medium">
-                <div class="sidebar">
+                <div class="content">
                     <section>
                         <div>
-                        <a href='#' class='image featured'><img src="${course.image}" alt='' /></a>
+                        <a href="#filter" class='image featured'><img src="${course.image}" alt='' /></a>
                         </div>
                     </section>
                 </div>
