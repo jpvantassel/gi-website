@@ -121,7 +121,7 @@
     "department": "Structural Engineering",
     "image": "images/The Finite Element Method.png",
     "unique": 15410,
-    "description": "Introductory concepts; weighted residual methods; strong and weak forms;boundary conditions; global v. local basis functions; error estimates; smooth and nonsmooth problems; one-dimensional second- and fourth-order problems; two-dimensional potential and plate problems; two-dimensional and three-dimensional elasticity; dynamic and eigenvalue problems; numerical, computational, and meshing issues; applications using commercial software.",
+    "description": "Introductory concepts; weighted residual methods; strong and weak forms; boundary conditions; global v. local basis functions; error estimates; smooth and nonsmooth problems; one-dimensional second- and fourth-order problems; two-dimensional potential and plate problems; two-dimensional and three-dimensional elasticity; dynamic and eigenvalue problems; numerical, computational, and meshing issues; applications using commercial software.",
     "year": 2019,
     "semester": "Fall"
   },
@@ -202,7 +202,7 @@
     "department": "Geological Science",
     "image": "images/Computational Methods in Geoscience.png",
     "unique": 26725,
-    "description": "A survey of geophysical data analysis methods, with a focus on time series, including sampling and aliasing, convolution and correlation, statistics, linear digital filters, properties and applications of the discrete Fourier transform, and least squares. Instruction in MATLAB andFortran and solution of data analysis problems using these two languages.",
+    "description": "A survey of geophysical data analysis methods, with a focus on time series, including sampling and aliasing, convolution and correlation, statistics, linear digital filters, properties and applications of the discrete Fourier transform, and least squares. Instruction in MATLAB and Fortran and solution of data analysis problems using these two languages.",
     "year": 2019,
     "semester": "Fall"
   },
