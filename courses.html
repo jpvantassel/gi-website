@@ -91,33 +91,34 @@
 
 				<!-- Sorting Buttons -->
 				<div class="row">
-					<!-- <div class="col-6 col-6-medium col-12-small"> -->
-						
-					<!-- <div>
-						<h3><em>Semester</em></h3>
-						<p><button onclick="sortcourses()">Show All</button>
-						<button onclick="sortcourses(sem='Fall 2019')">Fall 2019</button>
-						<button onclick="sortcourses(sem='Spring 2020')">Spring 2020</button></p>
-					</div> -->
-
-					<!-- <div class="col-6 col-6-medium col-12-small"> -->
-					<div id="filter">
-						<!-- <h3><em>Department</em></h3> -->
-						<h3>Filter Courses By:</h3>
-						<p style="text-align:left;"><button onclick="sortcourses()">Show All</button>
-						<button onclick="sortcourses(dept='Geotechnical Engineering')">Geotechnical Engineering</button>
-						<button onclick="sortcourses(dept='Structural Engineering')">Structural Engineering</button>
-						<button onclick="sortcourses(dept='Transportation Engineering')">Transportation Engineering</button>
-						<button onclick="sortcourses(dept='Petroleum and Geosystems Engineering')">Petroleum and Geosystems Engineering</button>
-						<button onclick="sortcourses(dept='Geological Science')">Geological Science</button>
-						<button onclick="sortcourses(dept='Statistics and Data Sciences')">Statistics and Data Sciences</button>
-						<button onclick="sortcourses(dept='Engineering Mechanics')">Engineering Mechanics</button>
-						<button onclick="sortcourses(dept='Electrical Engineering')">Electrical Engineering</button></p>
-					</div>
+				<div id="filter">
+					<h3>Filter Courses By:</h3>
+					<p style="text-align:left; margin-bottom:3em">
+						<button onclick="sortcourses()">Show All</button>
+						<button onclick="sortcourses(area='Geotechnical Engineering')">Geotechnical Engineering</button>
+						<button onclick="sortcourses(area='Geological Science')">Geological Science</button>
+						<button onclick="sortcourses(area='Structural Engineering')">Structural Engineering</button>
+						<button onclick="sortcourses(area='Transportation Engineering')">Transportation Engineering</button>
+						<button onclick="sortcourses(area='Petroleum and Geosystems Engineering')">Petroleum and Geosystems Engineering</button>
+						<button onclick="sortcourses(area='Statistics and Data Sciences')">Statistics and Data Sciences</button>
+						<button onclick="sortcourses(area='Engineering Mechanics')">Engineering Mechanics</button>
+						<button onclick="sortcourses(area='Electrical Engineering')">Electrical Engineering</button>
+					</p>
 				</div>
-				<!-- </section> -->
+			</div>
 
-	
+					<!-- <div id="filter"> -->
+						<!-- <select id="area" onchange="sortcourses()">
+							<option>All</option>
+							<option>Geotechnical Engineering</option>
+							<option>Structural Engineering</option>
+					  	</select> -->
+					  
+						<!-- <p style="text-align:left;">
+						  <button onclick="sortcourses()">Sort</button>
+						</p> -->
+					<!-- </div> -->
+
 				<!-- Course Info Here -->
 				<div class="row">
 					<div id="courses-div"></div>

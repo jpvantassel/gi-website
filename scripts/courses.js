@@ -2,16 +2,24 @@
 // Written on: 7/6/2019
 
 function courseTemplate(course) {
+    if (course.next_offered.announced) {
+        var next_offered = course.next_offered.semester+" "+course.next_offered.year;
+    } else {
+        var next_offered = "Forthcoming";
+    }
     return `	
         <div class='row'>
             <div class='col-7 col-12-medium'>
                 <div class='content'>
                     <article class='box page-content'>
                         <section>
-                            <h3>${course.name}</h3>
-                            <h4>${course.department}</h4>
+                            <h3>${course.name} - ${course.department}${course.number}</h3>
+                            <h4>${course.area}</h4>
                             <div>
-                            <p> Next Offered: ${course.semester} ${course.year}</p>
+                            <p>
+                                Last Offered: ${course.last_offered.semester} ${course.last_offered.year}<br>
+                                Next Offered: ${next_offered}
+                            </p>
                             <p> ${course.description} </p>
                             </div>
                         </section>
@@ -31,13 +39,24 @@ function courseTemplate(course) {
     `
 }
 
-function sortcourses(dept=true) {
+function sortcourses(area='All') {
+    // var area = document.getElementById("area").selectedIndex;
+    // var area_text = document.getElementById("area").options;
+    
     $.getJSON('data/courses.json', function (raw_data) {
         var sorted_data=[]
         
-        for (var i=0; i<raw_data.length; i++) {
-            if (raw_data[i].department==dept | dept) {
-                sorted_data.push(raw_data[i])
+        // for (var i=0; i<raw_data.length; i++) {
+        //     if (raw_data[i].department==dept | dept) {
+        //         sorted_data.push(raw_data[i])
+        //     }
+        // }
+
+        for (var area_key in raw_data) {
+            for (var name_key in raw_data[area_key]) {
+                if (area_key==area | area=='All') {
+                    sorted_data.push(raw_data[area_key][name_key])
+                }
             }
         }
         document.getElementById("courses-div").innerHTML = `
@@ -47,7 +66,13 @@ function sortcourses(dept=true) {
 }
 
 $.getJSON('data/courses.json', function (raw_data) {
+    var course=[]
+    for (var area_key in raw_data) {
+        for (var name_key in raw_data[area_key]) {
+            course.push(raw_data[area_key][name_key]);
+        } 
+    }
     document.getElementById("courses-div").innerHTML = `
-    ${raw_data.map(courseTemplate).join('')}
+    ${course.map(courseTemplate).join('')}
     `
 });
