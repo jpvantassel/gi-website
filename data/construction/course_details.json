@@ -13,7 +13,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Soil and Rock Dynamics": {
       "department": "CE",
@@ -28,7 +31,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Advanced Soil and Rock Dynamics": {
       "department": "CE",
@@ -43,7 +49,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Decision, Risk, and Reliability": {
       "department": "CE",
@@ -58,7 +67,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design",
+        "Theory"
+      ]
     },
     "Advanced Analysis of Geotechnical Engineering": {
       "department": "CE",
@@ -73,7 +86,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "In-Situ Soil Characterization": {
       "department": "CE",
@@ -88,7 +105,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design"
+      ]
     },
     "Geotechnical Earthquake Engineering": {
       "department": "CE",
@@ -103,7 +123,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design",
+        "Theory"
+      ]
     },
     "Foundation Engineering": {
       "department": "CE",
@@ -118,7 +142,10 @@
         "announced": true,
         "year": "Fall",
         "semester": 2019
-      }
+      },
+      "topic":[
+        "Design"
+      ]
     },
     "Underground Openings": {
       "department": "CE",
@@ -133,7 +160,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Earth Retaining Structures": {
       "department": "CE",
@@ -148,7 +178,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design",
+        "Theory"
+      ]
     },
     "Geoenvironmental Engineering": {
       "department": "CE",
@@ -163,7 +197,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design",
+        "Theory"
+      ]
     },
     "Engineering Geology": {
       "department": "CE",
@@ -178,7 +216,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design"
+      ]
     },
     "Stability of Earth Slopes": {
       "department": "CE",
@@ -193,7 +234,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Design"
+      ]
     }
   },
   "Structural Engineering": {
@@ -210,7 +254,11 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Dynamics Response of Structures": {
       "department": "CE",
@@ -225,7 +273,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Earthquake Engineering": {
       "department": "CE",
@@ -240,7 +291,12 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Design",
+        "Theory"
+      ]
     },
     "Computer Methods in Structural Analysis": {
       "department": "CE",
@@ -255,7 +311,12 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Design",
+        "Theory"
+      ]
     }
   },
   "Transportation Engineering": {
@@ -272,7 +333,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design",
+        "Theory"
+      ]
     },
     "Bituminous Materials": {
       "department": "CE",
@@ -287,7 +352,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Design"
+      ]
     }
   },
   "Petroleum and Geosystems Engineering": {
@@ -304,7 +372,11 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Advanced Reservoir Engineering": {
       "department": "PGE",
@@ -319,7 +391,11 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Finite Element Methods": {
       "department": "PGE",
@@ -334,7 +410,11 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     }
   },
   "Geological Science": {
@@ -351,7 +431,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Seismology 2": {
       "department": "GEO",
@@ -366,7 +449,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Computational Methods in Geoscience": {
       "department": "GEO",
@@ -381,7 +467,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling"
+      ]
     },
     "Inverse Theory": {
       "department": "GEO",
@@ -396,7 +485,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Geomorphology Process & Form": {
       "department": "GEO",
@@ -411,7 +503,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Seismology 1": {
       "department": "GEO",
@@ -426,7 +521,11 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Design",
+        "Theory"
+      ]
     },
     "Seismic Imaging": {
       "department": "GEO",
@@ -441,7 +540,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Modeling flow and transport through porous materials": {
       "department": "GEO",
@@ -456,7 +558,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Vadose Zone Hydrology": {
       "department": "GEO",
@@ -471,7 +577,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Crustal Geofluids": {
       "department": "GEO",
@@ -486,7 +596,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     }
   },
   "Statistics and Data Sciences": {
@@ -503,7 +617,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Statistical Methods 2": {
       "department": "SDS",
@@ -518,7 +635,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Monte Carlo Methods in Stats": {
       "department": "SDS",
@@ -533,7 +653,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Bootstrap Statistics": {
       "department": "SDS",
@@ -548,7 +672,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Regression Analysis": {
       "department": "SDS",
@@ -563,7 +691,11 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     }
   },
   "Engineering Mechanics": {
@@ -580,7 +712,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Solid Mechanics 2": {
       "department": "EM",
@@ -595,7 +730,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Advanced Theory of Finite Element Methods": {
       "department": "EM",
@@ -610,7 +748,11 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     },
     "Wave Propagation 1": {
       "department": "EM",
@@ -625,7 +767,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     }
   },
   "Electrical Engineering": {
@@ -642,7 +787,10 @@
         "announced": true,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Acoustics 2": {
       "department": "EE",
@@ -657,7 +805,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Wave Phenomena": {
       "department": "EE",
@@ -672,7 +823,10 @@
         "announced": false,
         "year": null,
         "semester": null
-      }
+      },
+      "topic":[
+        "Theory"
+      ]
     },
     "Electromechanical Transducers": {
       "department": "EE",
@@ -687,7 +841,12 @@
         "announced": false,
         "year": 2019,
         "semester": "Fall"
-      }
+      },
+      "topic":[
+        "Modeling",
+        "Design",
+        "Theory"
+      ]
     }
   }
 }

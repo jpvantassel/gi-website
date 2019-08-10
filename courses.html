@@ -89,35 +89,44 @@
 					</div>
 				</div>
 
-				<!-- Sorting Buttons -->
-				<div class="row">
-				<div id="filter">
-					<h3>Filter Courses By:</h3>
-					<p style="text-align:left; margin-bottom:3em">
-						<button onclick="sortcourses()">Show All</button>
-						<button onclick="sortcourses(area='Geotechnical Engineering')">Geotechnical Engineering</button>
-						<button onclick="sortcourses(area='Geological Science')">Geological Science</button>
-						<button onclick="sortcourses(area='Structural Engineering')">Structural Engineering</button>
-						<button onclick="sortcourses(area='Transportation Engineering')">Transportation Engineering</button>
-						<button onclick="sortcourses(area='Petroleum and Geosystems Engineering')">Petroleum and Geosystems Engineering</button>
-						<button onclick="sortcourses(area='Statistics and Data Sciences')">Statistics and Data Sciences</button>
-						<button onclick="sortcourses(area='Engineering Mechanics')">Engineering Mechanics</button>
-						<button onclick="sortcourses(area='Electrical Engineering')">Electrical Engineering</button>
-					</p>
-				</div>
-			</div>
+				<!-- Proper Filter -->
+				<h3>Filter Courses By:</h3>
+				<div class="row" style="margin-bottom:3em; margin-top: 1em">
+					
+					<div class="col-4 col-6-medium col-12-small" style="padding: 0">
+						<h3 style="text-align: center">Semester</h3>
+						<select class="dropotron select" id="next" onchange="sortcourses()">
+							<option>All</option>
+							<option>Fall 2019</option>
+						</select>
+					</div>
 
-					<!-- <div id="filter"> -->
-						<!-- <select id="area" onchange="sortcourses()">
+					<div class="col-4 col-6-medium col-12-small" style="padding: 0">
+						<h3 style="text-align: center">Area</h3>
+						<select class="dropotron select" id="area" onchange="sortcourses()">
 							<option>All</option>
 							<option>Geotechnical Engineering</option>
+							<option>Geological Science</option>
 							<option>Structural Engineering</option>
-					  	</select> -->
-					  
-						<!-- <p style="text-align:left;">
-						  <button onclick="sortcourses()">Sort</button>
-						</p> -->
-					<!-- </div> -->
+							<option>Transportation Engineering</option>
+							<option>Petroleum and Geosystems Engineering</option>
+							<option>Statistics and Data Sciences</option>
+							<option>Engineering Mechanics</option>
+							<option>Electrical Engineering</option>
+						</select>
+					</div>
+
+					<div class="col-4 col-6-medium col-12-small" style="padding: 0">
+						<h3 style="text-align: center">Topic</h3>
+						<select class="dropotron select" id="topic" onchange="sortcourses()">
+							<option>All</option>
+							<option>Modeling</option>
+							<option>Design</option>
+							<option>Theory</option>
+						</select>
+					</div>
+
+				</div>
 
 				<!-- Course Info Here -->
 				<div class="row">

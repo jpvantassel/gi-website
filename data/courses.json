@@ -14,6 +14,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Consolidation Shearing Properties of Soils.png",
       "area": "Geotechnical Engineering",
       "name": "Consolidation Shearing Properties of Soils"
@@ -32,6 +35,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Soil and Rock Dynamics.png",
       "area": "Geotechnical Engineering",
       "name": "Soil and Rock Dynamics"
@@ -50,6 +56,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Advanced Soil and Rock Dynamics.png",
       "area": "Geotechnical Engineering",
       "name": "Advanced Soil and Rock Dynamics"
@@ -68,6 +77,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design",
+        "Theory"
+      ],
       "image": "images/Decision, Risk, and Reliability.png",
       "area": "Geotechnical Engineering",
       "name": "Decision, Risk, and Reliability"
@@ -86,6 +99,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Advanced Analysis of Geotechnical Engineering.png",
       "area": "Geotechnical Engineering",
       "name": "Advanced Analysis of Geotechnical Engineering"
@@ -104,6 +121,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design"
+      ],
       "image": "images/In-Situ Soil Characterization.png",
       "area": "Geotechnical Engineering",
       "name": "In-Situ Soil Characterization"
@@ -122,6 +142,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design",
+        "Theory"
+      ],
       "image": "images/Geotechnical Earthquake Engineering.png",
       "area": "Geotechnical Engineering",
       "name": "Geotechnical Earthquake Engineering"
@@ -140,6 +164,9 @@
         "year": "Fall",
         "semester": 2019
       },
+      "topic": [
+        "Design"
+      ],
       "image": "images/Foundation Engineering.png",
       "area": "Geotechnical Engineering",
       "name": "Foundation Engineering"
@@ -158,6 +185,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Underground Openings.png",
       "area": "Geotechnical Engineering",
       "name": "Underground Openings"
@@ -176,6 +206,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design",
+        "Theory"
+      ],
       "image": "images/Earth Retaining Structures.png",
       "area": "Geotechnical Engineering",
       "name": "Earth Retaining Structures"
@@ -194,6 +228,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design",
+        "Theory"
+      ],
       "image": "images/Geoenvironmental Engineering.png",
       "area": "Geotechnical Engineering",
       "name": "Geoenvironmental Engineering"
@@ -212,6 +250,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design"
+      ],
       "image": "images/Engineering Geology.png",
       "area": "Geotechnical Engineering",
       "name": "Engineering Geology"
@@ -230,6 +271,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Design"
+      ],
       "image": "images/Stability of Earth Slopes.png",
       "area": "Geotechnical Engineering",
       "name": "Stability of Earth Slopes"
@@ -250,6 +294,10 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/The Finite Element Method.png",
       "area": "Structural Engineering",
       "name": "The Finite Element Method"
@@ -268,6 +316,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Dynamics Response of Structures.png",
       "area": "Structural Engineering",
       "name": "Dynamics Response of Structures"
@@ -286,6 +337,11 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Design",
+        "Theory"
+      ],
       "image": "images/Earthquake Engineering.png",
       "area": "Structural Engineering",
       "name": "Earthquake Engineering"
@@ -304,6 +360,11 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Design",
+        "Theory"
+      ],
       "image": "images/Computer Methods in Structural Analysis.png",
       "area": "Structural Engineering",
       "name": "Computer Methods in Structural Analysis"
@@ -324,6 +385,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design",
+        "Theory"
+      ],
       "image": "images/Design and Perf of Pavements.png",
       "area": "Transportation Engineering",
       "name": "Design and Perf of Pavements"
@@ -342,6 +407,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Design"
+      ],
       "image": "images/Bituminous Materials.png",
       "area": "Transportation Engineering",
       "name": "Bituminous Materials"
@@ -362,6 +430,10 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Advanced Geomechanics.png",
       "area": "Petroleum and Geosystems Engineering",
       "name": "Advanced Geomechanics"
@@ -380,6 +452,10 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Advanced Reservoir Engineering.png",
       "area": "Petroleum and Geosystems Engineering",
       "name": "Advanced Reservoir Engineering"
@@ -398,6 +474,10 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Finite Element Methods.png",
       "area": "Petroleum and Geosystems Engineering",
       "name": "Finite Element Methods"
@@ -418,6 +498,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Advanced Structural Geology.png",
       "area": "Geological Science",
       "name": "Advanced Structural Geology"
@@ -436,6 +519,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Seismology 2.png",
       "area": "Geological Science",
       "name": "Seismology 2"
@@ -454,6 +540,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling"
+      ],
       "image": "images/Computational Methods in Geoscience.png",
       "area": "Geological Science",
       "name": "Computational Methods in Geoscience"
@@ -472,6 +561,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Inverse Theory.png",
       "area": "Geological Science",
       "name": "Inverse Theory"
@@ -490,6 +582,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Geomorphology Process & Form.png",
       "area": "Geological Science",
       "name": "Geomorphology Process & Form"
@@ -508,6 +603,10 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Design",
+        "Theory"
+      ],
       "image": "images/Seismology 1.png",
       "area": "Geological Science",
       "name": "Seismology 1"
@@ -526,6 +625,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Seismic Imaging.png",
       "area": "Geological Science",
       "name": "Seismic Imaging"
@@ -544,6 +646,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Modeling flow and transport through porous materials.png",
       "area": "Geological Science",
       "name": "Modeling flow and transport through porous materials"
@@ -562,6 +668,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Vadose Zone Hydrology.png",
       "area": "Geological Science",
       "name": "Vadose Zone Hydrology"
@@ -580,6 +690,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Crustal Geofluids.png",
       "area": "Geological Science",
       "name": "Crustal Geofluids"
@@ -600,6 +714,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Statistical Methods 1.png",
       "area": "Statistics and Data Sciences",
       "name": "Statistical Methods 1"
@@ -618,6 +735,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Statistical Methods 2.png",
       "area": "Statistics and Data Sciences",
       "name": "Statistical Methods 2"
@@ -636,6 +756,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Monte Carlo Methods in Stats.png",
       "area": "Statistics and Data Sciences",
       "name": "Monte Carlo Methods in Stats"
@@ -654,6 +778,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Bootstrap Statistics.png",
       "area": "Statistics and Data Sciences",
       "name": "Bootstrap Statistics"
@@ -672,6 +800,10 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Regression Analysis.png",
       "area": "Statistics and Data Sciences",
       "name": "Regression Analysis"
@@ -692,6 +824,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Solid Mechanics 1.png",
       "area": "Engineering Mechanics",
       "name": "Solid Mechanics 1"
@@ -710,6 +845,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Solid Mechanics 2.png",
       "area": "Engineering Mechanics",
       "name": "Solid Mechanics 2"
@@ -728,6 +866,10 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
       "image": "images/Advanced Theory of Finite Element Methods.png",
       "area": "Engineering Mechanics",
       "name": "Advanced Theory of Finite Element Methods"
@@ -746,6 +888,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Wave Propagation 1.png",
       "area": "Engineering Mechanics",
       "name": "Wave Propagation 1"
@@ -766,6 +911,9 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Acoustics 1.png",
       "area": "Electrical Engineering",
       "name": "Acoustics 1"
@@ -784,6 +932,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Acoustics 2.png",
       "area": "Electrical Engineering",
       "name": "Acoustics 2"
@@ -802,6 +953,9 @@
         "year": null,
         "semester": null
       },
+      "topic": [
+        "Theory"
+      ],
       "image": "images/Wave Phenomena.png",
       "area": "Electrical Engineering",
       "name": "Wave Phenomena"
@@ -820,6 +974,11 @@
         "year": 2019,
         "semester": "Fall"
       },
+      "topic": [
+        "Modeling",
+        "Design",
+        "Theory"
+      ],
       "image": "images/Electromechanical Transducers.png",
       "area": "Electrical Engineering",
       "name": "Electromechanical Transducers"

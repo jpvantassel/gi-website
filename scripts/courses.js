@@ -39,26 +39,34 @@ function courseTemplate(course) {
     `
 }
 
-function sortcourses(area='All') {
-    // var area = document.getElementById("area").selectedIndex;
-    // var area_text = document.getElementById("area").options;
+function sortcourses() {
+    var semester_number = document.getElementById("next").selectedIndex;
+    var semester_text = document.getElementById("next").options[semester_number].text;
     
+    var area_number = document.getElementById("area").selectedIndex;
+    var area_text = document.getElementById("area").options[area_number].text;
+
+    var topic_number = document.getElementById("topic").selectedIndex;
+    var topic_text = document.getElementById("topic").options[topic_number].text;
+
     $.getJSON('data/courses.json', function (raw_data) {
         var sorted_data=[]
         
-        // for (var i=0; i<raw_data.length; i++) {
-        //     if (raw_data[i].department==dept | dept) {
-        //         sorted_data.push(raw_data[i])
-        //     }
-        // }
-
         for (var area_key in raw_data) {
             for (var name_key in raw_data[area_key]) {
-                if (area_key==area | area=='All') {
-                    sorted_data.push(raw_data[area_key][name_key])
+                if (area_key==area_text | area_text=="All") {
+                    if ( raw_data[area_key][name_key]["next_offered"]["announced"] | semester_text=="All") {
+                        for (var topic in raw_data[area_key][name_key]["topic"]) {
+                            if ( raw_data[area_key][name_key]["topic"][topic]==topic_text | topic_text=="All") {
+                                sorted_data.push(raw_data[area_key][name_key])
+                                break
+                            }                            
+                        }
+                    }
                 }
             }
         }
+
         document.getElementById("courses-div").innerHTML = `
         ${sorted_data.map(courseTemplate).join('')}
         `

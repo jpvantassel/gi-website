@@ -2496,6 +2496,14 @@ input, select, textarea {
 				border-right: solid 1em transparent;
 			}
 
+		.dropotron.select {
+			text-align: center;
+			box-shadow: none;
+			padding: 0.25em;
+			margin: auto;
+			display: block;
+		}
+
 /* Banner */
 
 	#banner {
