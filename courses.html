@@ -91,46 +91,52 @@
 
 				<!-- Proper Filter -->
 				<h3>Filter Courses By:</h3>
-				<div class="row" style="margin-bottom:3em; margin-top: 1em">
-					
-					<div class="col-4 col-6-medium col-12-small" style="padding: 0">
-						<h3 style="text-align: center">Semester</h3>
-						<select class="dropotron select" id="next" onchange="sortcourses()">
-							<option>All</option>
-							<option>Fall 2019</option>
-						</select>
+				<!-- <div class="row" > -->
+				<div class="row" style="padding-top: 1em; padding-bottom: 3em">
+
+					<div class="col-4 col-6-medium col-12-small">
+						<div class="content">
+							<h3 style="text-align: center">Semester</h3>
+							<select class="dropotron select" id="next" onchange="sortcourses()">
+								<option>All</option>
+								<option>Fall 2019</option>
+							</select>
+						</div>
 					</div>
 
-					<div class="col-4 col-6-medium col-12-small" style="padding: 0">
-						<h3 style="text-align: center">Area</h3>
-						<select class="dropotron select" id="area" onchange="sortcourses()">
-							<option>All</option>
-							<option>Geotechnical Engineering</option>
-							<option>Geological Science</option>
-							<option>Structural Engineering</option>
-							<option>Transportation Engineering</option>
-							<option>Petroleum and Geosystems Engineering</option>
-							<option>Statistics and Data Sciences</option>
-							<option>Engineering Mechanics</option>
-							<option>Electrical Engineering</option>
-						</select>
+					<div class="col-4 col-6-medium col-12-small">
+						<div class="content">
+							<h3 style="text-align: center">Area</h3>
+							<select class="dropotron select" id="area" onchange="sortcourses()">
+								<option>All</option>
+								<option>Geotechnical Engineering</option>
+								<option>Geological Science</option>
+								<option>Structural Engineering</option>
+								<option>Transportation Engineering</option>
+								<option>Petroleum and Geosystems Engineering</option>
+								<option>Statistics and Data Sciences</option>
+								<option>Engineering Mechanics</option>
+								<option>Electrical Engineering</option>
+							</select>
+						</div>
 					</div>
 
-					<div class="col-4 col-6-medium col-12-small" style="padding: 0">
-						<h3 style="text-align: center">Topic</h3>
-						<select class="dropotron select" id="topic" onchange="sortcourses()">
-							<option>All</option>
-							<option>Modeling</option>
-							<option>Design</option>
-							<option>Theory</option>
-						</select>
+					<div class="col-4 col-6-medium col-12-small">
+						<div class="content">
+							<h3 style="text-align: center">Topic</h3>
+							<select class="dropotron select" id="topic" onchange="sortcourses()">
+								<option>All</option>
+								<option>Modeling</option>
+								<option>Design</option>
+								<option>Theory</option>
+							</select>
+						</div>
 					</div>
-
 				</div>
 
 				<!-- Course Info Here -->
 				<div class="row">
-					<div id="courses-div"></div>
+					<div id="courses-div" style="display: block"></div>
 				</div>
 					
 				<!-- Features -->

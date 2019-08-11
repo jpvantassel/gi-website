@@ -11,17 +11,15 @@ function courseTemplate(course) {
         <div class='row'>
             <div class='col-7 col-12-medium'>
                 <div class='content'>
-                    <article class='box page-content'>
+                    <article class='box page-content' style='display: block'>
                         <section>
                             <h3>${course.name} - ${course.department}${course.number}</h3>
                             <h4>${course.area}</h4>
-                            <div>
-                            <p>
-                                Last Offered: ${course.last_offered.semester} ${course.last_offered.year}<br>
-                                Next Offered: ${next_offered}
+                            <p> 
+                            Last Offered: ${course.last_offered.semester} ${course.last_offered.year}<br>
+                            Next Offered: ${next_offered}
                             </p>
                             <p> ${course.description} </p>
-                            </div>
                         </section>
                     </article>
                 </div>
