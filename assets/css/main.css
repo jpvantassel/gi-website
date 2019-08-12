@@ -2497,10 +2497,12 @@ input, select, textarea {
 			}
 
 		.dropotron.select {
-			text-align: center;
+			/* text-align: center; */
 			box-shadow: none;
 			padding: 0.25em;
-			margin: auto;
+			/* text-indent: 3em; */
+			width: 100%;
+			margin-top: 0.5em;
 			display: block;
 		}
 
