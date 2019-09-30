@@ -1,5 +1,26 @@
 [
   {
+    "name": "First Tailgate of the Year",
+    "semester": "Summer 2019",
+    "date": "24 August 2019",
+    "image": "images/tailgate2019.jpg",
+    "caption": "Tailgating before the big game."
+  },
+  {
+    "name": "New Student Welcome",
+    "semester": "Fall 2019",
+    "date": "10 August 2019",
+    "image": "images/kayaking2019.jpg",
+    "caption": "Kayaking on Lady Bird Lake."
+  },
+  {
+    "name": "Friday Night Downtown",
+    "semester": "Summer 2019",
+    "date": "19 July  2019",
+    "image": "images/downtown2019.jpg",
+    "caption": "Celebrating the end of the week."
+  },
+  {
     "name": "4th of July Picnic and Fireworks",
     "semester": "Summer 2019",
     "date": "4 July 2019",
@@ -12,19 +33,5 @@
     "date": "18 May 2019",
     "image": "images/grad2019.jpg",
     "caption": "Party to celebrate our most recent graduates."
-  },
-  {
-    "name": "Volleyball",
-    "semester": "Spring 2019",
-    "date": null,
-    "image": "images/volley2019.jpg",
-    "caption": "Weekly volleyball games at the Recreational Sports Center."
-  },
-  {
-    "name": "Explore UT",
-    "semester": "Spring 2019",
-    "date": "2 March 2019",
-    "image": "images/exploreut_2019.jpg",
-    "caption": "Introducing Geotechnical Engineering to the next generation."
   }
 ]
