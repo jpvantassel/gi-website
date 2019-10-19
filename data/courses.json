@@ -95,9 +95,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Modeling",
@@ -138,9 +138,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Design",
@@ -161,8 +161,8 @@
       },
       "next_offered": {
         "announced": true,
-        "year": "Fall",
-        "semester": 2019
+        "year": 2019,
+        "semester": "Fall"
       },
       "topic": [
         "Design"
@@ -202,9 +202,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Design",
@@ -312,9 +312,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Theory"
@@ -381,9 +381,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Design",
@@ -557,9 +557,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Theory"
@@ -578,9 +578,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Theory"
@@ -731,9 +731,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Theory"
@@ -752,9 +752,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Modeling",
@@ -774,9 +774,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Modeling",
@@ -841,9 +841,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Theory"
@@ -862,9 +862,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Modeling",
@@ -928,9 +928,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": false,
-        "year": null,
-        "semester": null
+        "announced": true,
+        "year": 2020,
+        "semester": "Spring"
       },
       "topic": [
         "Theory"
@@ -970,7 +970,7 @@
         "semester": "Fall"
       },
       "next_offered": {
-        "announced": false,
+        "announced": true,
         "year": 2019,
         "semester": "Fall"
       },
