@@ -8,7 +8,7 @@ function seminarTemplate(seminar) {
                 <div class='content'>
                     <article class='box page-content'>
                         <section>
-                            <h3 style='text-align:center'>${seminar.name}</h3>
+                            <h3 style='text-align:center'>${seminar.caption}</h3>
                             <h4 style='text-align:center'>${seminar.date}</h4>
                             <div>
                                 <a class="image featured"><img src=${seminar.image} alt='' /></a>

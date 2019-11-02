@@ -1,30 +1,58 @@
 [
   {
+    "name": "Halloween Party",
+    "semester": "Fall 2019",
+    "date": "31 October 2019",
+    "image": "images/social/2019_10_31_halloween.jpg",
+    "caption": null
+  },
+  {
+    "name": "Annual Geotech Deptartment Dinner",
+    "semester": "Fall 2019",
+    "date": "15 September 2019",
+    "image": "images/social/2019_09_15_deptdinner.jpg",
+    "caption": null
+  },
+  {
     "name": "First Tailgate of the Year",
-    "semester": "Summer 2019",
+    "semester": "Fall 2019",
     "date": "24 August 2019",
-    "image": "images/tailgate2019.jpg",
+    "image": "images/social/2019_08_24_tailgate.jpg",
     "caption": "Tailgating before the big game."
   },
   {
     "name": "New Student Welcome",
     "semester": "Fall 2019",
     "date": "10 August 2019",
-    "image": "images/kayaking2019.jpg",
+    "image": "images/social/2019_08_10_kayaking.jpg",
     "caption": "Kayaking on Lady Bird Lake."
   },
   {
     "name": "4th of July Picnic and Fireworks",
     "semester": "Summer 2019",
     "date": "4 July 2019",
-    "image": "images/july4th2019.jpg",
+    "image": "images/social/2019_07_04_fireworks.jpg",
     "caption": "Socializing before 4th of July fireworks."
   },
   {
     "name": "Graduation Party",
     "semester": "Spring 2019",
     "date": "18 May 2019",
-    "image": "images/grad2019.jpg",
+    "image": "images/social/2019_05_18_graduationparty.jpg",
     "caption": "Party to celebrate our most recent graduates."
+  },
+  {
+    "name": "Volleyball",
+    "semester": "Spring 2019",
+    "date": null,
+    "image": "images/social/2019_05_00_vollyeball.jpg",
+    "caption": "Weekly volleyball games at the Recreational Sports Center."
+  },
+  {
+    "name": "Explore UT",
+    "semester": "Spring 2019",
+    "date": "2 March 2019",
+    "image": "images/social/2019_03_02_exploreut.jpg",
+    "caption": "Introducing Geotechnical Engineering to the next generation."
   }
 ]

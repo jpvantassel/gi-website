@@ -1,9 +1,51 @@
 [
   {
-    "name": "Fall 2019 Seminars",
+    "name": "Intertek PSI",
     "semester": "Fall 2019",
-    "date": "To Be Announced",
-    "image": "images/classroom.jpg",
-    "caption": "Our Seminars are Forthcoming"
+    "date": "1 November 2019",
+    "image": "images/seminars/2019_11_01_intertekpsi_rajaei.jpg",
+    "caption": "Pegah Rajaei from Intertek PSI"
+  },
+  {
+    "name": "Ensoft",
+    "semester": "Fall 2019",
+    "date": "25 October 2019",
+    "image": "images/seminars/2019_10_25_ensoft_vasquez+wang.jpg",
+    "caption": "Gonzalo Vasquez and Shin-Tower Wang from Ensoft"
+  },
+  {
+    "name": "Buchanan Lecture",
+    "semester": "Fall 2019",
+    "date": "18 October 2019",
+    "image": "images/seminars/2019_10_18_buchanan.jpg",
+    "caption": "2019 Buchanan Lecture"
+  },
+  {
+    "name": "Eustis Engineering",
+    "semester": "Fall 2019",
+    "date": "4 October 2019",
+    "image": "images/seminars/2019_10_04_eustis_mance.jpg",
+    "caption": "James Hance from Eustis Engineering"
+  },
+  {
+    "name": "Golder",
+    "semester": "Fall 2019",
+    "date": "27 September 2019",
+    "image": "images/seminars/2019_09_27_golder_armstrong.jpg",
+    "caption": "Christian Armstrong from Golder"
+  },
+  {
+    "name": "Geosyntec",
+    "semester": "Fall 2019",
+    "date": "13 September 2019",
+    "image": "images/seminars/2019_09_13_geosyntec_roberts+ahmadipur.jpg",
+    "caption": "Julia Roberts and Amir Ahadipur from Geosyntec"
+  },
+  {
+    "name": "McMillen Jacobs",
+    "semester": "Fall 2019",
+    "date": "6 September 2019",
+    "image": "images/seminars/2019_09_06_mcmillenjacobs_fippin+chochan+walter_formal.jpg",
+    "caption": "Renee Fippin, Kush Chohan, and Jakob Walter from McMillen Jacobs"
   }
 ]
