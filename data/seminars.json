@@ -1,5 +1,12 @@
 [
   {
+    "name": "Arias Geoprofessionals",
+    "semester": "Fall 2019",
+    "date": "15 November 2019",
+    "image": "images/seminars/2019_11_15_arias_lewis.jpg",
+    "caption": "Kemp Lewis from Arias Geoprofessionals"
+  },
+  {
     "name": "HVJ",
     "semester": "Fall 2019",
     "date": "8 November 2019",
@@ -46,7 +53,7 @@
     "semester": "Fall 2019",
     "date": "13 September 2019",
     "image": "images/seminars/2019_09_13_geosyntec_roberts+ahmadipur.jpg",
-    "caption": "Julia Roberts and Amir Ahadipur from Geosyntec"
+    "caption": "Julia Roberts and Amir Ahmadipur from Geosyntec"
   },
   {
     "name": "McMillen Jacobs",
