@@ -1,14 +1,9 @@
+"""Combine survey_results.json and course_details.json into courses.json
+and create associated figures for website."""
+
 import json
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-
-# Inputs:
-#   survey_results.json
-#   course_details.json
-#
-# Outputs:
-#   Images for each course in images subfolder
-#   courses.json
 
 
 with open("survey_results.json", "r") as f:
@@ -71,11 +66,11 @@ for area in survey:
         ax.set_xticklabels(labels, rotation=40, ha="right", fontsize=10)
         autolabel(rect)
         plt.tight_layout()
-        fpath = "images/"+course+".png"
-        plt.savefig(fpath, format="png", dpi=200)
+        tail = course+".png"
+        plt.savefig("tmp/"+tail, format="png", dpi=200)
         plt.close()
 
-        details[area][course].update({"image": fpath})
+        details[area][course].update({"image": "images/courses/"+tail})
         details[area][course].update({"area":area})
         details[area][course].update({"name":course})
 

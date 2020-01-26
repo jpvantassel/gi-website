@@ -1,0 +1,41 @@
+{
+  "Geotechnical Engineering": {
+    "Consolidation Shearing Properties of Soils": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 1,
+      "5": 7
+    },
+    "Soil and Rock Dynamics": {
+      "1": 0,
+      "2": 2,
+      "3": 4,
+      "4": 0,
+      "5": 0
+    },
+    "Foundation Engineering": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 6
+    },
+    "Stability of Earth Slopes": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 9
+    }
+  },
+  "Statistics and Data Sciences": {
+    "Intro Scientific Programming": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0
+    }
+  }
+}

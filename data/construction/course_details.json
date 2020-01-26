@@ -696,6 +696,25 @@
         "Modeling",
         "Theory"
       ]
+    },
+    "Intro Scientific Programming": {
+      "department": "SDS",
+      "number": "392",
+      "unique": 55700,
+      "description": "Introduction to programming using both the C and Fortran (95/2003) languages, with applications to basic scientific problems. Covers common data types and structures, control structures, algorithms, performance measurement, and interoperability.",
+      "last_offered": {
+        "year": 2019,
+        "semester": "Fall"
+      },
+      "next_offered": {
+        "announced": false,
+        "year": 2019,
+        "semester": "Fall"
+      },
+      "topic":[
+        "Modeling",
+        "Theory"
+      ]
     }
   },
   "Engineering Mechanics": {

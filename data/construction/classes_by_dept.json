@@ -1,0 +1,64 @@
+{
+    "Geotechnical Engineering": [
+        "Consolidation Shearing Properties of Soils",
+        "Soil and Rock Dynamics",
+        "Advanced Soil and Rock Dynamics",
+        "Decision, Risk, and Reliability",
+        "Advanced Analysis of Geotechnical Engineering",
+        "In-Situ Soil Characterization",
+        "Geotechnical Earthquake Engineering",
+        "Foundation Engineering",
+        "Underground Openings",
+        "Earth Retaining Structures",
+        "Geoenvironmental Engineering",
+        "Engineering Geology",
+        "Stability of Earth Slopes"
+    ],
+    "Structural Engineering": [
+        "The Finite Element Method",
+        "Dynamics Response of Structures",
+        "Earthquake Engineering",
+        "Computer Methods in Structural Analysis"
+    ],
+    "Transportation Engineering": [
+        "Design and Perf of Pavements",
+        "Bituminous Materials"
+    ],
+    "Petroleum and Geosystems Engineering": [
+        "Advanced Geomechanics",
+        "Advanced Reservoir Engineering",
+        "Finite Element Methods"
+    ],
+    "Geological Science": [
+        "Computational Methods in Geoscience",
+        "Inverse Theory",
+        "Geomorphology Process & Form",
+        "Seismology 1",
+        "Seismology 2",
+        "Advanced Structural Geology",
+        "Seismic Imaging",
+        "Modeling flow and transport through porous materials",
+        "Vadose Zone Hydrology",
+        "Crustal Geofluids"
+    ],
+    "Statistics and Data Sciences": [
+        "Statistical Methods 1",
+        "Statistical Methods 2",
+        "Monte Carlo Methods in Stats",
+        "Bootstrap Statistics",
+        "Regression Analysis",
+        "Intro Scientific Programming"
+    ],
+    "Engineering Mechanics": [
+        "Solid Mechanics 1",
+        "Solid Mechanics 2",
+        "Advanced Theory of Finite Element Methods",
+        "Wave Propagation 1"
+    ],
+    "Electrical Engineering": [
+        "Acoustics 1",
+        "Acoustics 2",
+        "Wave Phenomena",
+        "Electromechanical Transducers"
+    ]
+}

@@ -95,9 +95,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Modeling",
@@ -138,9 +138,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Design",
@@ -161,8 +161,8 @@
       },
       "next_offered": {
         "announced": true,
-        "year": 2019,
-        "semester": "Fall"
+        "year": "Fall",
+        "semester": 2019
       },
       "topic": [
         "Design"
@@ -202,9 +202,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Design",
@@ -312,9 +312,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Theory"
@@ -381,9 +381,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Design",
@@ -500,10 +500,7 @@
       },
       "topic": [
         "Theory"
-      ],
-      "image": "images/courses/Advanced Structural Geology.png",
-      "area": "Geological Science",
-      "name": "Advanced Structural Geology"
+      ]
     },
     "Seismology 2": {
       "department": "GEO",
@@ -521,10 +518,7 @@
       },
       "topic": [
         "Theory"
-      ],
-      "image": "images/courses/Seismology 2.png",
-      "area": "Geological Science",
-      "name": "Seismology 2"
+      ]
     },
     "Computational Methods in Geoscience": {
       "department": "GEO",
@@ -542,10 +536,7 @@
       },
       "topic": [
         "Modeling"
-      ],
-      "image": "images/courses/Computational Methods in Geoscience.png",
-      "area": "Geological Science",
-      "name": "Computational Methods in Geoscience"
+      ]
     },
     "Inverse Theory": {
       "department": "GEO",
@@ -557,16 +548,13 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Theory"
-      ],
-      "image": "images/courses/Inverse Theory.png",
-      "area": "Geological Science",
-      "name": "Inverse Theory"
+      ]
     },
     "Geomorphology Process & Form": {
       "department": "GEO",
@@ -578,16 +566,13 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Theory"
-      ],
-      "image": "images/courses/Geomorphology Process & Form.png",
-      "area": "Geological Science",
-      "name": "Geomorphology Process & Form"
+      ]
     },
     "Seismology 1": {
       "department": "GEO",
@@ -606,10 +591,7 @@
       "topic": [
         "Design",
         "Theory"
-      ],
-      "image": "images/courses/Seismology 1.png",
-      "area": "Geological Science",
-      "name": "Seismology 1"
+      ]
     },
     "Seismic Imaging": {
       "department": "GEO",
@@ -627,10 +609,7 @@
       },
       "topic": [
         "Theory"
-      ],
-      "image": "images/courses/Seismic Imaging.png",
-      "area": "Geological Science",
-      "name": "Seismic Imaging"
+      ]
     },
     "Modeling flow and transport through porous materials": {
       "department": "GEO",
@@ -649,10 +628,7 @@
       "topic": [
         "Modeling",
         "Theory"
-      ],
-      "image": "images/courses/Modeling flow and transport through porous materials.png",
-      "area": "Geological Science",
-      "name": "Modeling flow and transport through porous materials"
+      ]
     },
     "Vadose Zone Hydrology": {
       "department": "GEO",
@@ -671,10 +647,7 @@
       "topic": [
         "Modeling",
         "Theory"
-      ],
-      "image": "images/courses/Vadose Zone Hydrology.png",
-      "area": "Geological Science",
-      "name": "Vadose Zone Hydrology"
+      ]
     },
     "Crustal Geofluids": {
       "department": "GEO",
@@ -731,9 +704,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Theory"
@@ -752,9 +725,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Modeling",
@@ -774,9 +747,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Modeling",
@@ -807,6 +780,28 @@
       "image": "images/courses/Regression Analysis.png",
       "area": "Statistics and Data Sciences",
       "name": "Regression Analysis"
+    },
+    "Intro Scientific Programming": {
+      "department": "SDS",
+      "number": "392",
+      "unique": 55700,
+      "description": "Introduction to programming using both the C and Fortran (95/2003) languages, with applications to basic scientific problems. Covers common data types and structures, control structures, algorithms, performance measurement, and interoperability.",
+      "last_offered": {
+        "year": 2019,
+        "semester": "Fall"
+      },
+      "next_offered": {
+        "announced": false,
+        "year": 2019,
+        "semester": "Fall"
+      },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
+      "image": "images/courses/Intro Scientific Programming.png",
+      "area": "Statistics and Data Sciences",
+      "name": "Intro Scientific Programming"
     }
   },
   "Engineering Mechanics": {
@@ -841,9 +836,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Theory"
@@ -862,9 +857,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Modeling",
@@ -928,9 +923,9 @@
         "semester": "Spring"
       },
       "next_offered": {
-        "announced": true,
-        "year": 2020,
-        "semester": "Spring"
+        "announced": false,
+        "year": null,
+        "semester": null
       },
       "topic": [
         "Theory"
@@ -970,7 +965,7 @@
         "semester": "Fall"
       },
       "next_offered": {
-        "announced": true,
+        "announced": false,
         "year": 2019,
         "semester": "Fall"
       },
