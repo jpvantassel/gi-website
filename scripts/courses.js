@@ -2,11 +2,11 @@
 // Written on: 7/6/2019
 
 function courseTemplate(course) {
-    if (course.next_offered.announced) {
-        var next_offered = course.next_offered.semester + " " + course.next_offered.year;
-    } else {
-        var next_offered = "Forthcoming";
-    }
+    // if (course.next_offered.announced) {
+    //     var next_offered = course.next_offered.semester + " " + course.next_offered.year;
+    // } else {
+    //     var next_offered = "Forthcoming";
+    // }
     return `	
         <div class='row'>
             <div class='col-7 col-12-medium'>
@@ -15,10 +15,6 @@ function courseTemplate(course) {
                         <section>
                             <h3>${course.name} - ${course.department}${course.number}</h3>
                             <h4>${course.area}</h4>
-                            <p> 
-                            Last Offered: ${course.last_offered.semester} ${course.last_offered.year}<br>
-                            Next Offered: ${next_offered}
-                            </p>
                             <p> ${course.description} </p>
                         </section>
                     </article>
@@ -38,51 +34,73 @@ function courseTemplate(course) {
 }
 
 function sortcourses() {
-    var semester_number = document.getElementById("next").selectedIndex;
-    var semester_text = document.getElementById("next").options[semester_number].text;
+    var semseter_index = document.getElementById("next").selectedIndex;
+    var semester_text = document.getElementById("next").options[semseter_index].text;
 
-    var area_number = document.getElementById("area").selectedIndex;
-    var area_text = document.getElementById("area").options[area_number].text;
+    if (semester_text == "All") {
+        var semester = "Summer";
+        var year = "2017";
+    } else {
+        var semester_space_year = semester_text.split(" ");
+        var semester = semester_space_year[0];
+        var year = semester_space_year[1];
+    }
 
-    var topic_number = document.getElementById("topic").selectedIndex;
-    var topic_text = document.getElementById("topic").options[topic_number].text;
+    var area_index = document.getElementById("area").selectedIndex;
+    var area_text = document.getElementById("area").options[area_index].text;
+
+    var topic_index = document.getElementById("topic").selectedIndex;
+    var topic_text = document.getElementById("topic").options[topic_index].text;
+
+    console.log(`semester_text = ${semester_text}`)
+    console.log(`semester = ${semester}`)
+    console.log(`year = ${year}`)
+    console.log(`area_text = ${area_text}`)
+    console.log(`topic_text = ${topic_text}`)
 
     $.getJSON('data/courses.json', function (raw_data) {
         var sorted_data = [];
 
+        // console.log(raw_data)
+        // console.log(`Looking for area_text=${area_text}`)
+
+        // Across departments/subject areas (e.g., Structural Engineering)
         for (var area_key in raw_data) {
-            for (var name_key in raw_data[area_key]) {
+            console.log(`area_key = ${area_key}`)
 
+            // Continue if "All" or area_key matches the specified sbuject area
+            if (area_text == "All" | area_text == area_key) {
 
-                if (semester_text == "All" | raw_data[area_key][name_key]["next_offered"]["announced"]) {
-                    if (semester_text == "All") {
-                    } else {
-                        console.log(semester_text)
-                        console.log(raw_data[area_key][name_key]["next_offered"]["semester"].concat(" ", raw_data[area_key][name_key]["next_offered"]["year"]))
-                        if (raw_data[area_key][name_key]["next_offered"]["semester"].concat(" ", raw_data[area_key][name_key]["next_offered"]["year"]) == semester_text) {
-                            console.log("Pass b/c Equal Semester Text");
-                        } else {
-                            continue;
-                        }
-                    }
-                } else {
-                    continue;
-                }
+                // Across course name (e.g., The Finite Element Method)
+                for (var name_key in raw_data[area_key]) {
+                    console.log(`\tname_key = ${name_key}`)
 
-                if (area_key == area_text | area_text == "All") {
-                    for (var topic in raw_data[area_key][name_key]["topic"]) {
-                        if (raw_data[area_key][name_key]["topic"][topic] == topic_text | topic_text == "All") {
-                            sorted_data.push(raw_data[area_key][name_key]);
-                            break;
+                    // "All" or matching year and semester
+                    if (semester_text == "All" | raw_data[area_key][name_key][year][semester]) {
+
+                        // Across topic area (e.g., Modeling)
+
+                        // for (var topic in raw_data[area_key][name_key]["topic"]) {
+                        for (const topic of raw_data[area_key][name_key]["topic"]) {
+                            console.log(`\t\ttopic = ${topic}`)
+
+                            // "All" or matching topic
+                            if (topic_text == "All" | topic_text == topic ) {
+
+                                console.log(`\t\t\tpushing name -> ${name_key}`)
+
+                                sorted_data.push(raw_data[area_key][name_key]);
+                                break;
+                            }
                         }
                     }
                 }
             }
         }
 
-        document.getElementById("courses-div").innerHTML = `
-        ${sorted_data.map(courseTemplate).join('')}
-        `
+        console.log(`Pass criteria = ${sorted_data.length}`);
+
+        document.getElementById("courses-div").innerHTML = `${sorted_data.map(courseTemplate).join('')}`
     })
 }
 
