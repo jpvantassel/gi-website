@@ -2,10 +2,6 @@
 // Written on: 6/29/2019
 
 
-{/* <div class='row>
-
-</div>	 */}
-
 function officerTemplate(person) {
     return `
         <div class="row">
@@ -15,7 +11,6 @@ function officerTemplate(person) {
             <h3>${person.name}</h3>
         </div>
 
-
         <div class="row">
             <div class="col-6 col-12-medium">
                 <a class="image featured"><img src=${person.image} alt='' /></a>
@@ -23,6 +18,7 @@ function officerTemplate(person) {
 
             <div class="col-6 col-12-medium">
                 <p> ${person.bio} </p>
+                <p> Email: <b>${person.email}</b></p>
             </div>
         </div>
     `

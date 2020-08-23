@@ -3,30 +3,35 @@
 			"name": "Reihaneh Hosseini",
 			"position": "President",
 			"image": "images/officers/reihaneh.jpg",
+			"email": "reihos@utexas.edu",
 			"bio": "Reihaneh received her bachelor's degree in civil engineering from the University of Tehran, Iran in 2016. Following graduation, she moved to Austin, Texas to attend graduate school at the University of Texas at Austin. In May 2018, she received her master's degree in geotechnical engineering under the supervision of Dr. Stokoe. Her master's research involved field and laboratory dynamic testing of soil and rock. She is currently pursuing her PhD under the supervision of Dr. Stokoe and Dr. Kumar. Her PhD research is in the area of computational geomechanics. She greatly enjoys working at UT and she hopes to pursue a career in academia after graduation. Her goal as the president of Geo-Institute is to make the graduate school experience as enjoyable as possible for the geotechnical graduate students."
-		},
+	},
 	{
 			"name": "Arijit Sarkar",
 			"position": "Vice President",
 			"image": "images/officers/arijit.jpg",
+			"email": "arijits340@utexas.edu",
 			"bio": "Being born into a small town in India, Arijit was always passionate about Mathematics and Physics. He chose a career in Civil Engineering and received his Bachelor of Engineering degree from BITS Pilani in 2019. He chose to come to graduate school in pursuit of knowledge. He worked with TxDOT over sensitivity of bridge foundation with vessel collision design. He plans to do research on a similar subject with Dr Gilbert. He loves biking and cooking in his free time. He aspires to have his own engineering consultant firm."
 	},
 	{
 			"name": "Susana Orellana",
 			"position": "Secretary",
 			"image": "images/officers/susana.jpg",
+			"email": "sorellanap@utexas.edu",
 			"bio": "Susana received her bachelor's degree in civil engineering from the National University of Engineering, Peru in December 2014. After graduation, she worked in a consulting firm as a geotechnical designer for mining projects. That working experience motivated her to pursue a master’s degree; and in 2019, she moved to Austin to attend graduate as a master student at the University of Texas at Austin. She is currently working under the supervision of Dr. Zornberg and her research involves lab work in the area of unsaturated soil. Her future professional interests consist of a career in the industry."
 	},
 	{
 			"name": "Etienne Gonzalez",
 			"position": "Treasurer",
 			"image": "images/officers/etienne.jpg",
+			"email": "etienne.gonzalez@utexas.edu",
 			"bio": "Etienne is a PhD student working with Dr. Zornberg on geosynthetic reinforcement for soft soils. He received his bachelor's degree in Civil Engineering from the National Autonomous University of Mexico and his master's degree in Geotechnical Engineering from the Swiss Federal Institute of Technology in Lausanne. He worked for several years as a geotechnical engineer contractor for deep foundations in Mexico City at Soletanche Bachy and in Paris for the new metro line at Spie Fondations. He is a Mexican citizen born in Montpellier, France. He enjoys playing sports, mainly  football, tennis and travelling anywhere."
 	},
 	{
 			"name": "Joseph Vantassel",
 			"position": "Web Developer",
 			"image": "images/officers/joe.jpg",
+			"email": "jvantassel@utexas.edu",
 			"bio": "Joseph received his bachelor’s degree in civil engineering from Rensselaer Polytechnic Institute in Troy, NY, USA in 2016. Following graduation, he pursued his master’s degree in civil engineering at the University of Texas at Austin under the supervision of Dr. Brady Cox. His master’s research focused on non-invasive site characterization using surface-wave methods in the city of Wellington, New Zealand. He completed his master’s degree in May of 2018 and is continuing on to complete his PhD in geotechnical engineering with Dr. Cox. His PhD research focuses on developing methods for performing non-invasive subsurface imaging for geotechnical applications such as anomaly detection. He hopes to pursue a career in academia following graduation."
 	}
 ]
