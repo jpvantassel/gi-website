@@ -103,13 +103,12 @@ input, select, textarea {
 		color: #333f48;
 		font-size: 13pt;
 		line-height: 2em;
-		text-align: justify;
+		text-align: left;
 	}
 
 	h1, h2, h3, h5 {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		color: #bf5700;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
@@ -118,7 +117,6 @@ input, select, textarea {
 	h4, h6 {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		color: #333f48;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
@@ -224,7 +222,6 @@ input, select, textarea {
 		display: block;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		color: #c1cac5;
 	}
 
@@ -1801,6 +1798,15 @@ input, select, textarea {
 				width: auto;
 			}
 
+		.image.member {
+			display: block;
+			width: 100%;
+			height: 14em;
+			overflow: hidden;
+			margin: 0 0 0.2em 0;
+			object-fit: scale-down;
+		}
+
 /* Button */
 
 	input[type="button"],
@@ -1812,7 +1818,6 @@ input, select, textarea {
 		display: inline-block;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		text-decoration: none;
 		background: #bf5700;
 		color: #fff;
@@ -2119,7 +2124,6 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		color: #6b7770;
 	}
 
@@ -2204,7 +2208,6 @@ input, select, textarea {
 				margin: 0 0 1em 0;
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
-				text-transform: uppercase;
 				color: #6b7770;
 			}
 
@@ -2329,7 +2332,6 @@ input, select, textarea {
 		font-size: 2em;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		padding: 2em 0;
 		background: #fff;
 		margin: 0 auto;
@@ -2378,7 +2380,6 @@ input, select, textarea {
 		text-align: center;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		cursor: default;
 	}
 
@@ -2447,7 +2448,6 @@ input, select, textarea {
 		text-align: center;
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
-		text-transform: uppercase;
 		padding: 1em 0;
 		text-align: left;
 		min-width: 14em;
@@ -2540,7 +2540,6 @@ input, select, textarea {
 				display: block;
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
-				text-transform: uppercase;
 				color: #fff;
 				font-size: 1.5em;
 				margin: 0 0 1.25em 0;
@@ -2582,7 +2581,7 @@ input, select, textarea {
 /* Sidebar + Content */
 
 	.sidebar h2.major {
-		text-align: justify;
+		text-align: left;
 		margin: 0 0 1.5em 0;
 	}
 
@@ -2818,7 +2817,6 @@ input, select, textarea {
 					position: relative;
 					font-family: 'Open Sans Condensed', sans-serif;
 					font-weight: 700;
-					text-transform: uppercase;
 					font-size: 1.25em;
 					line-height: 44px;
 					color: #fff;
@@ -2899,7 +2897,6 @@ input, select, textarea {
 				background-size: auto, 100% 100%;
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
-				text-transform: uppercase;
 				font-size: 1.25em;
 				box-shadow: inset -3px 0px 10px 0px rgba(0, 0, 0, 0.25);
 			}
