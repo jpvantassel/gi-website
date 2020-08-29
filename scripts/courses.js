@@ -2,11 +2,6 @@
 // Written on: 7/6/2019
 
 function courseTemplate(course) {
-    // if (course.next_offered.announced) {
-    //     var next_offered = course.next_offered.semester + " " + course.next_offered.year;
-    // } else {
-    //     var next_offered = "Forthcoming";
-    // }
     return `	
         <div class='row'>
             <div class='col-7 col-12-medium'>
