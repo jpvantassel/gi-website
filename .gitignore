@@ -1,4 +1,4 @@
 # Folders
 images/construction
 data/construction/course/pvt
-.ipython_checkpoints
+*.ipython_checkpoints

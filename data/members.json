@@ -10,7 +10,7 @@
     {
         "name": "Nolan Greth",
         "path": "images/members/nolan_greth.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "Nevada",
         "city": "Minden"
@@ -18,7 +18,7 @@
     {
         "name": "Arijit Sarkar",
         "path": "images/members/arijit_sarkar.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "India",
         "state": "West Bengal",
         "city": "Siliguri"
@@ -42,15 +42,23 @@
     {
         "name": "James Throckmorton",
         "path": "images/members/james_throckmorton.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "Tennessee",
         "city": "Nashville"
     },
     {
+        "name": "Behdad Mofarraj",
+        "path": "images/members/behdad_mofarraj.jpg",
+        "degree": "PhD",
+        "country": "Iran",
+        "state": null,
+        "city": "Tehran"
+    },
+    {
         "name": "Meredith Normand",
         "path": "images/members/meredith_normand.jpg",
-        "degree": "M.Sc. & PhD",
+        "degree": "MSc & PhD",
         "country": "United States",
         "state": "Texas",
         "city": "Lake Jackson"
@@ -58,7 +66,7 @@
     {
         "name": "Brandon Bretts",
         "path": "images/members/brandon_bretts.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "New Jersey",
         "city": "Montville"
@@ -66,7 +74,7 @@
     {
         "name": "Wai Joon Foong",
         "path": "images/members/wai_joon_foong.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "Malaysia",
         "state": null,
         "city": "Kuala Lumpur"
@@ -82,7 +90,7 @@
     {
         "name": "Audrey Housson",
         "path": "images/members/audrey_housson.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "Texas",
         "city": "Austin"
@@ -90,7 +98,7 @@
     {
         "name": "Amanda Wachenfeld",
         "path": "images/members/amanda_wachenfeld.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "Massachusetts",
         "city": "Cambridge"
@@ -106,7 +114,7 @@
     {
         "name": "Sujin Park",
         "path": "images/members/sujin_park.jpg",
-        "degree": "M.Sc. & PhD",
+        "degree": "MSc & PhD",
         "country": "South Korea",
         "state": null,
         "city": "Seoul"
@@ -122,7 +130,7 @@
     {
         "name": "Anna Claire Hunter",
         "path": "images/members/anna_claire_hunter.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "Arkansas",
         "city": "White Hall"
@@ -170,15 +178,23 @@
     {
         "name": "Sam Pastor",
         "path": "images/members/sam_pastor.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "Texas",
         "city": "Austin"
     },
     {
+        "name": "Jodie Crocker",
+        "path": "images/members/jodie_crocker.jpg",
+        "degree": "PhD",
+        "country": "United States",
+        "state": "Tennessee",
+        "city": "Memphis"
+    },
+    {
         "name": "Miqueias Brikalski",
         "path": "images/members/miqueias_brikalski.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "Brazil",
         "state": "Santa Catarina",
         "city": "Joinville"
@@ -186,7 +202,7 @@
     {
         "name": "Jenna Song",
         "path": "images/members/jenna_song.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "United States",
         "state": "Texas",
         "city": "Dallas"
@@ -202,9 +218,33 @@
     {
         "name": "Susana Orellana",
         "path": "images/members/susana_orellana.jpg",
-        "degree": "M.Sc.",
+        "degree": "MSc",
         "country": "Peru",
         "state": null,
         "city": "Lima"
+    },
+    {
+        "name": "Nicolas Alejandro Rivas",
+        "path": "images/members/nicolas_alejandro_rivas.jpg",
+        "degree": "MSc",
+        "country": "Argentina",
+        "state": "Misiones",
+        "city": "Eldorado"
+    },
+    {
+        "name": "Joseph Vantassel",
+        "path": "images/members/joseph_vantassel.jpg",
+        "degree": "PhD",
+        "country": "United States",
+        "state": "Massachusetts",
+        "city": "East Longmeadow"
+    },
+    {
+        "name": "Reihaneh Hosseini",
+        "path": "images/members/reihaneh_hosseini.jpg",
+        "degree": "PhD",
+        "country": "Iran",
+        "state": null,
+        "city": "Tehran"
     }
 ]
