@@ -26,7 +26,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -62,7 +62,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -354,7 +354,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -429,7 +429,7 @@
       "2021": {
         "Spring": false,
         "Fall": false,
-        "Summer": false
+        "Summer": true
       },
       "topic": [
         "Design"
@@ -502,7 +502,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -613,7 +613,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -690,7 +690,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -728,7 +728,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -765,7 +765,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -802,7 +802,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -841,7 +841,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -877,7 +877,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -913,7 +913,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -1023,7 +1023,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -1209,7 +1209,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -1392,7 +1392,7 @@
       },
       "2021": {
         "Spring": true,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -1431,7 +1431,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -1578,7 +1578,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -1686,7 +1686,7 @@
       },
       "2021": {
         "Spring": false,
-        "Fall": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
