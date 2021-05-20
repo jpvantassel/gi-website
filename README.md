@@ -52,8 +52,9 @@ by modifying `courses.json` in the `data` directory.
 options in `courses.html`.
 - At the end of the spring semester update and send the course survey. A copy
 of the original course survey has been shared with the geo-institute email
-account. The form is called `Geotech Course Work Shared`. This form contains
-all of the course work as options, so before you share it remove any courses
+account. The form is called `geotech_course_work_main`. This form contains
+all of the course work as options, so before you share make a copy and then
+remove any courses
 that were not offered in the summer and fall of the previous year and spring
 of the current year. Allow the survey to run for a week or so prior to the
 end of classes and finishing around the end of finals. Close the survey and
