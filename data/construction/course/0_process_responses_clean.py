@@ -4,8 +4,8 @@ import pandas as pd
 import re
 import json
 
-data = pd.read_csv("2019_08_responses_clean.csv")
-# data = pd.read_csv("2020_01_responses_clean.csv")
+# data = pd.read_csv("2019_08_responses_clean.csv")
+data = pd.read_csv("2020_01_responses_clean.csv")
 
 
 with open("classes_by_dept.json", "r") as f:
@@ -53,6 +53,6 @@ for header in data:
         # if dept_sum == 0:
         #     del courses[dept]
 
-with open("2019_08_survey_results.json", "w") as f:
-# with open("2020_01_survey_results.json", "w") as f:
+# with open("2019_08_survey_results.json", "w") as f:
+with open("2020_01_survey_results.json", "w") as f:
     json.dump(courses, f, indent=2)

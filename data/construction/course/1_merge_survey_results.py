@@ -4,7 +4,7 @@ import json
 
 results = [
     "2019_08_survey_results.json",
-    "2020_01_survey_results.json"
+    "2020_01_survey_results.json",
 ]
 
 summary = {}
