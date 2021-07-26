@@ -1,37 +1,44 @@
 [
 	{
-			"name": "Reihaneh Hosseini",
+			"name": "Mohamad Hallal",
 			"position": "President",
-			"image": "images/officers/reihaneh.jpg",
-			"email": "reihos@utexas.edu",
-			"bio": "Reihaneh received her bachelor's degree in civil engineering from the University of Tehran, Iran in 2016. Following graduation, she moved to Austin, Texas to attend graduate school at the University of Texas at Austin. In May 2018, she received her master's degree in geotechnical engineering under the supervision of Dr. Stokoe. Her master's research involved field and laboratory dynamic testing of soil and rock. She is currently pursuing her PhD under the supervision of Dr. Stokoe and Dr. Kumar. Her PhD research is in the area of computational geomechanics. She greatly enjoys working at UT and she hopes to pursue a career in academia after graduation. Her goal as the president of Geo-Institute is to make the graduate school experience as enjoyable as possible for the geotechnical graduate students."
+			"image": "images/officers/mohamad.jpg",
+			"email": "mhallal@utexas.edu",
+			"bio": "Mohamad is a PhD candidate in geotechnical engineering at the University of Texas (UT) at Austin. During his studies at UT, he received two master’s degrees in statistics and data science in 2021 and in civil engineering in 2019. Prior to joining UT, he completed his bachelor’s degree studies in civil engineering at the American University of Beirut, Lebanon, during which he spent a semester as an exchange student at the University of New Mexico, USA, and a semester as an intern researcher with Dr. Youssef Hashash at the University of Illinois at Urbana-Champaign, USA. His PhD research under the supervision of Dr. Brady Cox and Dr. Ellen Rathje focuses on seismic site response, particularly, developing subsurface imaging methods to advance 3D site response to the broad benefit of a more resilient and globally connected society. Mohamad also serves as the Small Grants Chair of the Geo-Institute Graduate Student Leadership Council at the national level. He enjoys all outdoor activities, traveling, training, and cooking. As the president of the Geo-Institute Graduate Student Organization, he aims to promote students’ engagement and inclusion,  facilitate their experience and make it rewarding, in addition to expanding the reach of the organization to professional engineers and alumni."
 	},
 	{
-			"name": "Arijit Sarkar",
+			"name": "Audrey Housson",
 			"position": "Vice President",
-			"image": "images/officers/arijit.jpg",
-			"email": "arijits340@utexas.edu",
-			"bio": "Being born into a small town in India, Arijit was always passionate about Mathematics and Physics. He chose a career in Civil Engineering and received his Bachelor of Engineering degree from BITS Pilani in 2019. He chose to come to graduate school in pursuit of knowledge. He worked with TxDOT over sensitivity of bridge foundation with vessel collision design. He plans to do research on a similar subject with Dr Gilbert. He loves biking and cooking in his free time. He aspires to have his own engineering consultant firm."
+			"image": "images/officers/audrey.jpg",
+			"email": "audreyhousson@utexas.edu",
+			"bio": "Audrey received her bachelor’s degree in Geology from Texas A&M University in May 2017. After graduation, she worked for a tunnel construction company as a field engineer. She was involved with the 5 mile long, hard rock TBM tunnel for the Atlanta Water Supply project. Then, she started and completed the SAWS Central Water Integrated Pipeline Segment 5-1 project in San Antonio which consisted of two hard rock TBM tunnels, a hand-mine tunnel and one open cut section. This field experience motivated her to pursue a master’s degree in Geotechnical Engineering which she started in August 2020 at the University of Texas at Austin. She has really enjoyed being involved with the Geo-Institute student chapter at UT and hopes this organization enhances the graduate student experience for geotechnical engineering students. Audrey plans to continue in the heavy civil industry with a focus in tunnels in her future career. "
 	},
 	{
-			"name": "Susana Orellana",
+			"name": "Mrunmay Junagade",
 			"position": "Secretary",
-			"image": "images/officers/susana.jpg",
-			"email": "sorellanap@utexas.edu",
-			"bio": "Susana received her bachelor's degree in civil engineering from the National University of Engineering, Peru in December 2014. After graduation, she worked in a consulting firm as a geotechnical designer for mining projects. That working experience motivated her to pursue a master’s degree; and in 2019, she moved to Austin to attend graduate as a master student at the University of Texas at Austin. She is currently working under the supervision of Dr. Zornberg and her research involves lab work in the area of unsaturated soil. Her future professional interests consist of a career in the industry."
+			"image": "images/officers/mrunmay.jpg",
+			"email": "mrunmay@utexas.edu",
+			"bio": "Mrunmay completed his graduation in Civil Engineering from University of Pune in August 2018, following which he worked with Central Water and Power Research Station. His work focused on physical and computational modelling to assess performance of Orifice Type spillways of dams for multiple hydropower projects on Himalayan Rivers. Shortly after, he worked with Indian Institute of Technology- Bombay as research assistant on reduction of lateral thrust on retaining structures using compressible inclusions, which piqued his interest in Geotechnical Engineering. He joined the University of Texas at Austin for a master's degree in Geotechnical Engineering in January 2021 and aims to work in industry upon completion of the program. In spare time he enjoys photography, cooking, swimming and exploring nature. As the secretary of the Geo-Institute Student Chapter, he aims to make the graduate student experience enjoyable and memorable."
 	},
 	{
-			"name": "Etienne Gonzalez",
+			"name": "Gino Sicha Flores",
 			"position": "Treasurer",
-			"image": "images/officers/etienne.jpg",
-			"email": "etienne.gonzalez@utexas.edu",
-			"bio": "Etienne is a PhD student working with Dr. Zornberg on geosynthetic reinforcement for soft soils. He received his bachelor's degree in Civil Engineering from the National Autonomous University of Mexico and his master's degree in Geotechnical Engineering from the Swiss Federal Institute of Technology in Lausanne. He worked for several years as a geotechnical engineer contractor for deep foundations in Mexico City at Soletanche Bachy and in Paris for the new metro line at Spie Fondations. He is a Mexican citizen born in Montpellier, France. He enjoys playing sports, mainly  football, tennis and travelling anywhere."
+			"image": "images/officers/gino.jpg",
+			"email": "gino.sicha@utexas.edu",
+			"bio": "Gino is from Lima, Peru and received his bachelor’s degree in Civil Engineering from Pontificia Universidad Catolica del Peru in August 2017. After graduation, he worked in a construction company for 2 years as a project engineer. In July 2019, he moved to Austin for an MS/PhD at the University of Texas at Austin. He is currently working under the supervision of Dr. Zornberg. His research involves the use of geosynthetics for drainage in pavements under unsaturated conditions. After graduation, he would like to pursue a career in industry. As part of the Geo-Institute, his goal is to support graduate students to make graduate school a pleasant experience."
 	},
 	{
-			"name": "Joseph Vantassel",
+			"name": "Jodie Crocker",
 			"position": "Web Developer",
-			"image": "images/officers/joe.jpg",
-			"email": "jvantassel@utexas.edu",
-			"bio": "Joseph received his bachelor’s degree in civil engineering from Rensselaer Polytechnic Institute in Troy, NY, USA in 2016. Following graduation, he pursued his master’s degree in civil engineering at the University of Texas at Austin under the supervision of Dr. Brady Cox. His master’s research focused on non-invasive site characterization using surface-wave methods in the city of Wellington, New Zealand. He completed his master’s degree in May of 2018 and is continuing on to complete his PhD in geotechnical engineering with Dr. Cox. His PhD research focuses on developing methods for performing non-invasive subsurface imaging for geotechnical applications such as anomaly detection. He hopes to pursue a career in academia following graduation."
+			"image": "images/officers/jodie.jpg",
+			"email": "jcrocker@utexas.edu",
+			"bio": "Jodie is a PhD student working under the supervision of Dr. Brady Cox and Dr. Ellen Rathje at the University of Texas (UT) at Austin. In 2020, she completed her master’s degree in Civil Engineering at UT and previously completed her bachelor’s degrees in Civil Engineering and Mathematics at Christian Brothers University in Memphis, TN in 2018. Her research focuses on non-invasive site characterization using surface wave methods, and in particular its limitations regarding anomaly detection. In her free time, she enjoys cooking, baking, and spending time outdoors. She hopes to pursue a career in academia after graduation."
+	},
+	{
+			"name": "Meredith Normand",
+			"position": "GsAB Representative",
+			"image": "images/officers/meredith.jpg",
+			"email": "merenorm18@utexas.edu",
+			"bio": "Meredith started as a MS/PhD geotechnical engineering student in August 2020 after graduating from UT Austin with a degree in Civil Engineering. Before discovering her interest in geotech, she focused on traffic engineering. Working at Alliance Transportation Group in Austin, Texas she focused on developing microsimulation models and traffic volumes for Texas highways, and at UT she participated in researching the impacts of autonomous vehicle adoption on land use and housing decisions. Her eventual switch to geotechnical engineering came about through her love for geology and fascination with earthquakes. As a graduate student, her research focuses on correcting ground motion predictions in seismic site response analyses under the supervision of Dr. Ellen Rathje. In her free time, Meredith enjoys knitting and trying to make kombucha. She plans to pursue a career in academia after her graduation."
 	}
 ]
