@@ -1,5 +1,19 @@
 [
   {
+    "name": "Halloween Party 2021",
+    "semester": "Fall 2021",
+    "date": "29 October 2021",
+    "image": "images/social/2021_10_29_halloween.jpg",
+    "caption": null
+  },
+  {
+    "name": "New Student Welcome 2021",
+    "semester": "Fall 2021",
+    "date": "7 September 2021",
+    "image": "images/social/2021_09_07_kayaking1.jpg",
+    "caption": null
+  },
+  {
     "name": "Graduation Party",
     "semester": "Spring 2021",
     "date": "23 May 2021",
@@ -21,7 +35,7 @@
     "caption": null
   },
   {
-    "name": "Annual Geotech Deptartment Dinner",
+    "name": "Annual Geotech Department Dinner",
     "semester": "Fall 2019",
     "date": "15 September 2019",
     "image": "images/social/2019_09_15_deptdinner.jpg",
