@@ -1,44 +1,44 @@
 [
 	{
-			"name": "Mohamad Hallal",
+			"name": "Mrunmay Junagade",
 			"position": "President",
-			"image": "images/officers/mohamad.jpg",
-			"email": "mhallal@utexas.edu",
-			"bio": "Mohamad is a PhD candidate in geotechnical engineering at the University of Texas (UT) at Austin. During his studies at UT, he received two master’s degrees in statistics and data science in 2021 and in civil engineering in 2019. Prior to joining UT, he completed his bachelor’s degree studies in civil engineering at the American University of Beirut, Lebanon, during which he spent a semester as an exchange student at the University of New Mexico, USA, and a semester as an intern researcher with Dr. Youssef Hashash at the University of Illinois at Urbana-Champaign, USA. His PhD research under the supervision of Dr. Brady Cox and Dr. Ellen Rathje focuses on seismic site response, particularly, developing subsurface imaging methods to advance 3D site response to the broad benefit of a more resilient and globally connected society. Mohamad also serves as the Small Grants Chair of the Geo-Institute Graduate Student Leadership Council at the national level. He enjoys all outdoor activities, traveling, training, and cooking. As the president of the Geo-Institute Graduate Student Organization, he aims to promote students’ engagement and inclusion,  facilitate their experience and make it rewarding, in addition to expanding the reach of the organization to professional engineers and alumni."
+			"image": "images/officers/mrunmay.jpg",
+			"email": "mrunmay@utexas.edu",
+			"bio": "Mrunmay joined the University of Texas at Austin for a master's degree in Geotechnical Engineering in January 2021 and his research focuses on developing guidelines for risk assessment for buried submarine cables, under the supervision of Dr. Robert B. Gilbert. He completed his undergraduate degree in Civil Engineering from University of Pune in August 2018, following which he worked with Central Water and Power Research Station where he worked on physical and computational modeling to assess performance of orifice type spillways of dams for multiple hydropower projects on Himalayan Rivers. Shortly after, he worked with Indian Institute of Technology, Bombay as researcher on reduction of lateral thrust on retaining structures using compressible inclusions, which piqued his interest in Geotechnical Engineering. He aims to work in industry upon completion of the program. In spare time he tries to learn about different cultures and enjoys spending time in nature. He is also an avid photographer.The Geo-Institute Student Chapter at the University of Texas at Austin is one of the aspects that sets the Geotech Program apart from others. With the GI team, Mrunmay will work on building a strong community of geotech students that is involved in activities which expose them to industry practices and field realities by engaging industry partners and an extensive alumni network."
 	},
 	{
-			"name": "Audrey Housson",
+			"name": "Nazek Naja",
 			"position": "Vice President",
-			"image": "images/officers/audrey.jpg",
-			"email": "audreyhousson@utexas.edu",
+			"image": "images/officers/nazek.jpg",
+			"email": "nazekn@utexas.edu",
 			"bio": "Audrey received her bachelor’s degree in Geology from Texas A&M University in May 2017. After graduation, she worked for a tunnel construction company as a field engineer. She was involved with the 5 mile long, hard rock TBM tunnel for the Atlanta Water Supply project. Then, she started and completed the SAWS Central Water Integrated Pipeline Segment 5-1 project in San Antonio which consisted of two hard rock TBM tunnels, a hand-mine tunnel and one open cut section. This field experience motivated her to pursue a master’s degree in Geotechnical Engineering which she started in August 2020 at the University of Texas at Austin. She has really enjoyed being involved with the Geo-Institute student chapter at UT and hopes this organization enhances the graduate student experience for geotechnical engineering students. Audrey plans to continue in the heavy civil industry with a focus in tunnels in her future career. "
 	},
 	{
-			"name": "Mrunmay Junagade",
+			"name": "Abhigya Paudyal",
 			"position": "Secretary",
-			"image": "images/officers/mrunmay.jpg",
-			"email": "mrunmay@utexas.edu",
-			"bio": "Mrunmay completed his graduation in Civil Engineering from University of Pune in August 2018, following which he worked with Central Water and Power Research Station. His work focused on physical and computational modelling to assess performance of Orifice Type spillways of dams for multiple hydropower projects on Himalayan Rivers. Shortly after, he worked with Indian Institute of Technology- Bombay as research assistant on reduction of lateral thrust on retaining structures using compressible inclusions, which piqued his interest in Geotechnical Engineering. He joined the University of Texas at Austin for a master's degree in Geotechnical Engineering in January 2021 and aims to work in industry upon completion of the program. In spare time he enjoys photography, cooking, swimming and exploring nature. As the secretary of the Geo-Institute Student Chapter, he aims to make the graduate student experience enjoyable and memorable."
+			"image": "images/officers/abhigya.jpg",
+			"email": "abhigya@utexas.edu",
+			"bio": "Abhigya is a M.S. student in Geotechnical Engineering starting at UT Austin from Spring 2022. He pursued his Bachelors in civil engineering from Nepal and worked for almost three years after graduating in 2018. He mainly worked on Geotechnical investigation projects and Landslide risk assessment and mitigation projects after completing the undergraduate program. My supervisor is Dr. Jorge G. Zornberg and will be working on expansive soils which are of great concern in the central US. Currently, he is working as a Teaching Assistant at UT and also as a Family Orientation Student Leader (FOSL) for summer 2022. He loves to travel and motivate people around. As a Vice President of the Geo-Institute, he will use his experience to communicate with Professionals in the geotechnical engineering field and contribute to various activities at the Geo-Institute."
 	},
 	{
-			"name": "Gino Sicha Flores",
+			"name": "Yiwei",
 			"position": "Treasurer",
-			"image": "images/officers/gino.jpg",
-			"email": "gino.sicha@utexas.edu",
-			"bio": "Gino is from Lima, Peru and received his bachelor’s degree in Civil Engineering from Pontificia Universidad Catolica del Peru in August 2017. After graduation, he worked in a construction company for 2 years as a project engineer. In July 2019, he moved to Austin for an MS/PhD at the University of Texas at Austin. He is currently working under the supervision of Dr. Zornberg. His research involves the use of geosynthetics for drainage in pavements under unsaturated conditions. After graduation, he would like to pursue a career in industry. As part of the Geo-Institute, his goal is to support graduate students to make graduate school a pleasant experience."
+			"image": "images/officers/yiwei.jpg",
+			"email": "yeyiwei@utexas.edu",
+			"bio": "Yiwei joined the UT for a Ph.D. program in August 2019 after graduating from China University of Geosciences in Beijing with a Master's degree. He is currently working with Dr. El Mohtar on both experimental and coding research. As a Treasurer, he will be ordering pizza for everyone during seminars. He enjoys fishing (almost never caught anything)."
 	},
 	{
-			"name": "Jodie Crocker",
+			"name": "Miqueias Brikalski",
 			"position": "Web Developer",
-			"image": "images/officers/jodie.jpg",
-			"email": "jcrocker@utexas.edu",
-			"bio": "Jodie is a PhD student working under the supervision of Dr. Brady Cox and Dr. Ellen Rathje at the University of Texas (UT) at Austin. In 2020, she completed her master’s degree in Civil Engineering at UT and previously completed her bachelor’s degrees in Civil Engineering and Mathematics at Christian Brothers University in Memphis, TN in 2018. Her research focuses on non-invasive site characterization using surface wave methods, and in particular its limitations regarding anomaly detection. In her free time, she enjoys cooking, baking, and spending time outdoors. She hopes to pursue a career in academia after graduation."
+			"image": "images/officers/miqueias.jpg",
+			"email": "miqueiasbrikalski@utexas.edu",
+			"bio": "Miqueias is a Master's student working under the supervision of Dr. Jorge Zornberg at the University of Texas (UT) at Austin. He completed his bachelor's degree in Civil Engineering at Univeridade do Estado de Santa Catarina, em Joinville, Brazil. His research focuses on the effect of particle size and angularity in the interaction between agregates and geosynthetics. He also enjoys running, biking and reading. After graduation, he wants to work in the industry."
 	},
 	{
 			"name": "Meredith Normand",
 			"position": "GsAB Representative",
 			"image": "images/officers/meredith.jpg",
 			"email": "meredith.normand@utexas.edu",
-			"bio": "Meredith started as a MS/PhD geotechnical engineering student in August 2020 after graduating from UT Austin with a degree in Civil Engineering. Before discovering her interest in geotech, she focused on traffic engineering. Working at Alliance Transportation Group in Austin, Texas she focused on developing microsimulation models and traffic volumes for Texas highways, and at UT she participated in researching the impacts of autonomous vehicle adoption on land use and housing decisions. Her eventual switch to geotechnical engineering came about through her love for geology and fascination with earthquakes. As a graduate student, her research focuses on correcting ground motion predictions in seismic site response analyses under the supervision of Dr. Ellen Rathje. In her free time, Meredith enjoys knitting and trying to make kombucha. She plans to pursue a career in academia after her graduation."
+			"bio": "Meredith is a PhD student working under the supervision of Dr. Ellen Rathje. Her research focuses on improving seismic site response analyses for large strain ground motions, particularly addressing current underpredictions at high frequencies. She completed her master's degree in 2021 and her bachelor's degree in 2020, both in Civil Engineering at UT Austin. Prior to beginning her graduate studies in geotechnical engineering, her industry and research experience focused primarily on traffic engineering and traffic microsimulation modeling.In her role as the Graduate Student Assembly Board (GSAB) Representative, Meredith works to address issues important to the graduate students in UT's Department of Civil, Architectural and Environmental Engineering by operating mentorship programs for new students and acting as a liaison between the student population and CAEE faculty"
 	}
 ]
