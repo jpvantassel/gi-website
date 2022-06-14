@@ -15,13 +15,20 @@
 	},
 	{
 			"name": "Abhigya Paudyal",
-			"position": "Secretary",
+			"position": "",
 			"image": "images/officers/abhigya.jpg",
 			"email": "abhigya@utexas.edu",
 			"bio": "Abhigya is a M.S. student in Geotechnical Engineering starting at UT Austin from Spring 2022. He pursued his Bachelors in civil engineering from Nepal and worked for almost three years after graduating in 2018. He mainly worked on Geotechnical investigation projects and Landslide risk assessment and mitigation projects after completing the undergraduate program. My supervisor is Dr. Jorge G. Zornberg and will be working on expansive soils which are of great concern in the central US. Currently, he is working as a Teaching Assistant at UT and also as a Family Orientation Student Leader (FOSL) for summer 2022. He loves to travel and motivate people around. As a Vice President of the Geo-Institute, he will use his experience to communicate with Professionals in the geotechnical engineering field and contribute to various activities at the Geo-Institute."
 	},
 	{
-			"name": "Yiwei",
+			"name": "Hassan Al Zoaby",
+			"position": "Secretary",
+			"image": "images/officers/hassan.jpg",
+			"email": "halzoaby@utexas.edu",
+			"bio": "Hassan joined UT as a Ph.D. student in Fall 2021. He is working under the supervision of Prof. El Mohtar focusing on Geo-Environmental issues. Bench-scale experimental approaches are adopted by which geomaterials are used to stabilize/contain heavily contaminated soils.Hassan graduated from the Lebanese American University in Lebanon with a bachelor's degree in civil engineering (2019) and a master's degree in engineering mechanics (2021). Throughout that period, Hassan served as an active member in the American Society of Civil Engineers (ASCE - LAU Chapter), LAU consultants and Engineers without borders. In his role as a secretary of the Geo-Institute Student Chapter at the University of Texas at Austin, Hassan is looking forward to aid in building a stronger Geotech community among the graduate students."
+	},
+	{
+			"name": "Yiwei Ye",
 			"position": "Treasurer",
 			"image": "images/officers/yiwei.jpg",
 			"email": "yeyiwei@utexas.edu",
