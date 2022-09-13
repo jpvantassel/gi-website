@@ -248,6 +248,22 @@
         "city": "Canada/Nigeria"
     },
     {
+        "name": "Olivia Chasse",
+        "path": "images/members/olivia_chasse.jpeg",
+        "degree": "MSc",
+        "country": null,
+        "state": "Connecticut",
+        "city": "United States of America"
+    },
+    {
+        "name": "Saurabh Gupta",
+        "path": "images/members/saurabh_pgupta.jpeg",
+        "degree": "MSc",
+        "country": "Delhi",
+        "state": null,
+        "city": "India"
+    },
+    {
         "name": "Shantel Ramlo",
         "path": "images/members/shantel_ramlo.jpg",
         "degree": "MSc",
