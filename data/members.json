@@ -161,7 +161,7 @@
     },
     {
         "name": "Eder Tapia",
-        "path": "images/members/eder_tapia.jpg",
+        "path": "images/members/eder_tapia.JPG",
         "degree": "MSc",
         "country": "Peru",
         "state": null,
@@ -217,7 +217,7 @@
     },
     {
         "name": "Michael Schillage",
-        "path": "images/members/michael_schillage.jpg",
+        "path": "images/members/michael_schillage.JPG",
         "degree": "MSc",
         "country": "San Jose",
         "state": "California",
@@ -259,7 +259,7 @@
         "name": "Sharen Wallace",
         "path": "images/members/sharen_wallace.jpg",
         "degree": "MSc",
-        "country": null,
+        "country": "British Virgin Islands",
         "state": null,
         "city": "British Virgin Islands"
     }
