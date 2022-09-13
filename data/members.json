@@ -252,8 +252,8 @@
         "path": "images/members/olivia_chasse.jpeg",
         "degree": "MSc",
         "country": "United States",
-        "state": "Connecticut",
-        "city": null
+        "state": null,
+        "city": "Connecticut"
     },
     {
         "name": "Saurabh Gupta",
