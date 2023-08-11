@@ -1,5 +1,14 @@
 [
     {
+        "name": "Cheng-Hsi Hsiao",
+        "path": "images/members/cheng-hsi_hsiao.jpg",
+        "degree": "PhD",
+        "country": "Taiwan",
+        "state": null,
+        "city": "Taipei",
+        "link": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+    },
+    {
         "name": "Shiyuan Li",
         "path": "images/members/shiyuan_li.jpg",
         "degree": "PhD",
@@ -14,14 +23,6 @@
         "country": "China",
         "state": "Anhui",
         "city": "Anqing"
-    },
-    {
-        "name": "Steve Xu",
-        "path": "images/members/steve_xu.jpg",
-        "degree": "PhD",
-        "country": "China",
-        "state": "Jiangsu",
-        "city": "Nanjing"
     },
     {
         "name": "Behdad Mofarraj",

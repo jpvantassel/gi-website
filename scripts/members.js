@@ -7,10 +7,14 @@ function memberTemplate(member) {
         var locale = `${member.city}, ${member.country}`;
     else
         var locale = `${member.city}, ${member.state}, ${member.country}`;
+    if (member.link == null)
+        var href_profile = ``;
+    else
+        var href_profile = `href=${member.link} target="_blank"`;
 
     return `
         <div class="col-3 col-12-medium">
-            <a class="image member"><img src=${member.path} alt=''></a>
+            <a class="image member" ${href_profile}><img src=${member.path} alt=''></a>
             <h5>${member.name}, ${member.degree}</h5>
             <h6>${locale}</h6>
         </div>
