@@ -6,7 +6,16 @@
         "country": "Taiwan",
         "state": null,
         "city": "Taipei",
-        "link": "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+        "link": "https://www.linkedin.com/in/cheng-hsi-hsiao/"
+    },
+    {
+        "name": "Ashish Govindan",
+        "path": "images/members/ashish_govindan.jpg",
+        "degree": "MSc",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Lubbock",
+        "link": "https://www.linkedin.com/in/ashish-govindan-eit-571868151"
     },
     {
         "name": "Shiyuan Li",
@@ -127,14 +136,6 @@
         "country": "Nepal",
         "state": null,
         "city": "Kathmandu"
-    },
-    {
-        "name": "Ashish Govindan",
-        "path": "images/members/ashish_govindan.jpg",
-        "degree": "MSc",
-        "country": "United States",
-        "state": "Texas",
-        "city": "Lubbock"
     },
     {
         "name": "Ashray Saxena",
