@@ -18,8 +18,8 @@ function memberTemplate(member) {
     return `
         <div class="col-3 col-12-medium">
             <a class="image member" ${href_profile}><img src=${member.path} alt='Not found', onerror="this.src='images/original_logo.jpeg';"></a>
-            <h5>${member.name}, ${member.degree}</h5>
-            <h6>${locale}</h6>
+            <h5><center>${member.name}, ${member.degree}</center></h5>
+            <h6><center>${locale}</center></h6>
         </div>
     `
 }
