@@ -1,0 +1,276 @@
+[
+    {
+        "name": "Cheng-Hsi Hsiao",
+        "path": "images/members/cheng-hsi_hsiao.jpg",
+        "degree": "PhD",
+        "country": "Taiwan",
+        "state": null,
+        "city": "Taipei",
+        "link": "https://www.linkedin.com/in/cheng-hsi-hsiao/"
+    },
+    {
+        "name": "Ashish Govindan",
+        "path": "images/members/ashish_govindan.jpg",
+        "degree": "MSc",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Lubbock",
+        "link": "https://www.linkedin.com/in/ashish-govindan-eit-571868151"
+    },
+    {
+        "name": "Shiyuan Li",
+        "path": "images/members/shiyuan_li.jpg",
+        "degree": "PhD",
+        "country": "China",
+        "state": "Guangxi",
+        "city": "Guilin"
+    },
+    {
+        "name": "Qiuyu Wang",
+        "path": "images/members/qiuyu_wang.jpg",
+        "degree": "PhD",
+        "country": "China",
+        "state": "Anhui",
+        "city": "Anqing"
+    },
+    {
+        "name": "Behdad Mofarraj",
+        "path": "images/members/behdad_mofarraj.jpg",
+        "degree": "PhD",
+        "country": "Iran",
+        "state": null,
+        "city": "Tehran"
+    },
+    {
+        "name": "Meredith Normand",
+        "path": "images/members/meredith_normand.jpg",
+        "degree": "MSc & PhD",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Lake Jackson"
+    },
+    {
+        "name": "Yongjin Choi",
+        "path": "images/members/yongjin_choi.jpg",
+        "degree": "PhD",
+        "country": "South Korea",
+        "state": null,
+        "city": "Busan"
+    },
+    {
+        "name": "Dawie Marx",
+        "path": "images/members/dawie_marx.jpg",
+        "degree": "PhD",
+        "country": "South Africa",
+        "state": "Gauteng",
+        "city": "Pretoria"
+    },
+    {
+        "name": "Sujin Park",
+        "path": "images/members/sujin_park.jpg",
+        "degree": "MSc & PhD",
+        "country": "South Korea",
+        "state": null,
+        "city": "Seoul"
+    },
+    {
+        "name": "Kai Feng",
+        "path": "images/members/kai_feng.jpg",
+        "degree": "PhD",
+        "country": "China",
+        "state": "Shanxi Province",
+        "city": "Changzhi"
+    },
+    {
+        "name": "Yiwei Ye",
+        "path": "images/members/yiwei_ye.jpg",
+        "degree": "PhD",
+        "country": "China",
+        "state": "Zhejiang",
+        "city": "Wenzhou"
+    },
+    {
+        "name": "Michael Yust",
+        "path": "images/members/michael_yust.jpg",
+        "degree": "PhD",
+        "country": "United States",
+        "state": "Virginia",
+        "city": "Richmond"
+    },
+    {
+        "name": "Etienne Gonzalez",
+        "path": "images/members/etienne_gonzalez.jpg",
+        "degree": "PhD",
+        "country": "Mexico",
+        "state": null,
+        "city": "Mexico City"
+    },
+    {
+        "name": "Jodie Crocker",
+        "path": "images/members/jodie_crocker.jpg",
+        "degree": "PhD",
+        "country": "United States",
+        "state": "Tennessee",
+        "city": "Memphis"
+    },
+    {
+        "name": "Reihaneh Hosseini",
+        "path": "images/members/reihaneh_hosseini.jpg",
+        "degree": "PhD",
+        "country": "Iran",
+        "state": null,
+        "city": "Tehran"
+    },
+    {
+        "name": "Chih-Yu Tung",
+        "path": "images/members/chih-yu_tung.jpg",
+        "degree": "PhD",
+        "country": "Taiwan",
+        "state": null,
+        "city": "Taichung"
+    },
+    {
+        "name": "Abhigya Paudyal",
+        "path": "images/members/abhigya_paudyal.jpg",
+        "degree": "MSc",
+        "country": "Nepal",
+        "state": null,
+        "city": "Kathmandu"
+    },
+    {
+        "name": "Ashray Saxena",
+        "path": "images/members/ashray_saxena.jpg",
+        "degree": "PhD",
+        "country": "India",
+        "state": null,
+        "city": "Aligarh"
+    },
+    {
+        "name": "Chenghao Bai",
+        "path": "images/members/chenghao_bai.jpg",
+        "degree": "PhD",
+        "country": "China",
+        "state": "Anhui",
+        "city": "Anqing"
+    },
+    {
+        "name": "Eder Tapia",
+        "path": "images/members/eder_tapia.JPG",
+        "degree": "MSc",
+        "country": "Peru",
+        "state": null,
+        "city": "Lima"
+    },
+    {
+        "name": "Faisal Alotaibi",
+        "path": "images/members/faisal_alotaibi.jpg",
+        "degree": "PhD",
+        "country": "Saudi Arabia",
+        "state": null,
+        "city": "Riyadh"
+    },
+    {
+        "name": "Hassan Al Kaaby Al Zoaby",
+        "path": "images/members/hassan_alkaaby_alzoaby.jpg",
+        "degree": "PhD",
+        "country": "Lebanon",
+        "state": null,
+        "city": "Beirut"
+    },
+    {
+        "name": "Jie Xiong",
+        "path": "images/members/jie_xiong.jpg",
+        "degree": "PhD",
+        "country": "China",
+        "state": null,
+        "city": "Loudi"
+    },
+    {
+        "name": "Karen Mena Arango",
+        "path": "images/members/karen_mena_arango.jpg",
+        "degree": "MSc",
+        "country": "Colombia",
+        "state": "Antioquia",
+        "city": "Medellin"
+    },
+    {
+        "name": "Laxmi Manisha Gandham",
+        "path": "images/members/laxmi_manisha_gandham.jpg",
+        "degree": "MSc",
+        "country": "India",
+        "state": null,
+        "city": "Hyderabad"
+    },
+    {
+        "name": "Mahfooz Alam",
+        "path": "images/members/mahfooz_alam.jpg",
+        "degree": "MSc",
+        "country": "India",
+        "state": null,
+        "city": "New Delhi"
+    },
+    {
+        "name": "Michael Schillage",
+        "path": "images/members/michael_schillage.JPG",
+        "degree": "MSc",
+        "country": "United States",
+        "state": "California",
+        "city": "San Jose"
+    },
+    {
+        "name": "Mrunmay J",
+        "path": "images/members/mrunmay_j.jpg",
+        "degree": "MSc",
+        "country": "India",
+        "state": null,
+        "city": "Pune"
+    },
+    {
+        "name": "Nazek Naja",
+        "path": "images/members/nazek_naja.jpg",
+        "degree": "MSc",
+        "country": "Lebanon",
+        "state": null,
+        "city": "Beirut"
+    },
+    {
+        "name": "Olaide Ojomo",
+        "path": "images/members/olaide_ojomo.jpg",
+        "degree": "PhD",
+        "country": "Canada/Nigeria",
+        "state": null,
+        "city": "Calgary/Lhegos"
+    },
+    {
+        "name": "Olivia Chasse",
+        "path": "images/members/olivia_chasse.jpeg",
+        "degree": "MSc",
+        "country": "United States",
+        "state": null,
+        "city": "Connecticut"
+    },
+    {
+        "name": "Saurabh Gupta",
+        "path": "images/members/saurabh_pgupta.jpeg",
+        "degree": "MSc",
+        "country": "India",
+        "state": null,
+        "city": "Delhi"
+    },
+    {
+        "name": "Shantel Ramlo",
+        "path": "images/members/shantel_ramlo.jpg",
+        "degree": "MSc",
+        "country": "United States",
+        "state": null,
+        "city": "Brookings"
+    },
+    {
+        "name": "Sharen Wallace",
+        "path": "images/members/sharen_wallace.jpg",
+        "degree": "MSc",
+        "country": "British Virgin Islands",
+        "state": null,
+        "city": "British Virgin Islands"
+    }
+]

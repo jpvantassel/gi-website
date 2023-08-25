@@ -3,10 +3,13 @@
 
 
 function memberTemplate(member) {
-    if (member.state == null)
-        var locale = `${member.city}, ${member.country}`;
-    else
-        var locale = `${member.city}, ${member.state}, ${member.country}`;
+    var locale = ""
+    if (member.city != null)
+        locale += `${member.city}, `;
+    if (member.state != null)
+        locale += `${member.state}, `;
+    locale += `${member.country}`;
+    
     if (member.link == null)
         var href_profile = ``;
     else
@@ -14,7 +17,7 @@ function memberTemplate(member) {
 
     return `
         <div class="col-3 col-12-medium">
-            <a class="image member" ${href_profile}><img src=${member.path} alt=''></a>
+            <a class="image member" ${href_profile}><img src=${member.path} alt='Not found', onerror="this.src='images/original_logo.jpeg';"></a>
             <h5>${member.name}, ${member.degree}</h5>
             <h6>${locale}</h6>
         </div>

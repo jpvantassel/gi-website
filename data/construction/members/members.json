@@ -1,0 +1,173 @@
+[
+    {
+        "name": "A. Mert Kavala",
+        "path": "images/members/a._mert_kavala.jpg",
+        "degree": "MSc & PhD",
+        "country": "Turkey",
+        "state": "",
+        "city": "Istanbul",
+        "link": "https://www.linkedin.com/in/mertkavala"
+    },
+    {
+        "name": "Anusha  Vajapeyajula",
+        "path": "images/members/anusha__vajapeyajula.jpg",
+        "degree": "MS",
+        "country": "India",
+        "state": "",
+        "city": "",
+        "link": "https://www.linkedin.com/in/anusha-vajapeyajulaa5"
+    },
+    {
+        "name": "Ashish Govindan",
+        "path": "images/members/ashish_govindan.jpg",
+        "degree": "MS",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Lubbock",
+        "link": "www.linkedin.com/in/ashish-govindan-eit-571868151"
+    },
+    {
+        "name": "Brent Sordo",
+        "path": "images/members/brent_sordo.jpg",
+        "degree": "PhD",
+        "country": "United States",
+        "state": "California",
+        "city": "Modesto",
+        "link": null
+    },
+    {
+        "name": "Carlos Acosta",
+        "path": "images/members/carlos_acosta.jpg",
+        "degree": "PhD",
+        "country": "Colombia",
+        "state": "",
+        "city": "",
+        "link": "https://sites.utexas.edu/zornberg/carlos-acosta/"
+    },
+    {
+        "name": "Cheng-Hsi Hsiao",
+        "path": "images/members/cheng-hsi_hsiao.jpg",
+        "degree": "PhD",
+        "country": "Taiwan",
+        "state": "",
+        "city": "Taipei",
+        "link": "https://www.linkedin.com/in/cheng-hsi-hsiao/"
+    },
+    {
+        "name": "Chih-Yu Tung",
+        "path": "images/members/chih-yu_tung.jpg",
+        "degree": "PhD",
+        "country": "Taiwan",
+        "state": "",
+        "city": "Taichung",
+        "link": "https://www.linkedin.com/in/chih-yu-tung-sheldon/"
+    },
+    {
+        "name": "Dawie Marx",
+        "path": "images/members/dawie_marx.jpg",
+        "degree": "PhD",
+        "country": "South Africa",
+        "state": "",
+        "city": "Pretoria",
+        "link": "https://www.linkedin.com/in/dawie-marx/"
+    },
+    {
+        "name": "Etienne Gonzalez",
+        "path": "images/members/etienne_gonzalez.jpg",
+        "degree": "PhD",
+        "country": "Mexico",
+        "state": "",
+        "city": "Mexico City",
+        "link": "https://www.linkedin.com/in/etiennegonzalez/"
+    },
+    {
+        "name": "Jeremy Goethals",
+        "path": "images/members/jeremy_goethals.jpg",
+        "degree": "MS",
+        "country": "United States",
+        "state": "Texas",
+        "city": "Houston",
+        "link": "https://www.linkedin.com/me?trk=p_mwlite_my_network-secondary_nav"
+    },
+    {
+        "name": "Jorge Zornberg",
+        "path": "images/members/jorge_zornberg.jpg",
+        "degree": "Professor",
+        "country": "USA, Argentina",
+        "state": "",
+        "city": "",
+        "link": "https://sites.utexas.edu/zornberg/"
+    },
+    {
+        "name": "Julia Grasley",
+        "path": "images/members/julia_grasley.jpg",
+        "degree": "PhD",
+        "country": "United States",
+        "state": "Texas",
+        "city": "College Station",
+        "link": "https://www.linkedin.com/in/julia-grasley-6b7a83130/"
+    },
+    {
+        "name": "Leila  Roshanali ",
+        "path": "images/members/leila__roshanali_.jpg",
+        "degree": "PhD",
+        "country": "Iran",
+        "state": "",
+        "city": "Shiraz",
+        "link": null
+    },
+    {
+        "name": "Mehmet Turkezer",
+        "path": "images/members/mehmet_turkezer.jpg",
+        "degree": "PhD",
+        "country": "Turkey",
+        "state": "",
+        "city": "Ankara",
+        "link": "https://linkedin.com/in/mturkezer"
+    },
+    {
+        "name": "Shantel Ramlo",
+        "path": "images/members/shantel_ramlo.jpg",
+        "degree": "MS",
+        "country": "United States",
+        "state": "South Dakota",
+        "city": "Brookings",
+        "link": "https://www.linkedin.com/in/shantelramlo/"
+    },
+    {
+        "name": "Sharen Wallace",
+        "path": "images/members/sharen_wallace.jpg",
+        "degree": "MS",
+        "country": "British Virgin Islands",
+        "state": "",
+        "city": "",
+        "link": "http://linkedin.com/in/sharenwallace"
+    },
+    {
+        "name": "Shuyi Zhang",
+        "path": "images/members/shuyi_zhang.jpg",
+        "degree": "PhD",
+        "country": "China",
+        "state": "Jiangxi",
+        "city": "Ganzhou",
+        "link": null
+    },
+    {
+        "name": "Sujin Park",
+        "path": "images/members/sujin_park.jpg",
+        "degree": "PhD",
+        "country": "South Korea",
+        "state": "",
+        "city": "Seoul",
+        "link": "https://drive.google.com/file/d/1IVJEVAZj_Br5IBFouw2oygf96cWHQWM_/view?usp=drive_link"
+    },
+    {
+        "name": "Will Pliska",
+        "path": "images/members/will_pliska.jpg",
+        "degree": "MS",
+        "country": "United States",
+        "state": "Washington",
+        "city": "Seattle",
+        "link": null
+    }
+]
