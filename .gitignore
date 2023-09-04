@@ -2,3 +2,4 @@
 images/construction
 data/construction/course/pvt
 *.ipynb_checkpoints
+.DS_Store

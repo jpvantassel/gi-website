@@ -1,5 +1,4 @@
-Timestamp,First Name,Last Name,UT EID,UT email address,What program are you in?,Do you plan to graduate this semester?,What country are you from?,State (if applicable),City (if applicable),Birth Date,Personal Photo,Bio Link
-8/24/2023 22:29:46,Cheng-Hsi,Hsiao,ch49826,chhsiao@utexas.edu,PhD,No,Taiwan,,Taipei,9/8,https://drive.google.com/open?id=1a4_SBlxy0dj8MBpVhBqeWQGMnHG0jVsO,https://www.linkedin.com/in/cheng-hsi-hsiao/
+Timestamp,First Name,Last Name,UT EID,UT email address,What program are you in?,Do you plan to graduate this semester?,What country are you from?,State (if applicable),City,Birth Date,Personal Photo,Bio Link
 8/22/2023 9:19:02,Brent,Sordo,Bts2222,Bsordo@utexas.edu,PhD,No,United States,California,Modesto,11/26,,
 8/22/2023 9:28:00,Mehmet,Turkezer,mt39834,mehmet.turkezer@utexas.edu,PhD,No,Turkey,,Ankara,7/25,https://drive.google.com/open?id=1dVmHD1zPrRkXH3zoEpCQgkFqm9C8ktDL,https://linkedin.com/in/mturkezer
 8/22/2023 9:35:04,Ashish,Govindan,aag4284,a.govindan@utexas.edu,MS,No,United States,Texas,Lubbock,8/31,https://drive.google.com/open?id=1u6fGP9yvowec9B-eo-AoeSYGxkwwurcJ,www.linkedin.com/in/ashish-govindan-eit-571868151
@@ -17,4 +16,15 @@ Timestamp,First Name,Last Name,UT EID,UT email address,What program are you in?,
 8/23/2023 23:00:00,A. Mert,Kavala,ak48288,mertkavala@utexas.edu,MSc & PhD,No,Turkey,,Istanbul,4/24,https://drive.google.com/open?id=1bPwJmAu1dplVFhqpoXimFpNkXVqMuIjB,https://www.linkedin.com/in/mertkavala
 8/24/2023 9:03:44,Dawie,Marx,dhm667,dawie.marx@utexas.edu,PhD,No,South Africa,,Pretoria,10/22,,https://www.linkedin.com/in/dawie-marx/
 8/24/2023 9:11:36,Will,Pliska,Wp5237,Willpliska@utexas.edu,MS,No,United States,Washington,Seattle,,,
+8/24/2023 22:29:46,Cheng-Hsi,Hsiao,ch49826,chhsiao@utexas.edu,PhD,No,Taiwan,,Taipei,9/8,https://drive.google.com/open?id=1a4_SBlxy0dj8MBpVhBqeWQGMnHG0jVsO,https://www.linkedin.com/in/cheng-hsi-hsiao/
 8/24/2023 22:36:01,Jeremy,Goethals,jjg3787,jgoethals@utexas.edu,MS,No,United States,Texas,Houston,11/4,,https://www.linkedin.com/me?trk=p_mwlite_my_network-secondary_nav
+8/25/2023 11:25:06,Yongjin,Choi,yc29276,yj.choi@utexas.edu,PhD,No,South Korea,,Busan,12/3,,https://sites.google.com/view/geo-yjchoi/
+8/25/2023 12:19:56,Adityo,Andikaputra,ama8775,andikaputra.adityo@utexas.edu,MS,Not Applicable,Indonesia,West Java,Bandung,6/14,https://drive.google.com/open?id=1kf3TCbtK2QISi550U0s_nioQmwEfZsss,https://www.linkedin.com/in/adityo-muhammad-andikaputra-940554124
+8/25/2023 16:08:38,Omar ,Abukassab,ota328,oakassab@utexas.edu,MSc & PhD,Not Applicable,Jordan,,Irbid,8/18,https://drive.google.com/open?id=1GxKbgN_LJiI5iNMh1_6DMKyCH20J40Rj,
+8/25/2023 19:48:24,Yiwei,Ye,yy8647,yeyiwei@utexas.edu,PhD,No,China,,Wenzhou,1/28,https://drive.google.com/open?id=19ciNSL_ALV9iVBBpa3SCGVPD_uhVsOQs,yeyiwei.org
+8/28/2023 14:06:24,Angel,de la Cruz,Aad3569,angel.asaf@utexas.edu,MS,No,United States,Texas,Austin,2/3,https://drive.google.com/open?id=1S2FoW2jYOBhXDE7L8ZHxZ1Py8rsUdWV1,https://www.linkedin.com/in/angel-de-la-cruz-90473b190
+8/28/2023 14:14:05,Anthony ,Matar,am222223,asmatar@utexas.edu,MS,No,Lebanon,,Beirut,6/21,https://drive.google.com/open?id=1_OYHefw2j9HC1C1nmS217AbxWZfz20Vk,https://www.linkedin.com/in/anthony-matar-546546192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B560K2yp%2BSi20IQjXKMtS%2Bg%3D%3D
+8/30/2023 11:36:50,Jorge,Loaisiga,jll5258,jorge.loaisiga@utexas.edu,MS,No,Nicaragua,,Managua,5/1,https://drive.google.com/open?id=1adMkM7c9s_evjYEVFKGnIo5UIcT3j0go,linkedin.com/in/loaisiga
+8/30/2023 11:56:09,Fernando,Ramirez,jfr2242,jfernandoramirez@utexas.edu,MS,No,Mexico,,San Luis Potosi,6/24,https://drive.google.com/open?id=1wQUJQOlCyZbNulGWqM2zu-TLhHIBdmMe,https://www.linkedin.com/in/fernando-ramirez-engineer/
+8/31/2023 15:11:20,Krishna,Kumar,kk33964,krishnak@utexas.edu,Not Applicable,Not Applicable,India,Tamil Nadu,Madurai,1/20,,
+9/2/2023 19:46:47,Chenghao,Bai,cb53448,chenghao.bai@utexas.edu,PhD,No,China,,Anqing,11/12,,Linkedin: https://www.linkedin.com/in/chenghao-bai-8168b3207/     Google Scholar: https://scholar.google.com.hk/citations?user=Z_deno8AAAAJ&hl=en

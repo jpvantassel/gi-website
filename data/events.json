@@ -1,9 +1,23 @@
 [
   {
-    "name": "Fall 2023 New Student Orientation",
+    "name": "Fall 2023 Geotech Welcome Party",
     "semester": "Fall 2023",
-    "date": "14 August 2023",
-    "image": "images/social/2023_08_14_orientation.jpeg",
+    "date": "01 September 2023",
+    "image": "images/social/2023_09_01_welcome_party.jpg",
+    "caption": null
+  },
+  {
+    "name": "Fall 2023 Summer Birthday Celebration",
+    "semester": "Fall 2023",
+    "date": "01 September 2023",
+    "image": "images/social/2023_09_01_summer_birthday.jpg",
+    "caption": null
+  },
+  {
+    "name": "Fall 2023 Kayaking",
+    "semester": "Fall 2023",
+    "date": "26 August 2023",
+    "image": "images/social/2023_08_26_kayaking.jpg",
     "caption": null
   },
   {
