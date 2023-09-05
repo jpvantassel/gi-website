@@ -4,9 +4,9 @@
 
 function memberTemplate(member) {
     var locale = ""
-    if (member.city != null)
+    if (member.city != "")
         locale += `${member.city}, `;
-    if (member.state != null)
+    if (member.state != "")
         locale += `${member.state}, `;
     locale += `${member.country}`;
     
