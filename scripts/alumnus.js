@@ -9,11 +9,15 @@ function memberTemplate(member) {
         var href_profile = ``;
     else
         var href_profile = `href=${member.link} target="_blank"`;
-
+    if (member.class != null)
+        var classyear = `Class ${member.class}`;
+    else
+        var classyear = ``;
     return `
         <div class="col-3 col-12-medium">
             <a class="image member" ${href_profile}><img src=${member.path} alt='Not found', onerror="this.src='images/original_logo.jpeg';"></a>
             <h5><center>${member.name}</center></h5>
+            <h6><center>${classyear}</center></h6>
         </div>
     `
 }
