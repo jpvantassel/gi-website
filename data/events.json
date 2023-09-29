@@ -4,6 +4,7 @@
     "semester": "Fall 2023",
     "date": "22 September 2023",
     "image": "images/social/2023_09_22_geotrivia.jpg",
+    "hover_img": "images/social/2023_09_22_geotrivia2.jpg",
     "caption": null
   },
   {
@@ -11,6 +12,7 @@
     "semester": "Fall 2023",
     "date": "16 September 2023",
     "image": "images/social/2023_09_16_tailgate.jpeg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -18,6 +20,7 @@
     "semester": "Fall 2023",
     "date": "01 September 2023",
     "image": "images/social/2023_09_01_welcome_party.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -25,6 +28,7 @@
     "semester": "Fall 2023",
     "date": "01 September 2023",
     "image": "images/social/2023_09_01_summer_birthday.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -32,6 +36,7 @@
     "semester": "Fall 2023",
     "date": "26 August 2023",
     "image": "images/social/2023_08_26_kayaking.jpg",
+    "hover_img": "images/social/2023_08_26_kayaking2.jpg",
     "caption": null
   },
   {
@@ -39,6 +44,7 @@
     "semester": "Summer 2023",
     "date": "11 July 2023",
     "image": "images/social/2023_07_11_aecomvisit.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -46,6 +52,7 @@
     "semester": "Summer 2022",
     "date": "23 Sptember 2022",
     "image": "images/social/2022_09_23_geotechparty.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -53,6 +60,7 @@
     "semester": "Spring 2022",
     "date": "24 March 2022",
     "image": "images/social/2022_03_24_geocongress2022.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -60,6 +68,7 @@
     "semester": "Spring 2022",
     "date": "29 January 2022",
     "image": "images/social/2022_01_29_tunneltrip.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -67,6 +76,7 @@
     "semester": "Fall 2021",
     "date": "16 December 2021",
     "image": "images/social/2021_12_16_gradparty.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -74,6 +84,7 @@
     "semester": "Fall 2021",
     "date": "29 October 2021",
     "image": "images/social/2021_10_29_halloween.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -81,6 +92,7 @@
     "semester": "Fall 2021",
     "date": "7 September 2021",
     "image": "images/social/2021_09_07_kayaking3.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -88,6 +100,7 @@
     "semester": "Spring 2021",
     "date": "23 May 2021",
     "image": "images/social/2021_05_23_graduationparty.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -95,6 +108,7 @@
     "semester": "Spring 2020",
     "date": "27 February 2020",
     "image": "images/social/2020_02_27_geocongress.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -102,6 +116,7 @@
     "semester": "Fall 2019",
     "date": "31 October 2019",
     "image": "images/social/2019_10_31_halloween.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -109,6 +124,7 @@
     "semester": "Fall 2019",
     "date": "15 September 2019",
     "image": "images/social/2019_09_15_deptdinner.jpg",
+    "hover_img": null,
     "caption": null
   },
   {
@@ -116,6 +132,7 @@
     "semester": "Fall 2019",
     "date": "24 August 2019",
     "image": "images/social/2019_08_24_tailgate.jpg",
+    "hover_img": null,
     "caption": "Tailgating before the big game."
   },
   {
@@ -123,6 +140,7 @@
     "semester": "Fall 2019",
     "date": "10 August 2019",
     "image": "images/social/2019_08_10_kayaking.jpg",
+    "hover_img": null,
     "caption": "Kayaking on Lady Bird Lake."
   },
   {
@@ -130,6 +148,7 @@
     "semester": "Summer 2019",
     "date": "4 July 2019",
     "image": "images/social/2019_07_04_fireworks.jpg",
+    "hover_img": null,
     "caption": "Socializing before 4th of July fireworks."
   },
   {
@@ -137,6 +156,7 @@
     "semester": "Spring 2019",
     "date": "18 May 2019",
     "image": "images/social/2019_05_18_graduationparty.jpg",
+    "hover_img": null,
     "caption": "Party to celebrate our most recent graduates."
   },
   {
@@ -144,6 +164,7 @@
     "semester": "Spring 2019",
     "date": null,
     "image": "images/social/2019_05_00_vollyeball.jpg",
+    "hover_img": null,
     "caption": "Weekly volleyball games at the Recreational Sports Center."
   },
   {
@@ -151,6 +172,7 @@
     "semester": "Spring 2019",
     "date": "2 March 2019",
     "image": "images/social/2019_03_02_exploreut.jpg",
+    "hover_img": null,
     "caption": "Introducing Geotechnical Engineering to the next generation."
   }
 ]

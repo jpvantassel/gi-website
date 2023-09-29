@@ -10,7 +10,7 @@ function memberTemplate(member) {
     else
         var href_profile = `href=${member.link} target="_blank"`;
     if (member.class != null)
-        var classyear = `Class ${member.class}`;
+        var classyear = `Class of ${member.class}`;
     else
         var classyear = ``;
     return `

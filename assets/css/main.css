@@ -154,8 +154,11 @@ input, select, textarea {
 			margin: 0 auto;
 		}
 
-	h3, h4 {
+	h3 {
 		font-size: 1.25em;
+	}
+	h4 {
+		font-size: 1.00em;
 	}
 
 	a {
@@ -1838,13 +1841,35 @@ input, select, textarea {
 		padding: 0.85em 1.85em;
 		text-align: center;
 	}
+	.collapsible {
+		background-color: #bf5700;
+		color: white;
+		cursor: pointer;
+		width: 70%;
+		outline: white solid 0.1em;
+		text-align: center;
+		font-size: 22px;
+		padding: 1.15em;
+		margin-left: 15%;
+		margin-top: 0.1em;
+	}
+	.collapsible-content {
+		padding: 0 18px;
+		width: 70%;
+		margin-left: 15%;
+		display: none;
+		overflow: hidden;
+		background-color: #f1f1f1;
+	}
+	  
 
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #333f48;
+			background: #bf560068;
+			color: rgba(0, 0, 0, 0.685);
 		}
 
 		input[type="button"]:active,
@@ -2470,13 +2495,13 @@ input, select, textarea {
 			}
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
-				color: #fff;
-				background: #333f48;
+				color: #bf5700;
+				background: white;
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span {
 				color: #fff;
-				background: #333f48;
+				background: #bf5700;
 			}
 
 			.dropotron li:first-child {

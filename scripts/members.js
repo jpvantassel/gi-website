@@ -3,7 +3,7 @@
 
 
 function memberTemplate(member) {
-    var locale = ""
+    var locale = "";
     if (member.city != "")
         locale += `${member.city}, `;
     if (member.state != "")
