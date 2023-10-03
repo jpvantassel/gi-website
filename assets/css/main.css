@@ -1845,18 +1845,18 @@ input, select, textarea {
 		background-color: #bf5700;
 		color: white;
 		cursor: pointer;
-		width: 70%;
+		width: 100%;
 		outline: white solid 0.1em;
 		text-align: center;
 		font-size: 22px;
 		padding: 1.15em;
-		margin-left: 15%;
+		margin-left: 0%;
 		margin-top: 0.1em;
 	}
 	.collapsible-content {
 		padding: 0 18px;
-		width: 70%;
-		margin-left: 15%;
+		width: 100%;
+		margin-left: 0%;
 		display: none;
 		overflow: hidden;
 		background-color: #f1f1f1;

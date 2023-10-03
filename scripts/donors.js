@@ -10,7 +10,7 @@ function donorTemplate(donor) {
 
     return `
         <div class="col-12 col-12-medium">
-            <h2><a ${href_profile}><strong><center>${donor.name}, ${donor.year} - Keller</center></strong></a></h2>
+            <h2><a ${href_profile}><strong><center>${donor.name}, ${donor.year}</center></strong></a></h2>
         </div>
     `
 }
