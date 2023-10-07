@@ -7,16 +7,21 @@ function donorTemplate(donor) {
         var href_profile = ``;
     else
         var href_profile = `href=${donor.link} target="_blank"`;
+    if (donor.company != null)
+        var second_line = `${donor.company} ${donor.year}`;
+    else
+        var second_line = `${donor.year}`
 
     return `
-        <div class="col-12 col-12-medium">
-            <h2><a ${href_profile}><strong><center>${donor.name}, ${donor.year}</center></strong></a></h2>
+        <div class="col-3 col-12-medium" style="margin:auto;">
+            <h2><a ${href_profile}><strong><center>${donor.name}</center></strong></a></h2>
+            <h6><center>${second_line}</center></h6>
         </div>
     `
 }
 
 $.getJSON('data/donors.json', function (donordata) {
-    var ncols = 1;
+    var ncols = 4;
     var master = ``;
     var div_open = false;
     for (var i = 0; i<donordata.length; i++ ){

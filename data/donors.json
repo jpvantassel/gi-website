@@ -1,16 +1,19 @@
 [
     {
-        "name": "Ken Kniss - Keller",
+        "name": "Ken Kniss",
+        "company": "Keller",
         "year": "2023",
         "link": null
     },
     {
         "name": "Ashish Govindan",
+        "company": null,
         "year": "2023",
         "link": null
     },
     {
         "name": "Cheng-Hsi Hsiao",
+        "company": null,
         "year": "2023",
         "link": null
     }

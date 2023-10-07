@@ -18,6 +18,15 @@
         "link": "https://www.linkedin.com/in/adityo-muhammad-andikaputra-940554124"
     },
     {
+        "name": "Alexandra Clarà Saracho",
+        "path": "images/members/saracho.jpg",
+        "degree": "Professor",
+        "country": "Spain",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/people/faculty/faculty-directory/saracho"
+    },
+    {
         "name": "Angel de la Cruz",
         "path": "images/members/angel_de_la_cruz.jpg",
         "degree": "MS",
@@ -72,6 +81,15 @@
         "link": "https://sites.utexas.edu/zornberg/carlos-acosta/"
     },
     {
+        "name": "Chadi El Mohtar",
+        "path": "images/members/el_mohtar.jpg",
+        "degree": "Professor",
+        "country": "Lebanon",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/prof/El_Mohtar/"
+    },
+    {
         "name": "Cheng-Hsi Hsiao",
         "path": "images/members/cheng-hsi_hsiao.jpg",
         "degree": "PhD",
@@ -106,6 +124,15 @@
         "state": "",
         "city": "Pretoria",
         "link": "https://www.linkedin.com/in/dawie-marx/"
+    },
+    {
+        "name": "Ellen Rathje",
+        "path": "images/members/rathje.jpg",
+        "degree": "Professor",
+        "country": "United States",
+        "state": "New York",
+        "city": "East Northport",
+        "link": "https://sites.google.com/view/erathje"
     },
     {
         "name": "Etienne Gonzalez",
@@ -162,8 +189,17 @@
         "link": "https://www.linkedin.com/in/julia-grasley-6b7a83130/"
     },
     {
+        "name": "Kenneth Stokoe",
+        "path": "images/members/stokoe.jpg",
+        "degree": "Professor",
+        "country": "United States",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/prof/stokoe/home.html"
+    },
+    {
         "name": "Krishna Kumar",
-        "path": "images/members/krishna_kumar.jpeg",
+        "path": "images/members/krishna_kumar.jpg",
         "degree": "Professor",
         "country": "India",
         "state": "Tamil Nadu",
@@ -196,6 +232,15 @@
         "state": "",
         "city": "Irbid",
         "link": null
+    },
+    {
+        "name": "Robert Gilbert",
+        "path": "images/members/gilbert.jpg",
+        "degree": "Professor",
+        "country": "United States",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/people/faculty/faculty-directory/gilbert"
     },
     {
         "name": "Shantel Ramlo",
