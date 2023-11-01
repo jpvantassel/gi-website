@@ -3,18 +3,28 @@
         "name": "Ken Kniss",
         "company": "Keller",
         "year": "2023",
+        "image": "images/donors/keller.png",
         "link": null
     },
     {
         "name": "Ashish Govindan",
         "company": null,
         "year": "2023",
+        "image": null,
         "link": null
     },
     {
         "name": "Cheng-Hsi Hsiao",
         "company": null,
         "year": "2023",
+        "image": null,
+        "link": null
+    },
+    {
+        "name": "Jeong-yun Won",
+        "company": "Innovative Geotechnology",
+        "year": "2023",
+        "image": "images/donors/ig.jpeg",
         "link": null
     }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "name": "Buchanan",
+    "semester": "Fall 2023",
+    "date": "20 October 2023",
+    "image": "images/seminars/2023_10_20_buchanan.jpg",
+    "caption": "Buchanan Lecture"
+  },
+  {
+    "name": "Haley & Aldrich",
+    "semester": "Fall 2023",
+    "date": "18 October 2023",
+    "image": "images/seminars/2023_10_18_haley_aldrich.jpg",
+    "caption": "Steve Xu, Lorenzo Peve, and Emrah Yenier - Haley & Aldrich"
+  },
+  {
+    "name": "Geolab",
+    "semester": "Fall 2023",
+    "date": "17 October 2023",
+    "image": "images/seminars/2023_10_17_geolab.jpg",
+    "caption": "Robin Lim - Geolab"
+  },
+  {
+    "name": "Cambridge",
+    "semester": "Fall 2023",
+    "date": "16 October 2023",
+    "image": "images/seminars/2023_10_16_cambirdge.jpg",
+    "caption": "Dr. Ze Zhou Wang - University of Cambridge"
+  },
+  {
     "name": "Foresight",
     "semester": "Fall 2023",
     "date": "13 October 2023",

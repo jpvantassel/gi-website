@@ -1,5 +1,29 @@
 [
   {
+    "name": "Halloween Party - Pumpkin Carving",
+    "semester": "Fall 2023",
+    "date": "27 October 2023",
+    "image": "images/social/2023_10_27_pumpkin.jpg",
+    "hover_img": "images/social/2023_10_27_pumpkin2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Halloween Party - Boardgame",
+    "semester": "Fall 2023",
+    "date": "27 October 2023",
+    "image": "images/social/2023_10_27_boardgame.jpg",
+    "hover_img": "images/social/2023_10_27_boardgame2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Halloween Party - Costume Walk Off",
+    "semester": "Fall 2023",
+    "date": "27 October 2023",
+    "image": "images/social/2023_10_27_costume.jpg",
+    "hover_img": "images/social/2023_10_27_costume.jpg",
+    "caption": null
+  },
+  {
     "name": "September and October Birthday Celebration",
     "semester": "Fall 2023",
     "date": "6 October 2023",

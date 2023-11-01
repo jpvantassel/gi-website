@@ -1813,6 +1813,18 @@ input, select, textarea {
 			object-fit: scale-down;
 		}
 
+		.image.donor {
+			display: block;
+			max-width: 18em;
+			width: 50%;
+			height: 5em;
+			margin: 0 0 0.2em 0;
+			margin-left: auto;
+			margin-right: auto;
+			overflow: hidden;
+			object-fit: scale-down;
+		}
+
 /* Button */
 
 	input[type="button"],
