@@ -607,7 +607,7 @@
     "Scientific Machine Learning": {
       "department": "CE",
       "number": "397",
-      "description": "Development and application of limit equilibrium procedures, including effects of seepage, rapid drawdown, and seismic loading and reinforcement for stability analysis of natural and constructed slopes.",
+      "description": "Scientific Machine Learning (SciML) represents a multi-disciplinary approach that fuses the physical laws governing a system (such as equations from physics or engineering) with data-driven machine learning methodologies. SciML uses domain knowledge to design appropriate machine-learning models for different scientific challenges. This domain expertise helps select relevant features, appropriate model architectures, useful validation metrics, etc. SciML exploits structure in scientific data like symmetries and conservation laws to develop more suitable machine learning techniques. For example, physics-informed neural networks incorporate physical principles into their design of loss functions. SciML research also includes extracting fundamental laws or PDEs from neural networks by observing system behavior.",
       "2017": {
         "Spring": false,
         "Fall": false,
