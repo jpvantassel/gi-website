@@ -603,6 +603,53 @@
       "image": "images/courses/Stability of Earth Slopes.png",
       "area": "Geotechnical Engineering",
       "name": "Stability of Earth Slopes"
+    },
+    "Scientific Machine Learning": {
+      "department": "CE",
+      "number": "397",
+      "description": "Development and application of limit equilibrium procedures, including effects of seepage, rapid drawdown, and seismic loading and reinforcement for stability analysis of natural and constructed slopes.",
+      "2017": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2018": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2019": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
+      "image": "images/courses/Scientific Machine Learning.png",
+      "area": "Geotechnical Engineering",
+      "name": "Scientific Machine Learning"
     }
   },
   "Structural Engineering": {

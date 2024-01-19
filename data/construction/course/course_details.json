@@ -24,9 +24,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Consolidation Shearing Properties of Soils.png",
+      "area": "Geotechnical Engineering",
+      "name": "Consolidation Shearing Properties of Soils"
     },
     "Soil and Rock Dynamics": {
       "department": "CE",
@@ -52,9 +70,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Soil and Rock Dynamics.png",
+      "area": "Geotechnical Engineering",
+      "name": "Soil and Rock Dynamics"
     },
     "Advanced Soil and Rock Dynamics": {
       "department": "CE",
@@ -80,13 +116,32 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Advanced Soil and Rock Dynamics.png",
+      "area": "Geotechnical Engineering",
+      "name": "Advanced Soil and Rock Dynamics"
     },
     "Decision, Risk, and Reliability": {
       "department": "CE",
       "number": "387T",
+      "unique": 15605,
       "description": "Principles and theory for modeling uncertainty in civil engineering, analyzing how uncertainties affect performance, and developing rational bases for design and decision making under uncertain conditions.",
       "2017": {
         "Spring": false,
@@ -108,10 +163,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Decision, Risk, and Reliability.png",
+      "area": "Geotechnical Engineering",
+      "name": "Decision, Risk, and Reliability"
     },
     "Advanced Analysis of Geotechnical Engineering": {
       "department": "CE",
@@ -137,10 +210,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Advanced Analysis of Geotechnical Engineering.png",
+      "area": "Geotechnical Engineering",
+      "name": "Advanced Analysis of Geotechnical Engineering"
     },
     "In-Situ Soil Characterization": {
       "department": "CE",
@@ -166,9 +257,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design"
-      ]
+      ],
+      "image": "images/courses/In-Situ Soil Characterization.png",
+      "area": "Geotechnical Engineering",
+      "name": "In-Situ Soil Characterization"
     },
     "Geotechnical Earthquake Engineering": {
       "department": "CE",
@@ -194,10 +303,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Geotechnical Earthquake Engineering.png",
+      "area": "Geotechnical Engineering",
+      "name": "Geotechnical Earthquake Engineering"
     },
     "Foundation Engineering": {
       "department": "CE",
@@ -223,9 +350,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design"
-      ]
+      ],
+      "image": "images/courses/Foundation Engineering.png",
+      "area": "Geotechnical Engineering",
+      "name": "Foundation Engineering"
     },
     "Underground Openings": {
       "department": "CE",
@@ -251,9 +396,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Underground Openings.png",
+      "area": "Geotechnical Engineering",
+      "name": "Underground Openings"
     },
     "Earth Retaining Structures": {
       "department": "CE",
@@ -279,10 +442,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Earth Retaining Structures.png",
+      "area": "Geotechnical Engineering",
+      "name": "Earth Retaining Structures"
     },
     "Geoenvironmental Engineering": {
       "department": "CE",
@@ -308,10 +489,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Geoenvironmental Engineering.png",
+      "area": "Geotechnical Engineering",
+      "name": "Geoenvironmental Engineering"
     },
     "Engineering Geology": {
       "department": "CE",
@@ -337,9 +536,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": true
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": true
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": true
+      },
       "topic": [
         "Design"
-      ]
+      ],
+      "image": "images/courses/Engineering Geology.png",
+      "area": "Geotechnical Engineering",
+      "name": "Engineering Geology"
     },
     "Stability of Earth Slopes": {
       "department": "CE",
@@ -365,9 +582,74 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design"
-      ]
+      ],
+      "image": "images/courses/Stability of Earth Slopes.png",
+      "area": "Geotechnical Engineering",
+      "name": "Stability of Earth Slopes"
+    },
+    "Scientific Machine Learning": {
+      "department": "CE",
+      "number": "397",
+      "description": "Development and application of limit equilibrium procedures, including effects of seepage, rapid drawdown, and seismic loading and reinforcement for stability analysis of natural and constructed slopes.",
+      "2017": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2018": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2019": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
+      "image": "images/courses/Scientific Machine Learning.png",
+      "area": "Geotechnical Engineering",
+      "name": "Scientific Machine Learning"
     }
   },
   "Structural Engineering": {
@@ -395,10 +677,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/The Finite Element Method.png",
+      "area": "Structural Engineering",
+      "name": "The Finite Element Method"
     },
     "Dynamics Response of Structures": {
       "department": "CE",
@@ -424,9 +724,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Dynamics Response of Structures.png",
+      "area": "Structural Engineering",
+      "name": "Dynamics Response of Structures"
     },
     "Earthquake Engineering": {
       "department": "CE",
@@ -452,11 +770,29 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Earthquake Engineering.png",
+      "area": "Structural Engineering",
+      "name": "Earthquake Engineering"
     },
     "Computer Methods in Structural Analysis": {
       "department": "CE",
@@ -482,11 +818,29 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Computer Methods in Structural Analysis.png",
+      "area": "Structural Engineering",
+      "name": "Computer Methods in Structural Analysis"
     }
   },
   "Transportation Engineering": {
@@ -514,10 +868,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Design and Perf of Pavements.png",
+      "area": "Transportation Engineering",
+      "name": "Design and Perf of Pavements"
     },
     "Bituminous Materials": {
       "department": "CE",
@@ -543,9 +915,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design"
-      ]
+      ],
+      "image": "images/courses/Bituminous Materials.png",
+      "area": "Transportation Engineering",
+      "name": "Bituminous Materials"
     }
   },
   "Petroleum and Geosystems Engineering": {
@@ -573,10 +963,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Advanced Geomechanics.png",
+      "area": "Petroleum and Geosystems Engineering",
+      "name": "Advanced Geomechanics"
     },
     "Advanced Reservoir Engineering": {
       "department": "PGE",
@@ -602,10 +1010,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Advanced Reservoir Engineering.png",
+      "area": "Petroleum and Geosystems Engineering",
+      "name": "Advanced Reservoir Engineering"
     },
     "Finite Element Methods": {
       "department": "PGE",
@@ -631,10 +1057,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Finite Element Methods.png",
+      "area": "Petroleum and Geosystems Engineering",
+      "name": "Finite Element Methods"
     }
   },
   "Geological Science": {
@@ -662,9 +1106,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Advanced Structural Geology.png",
+      "area": "Geological Science",
+      "name": "Advanced Structural Geology"
     },
     "Seismology 2": {
       "department": "GEO",
@@ -690,9 +1152,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Seismology 2.png",
+      "area": "Geological Science",
+      "name": "Seismology 2"
     },
     "Computational Methods in Geoscience": {
       "department": "GEO",
@@ -718,9 +1198,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling"
-      ]
+      ],
+      "image": "images/courses/Computational Methods in Geoscience.png",
+      "area": "Geological Science",
+      "name": "Computational Methods in Geoscience"
     },
     "Inverse Theory": {
       "department": "GEO",
@@ -746,9 +1244,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Inverse Theory.png",
+      "area": "Geological Science",
+      "name": "Inverse Theory"
     },
     "Geomorphology Process & Form": {
       "department": "GEO",
@@ -775,9 +1291,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Geomorphology Process & Form.png",
+      "area": "Geological Science",
+      "name": "Geomorphology Process & Form"
     },
     "Seismology 1": {
       "department": "GEO",
@@ -804,10 +1338,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Seismology 1.png",
+      "area": "Geological Science",
+      "name": "Seismology 1"
     },
     "Seismic Imaging": {
       "department": "GEO",
@@ -833,9 +1385,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Seismic Imaging.png",
+      "area": "Geological Science",
+      "name": "Seismic Imaging"
     },
     "Modeling flow and transport through porous materials": {
       "department": "GEO",
@@ -861,10 +1431,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Modeling flow and transport through porous materials.png",
+      "area": "Geological Science",
+      "name": "Modeling flow and transport through porous materials"
     },
     "Vadose Zone Hydrology": {
       "department": "GEO",
@@ -890,10 +1478,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Vadose Zone Hydrology.png",
+      "area": "Geological Science",
+      "name": "Vadose Zone Hydrology"
     },
     "Crustal Geofluids": {
       "department": "GEO",
@@ -919,10 +1525,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Crustal Geofluids.png",
+      "area": "Geological Science",
+      "name": "Crustal Geofluids"
     }
   },
   "Statistics and Data Sciences": {
@@ -950,9 +1574,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Statistical Methods 1.png",
+      "area": "Statistics and Data Sciences",
+      "name": "Statistical Methods 1"
     },
     "Statistical Methods 2": {
       "department": "SDS",
@@ -978,9 +1620,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Statistical Methods 2.png",
+      "area": "Statistics and Data Sciences",
+      "name": "Statistical Methods 2"
     },
     "Monte Carlo Methods in Stats": {
       "department": "SDS",
@@ -1006,10 +1666,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Monte Carlo Methods in Stats.png",
+      "area": "Statistics and Data Sciences",
+      "name": "Monte Carlo Methods in Stats"
     },
     "Bootstrap Statistics": {
       "department": "SDS",
@@ -1035,10 +1713,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Bootstrap Statistics.png",
+      "area": "Statistics and Data Sciences",
+      "name": "Bootstrap Statistics"
     },
     "Regression Analysis": {
       "department": "SDS",
@@ -1064,10 +1760,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Regression Analysis.png",
+      "area": "Statistics and Data Sciences",
+      "name": "Regression Analysis"
     },
     "Intro Scientific Programming": {
       "department": "SDS",
@@ -1093,10 +1807,28 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Intro Scientific Programming.png",
+      "area": "Statistics and Data Sciences",
+      "name": "Intro Scientific Programming"
     }
   },
   "Engineering Mechanics": {
@@ -1124,9 +1856,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Solid Mechanics 1.png",
+      "area": "Engineering Mechanics",
+      "name": "Solid Mechanics 1"
     },
     "Solid Mechanics 2": {
       "department": "EM",
@@ -1152,9 +1902,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Solid Mechanics 2.png",
+      "area": "Engineering Mechanics",
+      "name": "Solid Mechanics 2"
     },
     "Advanced Theory of Finite Element Methods": {
       "department": "EM",
@@ -1180,10 +1948,28 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Advanced Theory of Finite Element Methods.png",
+      "area": "Engineering Mechanics",
+      "name": "Advanced Theory of Finite Element Methods"
     },
     "Wave Propagation 1": {
       "department": "EM",
@@ -1209,9 +1995,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Wave Propagation 1.png",
+      "area": "Engineering Mechanics",
+      "name": "Wave Propagation 1"
     }
   },
   "Electrical Engineering": {
@@ -1239,9 +2043,27 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Acoustics 1.png",
+      "area": "Electrical Engineering",
+      "name": "Acoustics 1"
     },
     "Acoustics 2": {
       "department": "EE",
@@ -1267,9 +2089,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Acoustics 2.png",
+      "area": "Electrical Engineering",
+      "name": "Acoustics 2"
     },
     "Wave Phenomena": {
       "department": "EE",
@@ -1295,9 +2135,27 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Wave Phenomena.png",
+      "area": "Electrical Engineering",
+      "name": "Wave Phenomena"
     },
     "Electromechanical Transducers": {
       "department": "EE",
@@ -1323,11 +2181,29 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Design",
         "Theory"
-      ]
+      ],
+      "image": "images/courses/Electromechanical Transducers.png",
+      "area": "Electrical Engineering",
+      "name": "Electromechanical Transducers"
     }
   }
 }

@@ -6,7 +6,8 @@ import json
 
 # data = pd.read_csv("2019_08_responses_clean.csv")
 # data = pd.read_csv("2020_01_responses_clean.csv")
-data = pd.read_csv("2023_08_responses_clean.csv")
+# data = pd.read_csv("2023_08_responses_clean.csv")
+data = pd.read_csv("2024_01_responses_clean.csv")
 
 with open("classes_by_dept.json", "r") as f:
     classes_by_dept = json.load(f)
@@ -55,5 +56,6 @@ for header in data:
 # print(courses)
 # with open("2019_08_survey_results.json", "w") as f:
 # with open("2020_01_survey_results.json", "w") as f:
-with open("2023_08_survey_results.json", "w") as f:
+# with open("2023_08_survey_results.json", "w") as f:
+with open("2024_01_survey_results.json", "w") as f:
     json.dump(courses, f, indent=2)

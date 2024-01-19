@@ -24,6 +24,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -53,6 +68,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -86,6 +116,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -96,6 +141,7 @@
     "Decision, Risk, and Reliability": {
       "department": "CE",
       "number": "387T",
+      "unique": 15605,
       "description": "Principles and theory for modeling uncertainty in civil engineering, analyzing how uncertainties affect performance, and developing rational bases for design and decision making under uncertain conditions.",
       "2017": {
         "Spring": false,
@@ -115,6 +161,21 @@
       "2020": {
         "Spring": false,
         "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
         "Summer": false
       },
       "topic": [
@@ -145,6 +206,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": true,
         "Fall": false,
         "Summer": false
@@ -181,6 +257,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design"
       ],
@@ -209,6 +300,21 @@
       },
       "2020": {
         "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
         "Fall": false,
         "Summer": false
       },
@@ -244,6 +350,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design"
       ],
@@ -275,6 +396,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -302,6 +438,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
         "Spring": true,
         "Fall": false,
         "Summer": false
@@ -338,6 +489,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
@@ -370,6 +536,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": true
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": true
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": true
+      },
       "topic": [
         "Design"
       ],
@@ -401,12 +582,74 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Design"
       ],
       "image": "images/courses/Stability of Earth Slopes.png",
       "area": "Geotechnical Engineering",
       "name": "Stability of Earth Slopes"
+    },
+    "Scientific Machine Learning": {
+      "department": "CE",
+      "number": "397",
+      "description": "Development and application of limit equilibrium procedures, including effects of seepage, rapid drawdown, and seismic loading and reinforcement for stability analysis of natural and constructed slopes.",
+      "2017": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2018": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2019": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "topic": [
+        "Modeling",
+        "Theory"
+      ],
+      "image": "images/courses/Scientific Machine Learning.png",
+      "area": "Geotechnical Engineering",
+      "name": "Scientific Machine Learning"
     }
   },
   "Structural Engineering": {
@@ -430,6 +673,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": false,
         "Fall": true,
         "Summer": false
@@ -466,6 +724,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -495,6 +768,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -528,6 +816,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -565,6 +868,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": true,
+        "Summer": false
+      },
       "topic": [
         "Design",
         "Theory"
@@ -595,6 +913,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -630,6 +963,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
@@ -662,6 +1010,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
@@ -692,6 +1055,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -728,6 +1106,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -757,6 +1150,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -790,6 +1198,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling"
       ],
@@ -817,6 +1240,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": false,
         "Fall": false,
         "Summer": false
@@ -853,6 +1291,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -883,6 +1336,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -917,6 +1385,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -944,6 +1427,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": false,
         "Fall": false,
         "Summer": false
@@ -980,6 +1478,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
@@ -1008,6 +1521,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": false,
         "Fall": false,
         "Summer": false
@@ -1046,6 +1574,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -1077,6 +1620,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -1104,6 +1662,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": false,
         "Fall": false,
         "Summer": false
@@ -1140,6 +1713,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
@@ -1172,6 +1760,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
@@ -1202,6 +1805,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": true,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
         "Summer": false
       },
       "topic": [
@@ -1238,6 +1856,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -1265,6 +1898,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": false,
         "Fall": false,
         "Summer": false
@@ -1300,6 +1948,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Modeling",
         "Theory"
@@ -1328,6 +1991,21 @@
         "Summer": false
       },
       "2020": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
         "Spring": false,
         "Fall": false,
         "Summer": false
@@ -1365,6 +2043,21 @@
         "Fall": true,
         "Summer": false
       },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -1393,6 +2086,21 @@
       },
       "2020": {
         "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
         "Fall": false,
         "Summer": false
       },
@@ -1427,6 +2135,21 @@
         "Fall": false,
         "Summer": false
       },
+      "2021": {
+        "Spring": true,
+        "Fall": false,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
       "topic": [
         "Theory"
       ],
@@ -1456,6 +2179,21 @@
       "2020": {
         "Spring": false,
         "Fall": true,
+        "Summer": false
+      },
+      "2021": {
+        "Spring": false,
+        "Fall": true,
+        "Summer": false
+      },
+      "2022": {
+        "Spring": false,
+        "Fall": false,
+        "Summer": false
+      },
+      "2023": {
+        "Spring": false,
+        "Fall": false,
         "Summer": false
       },
       "topic": [

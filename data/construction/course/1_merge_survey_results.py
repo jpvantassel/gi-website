@@ -6,6 +6,7 @@ results = [
     "2019_08_survey_results.json",
     "2020_01_survey_results.json",
     "2023_08_survey_results.json",
+    "2024_01_survey_results.json",
 ]
 
 summary = {}
