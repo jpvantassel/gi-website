@@ -1,5 +1,19 @@
 [
   {
+    "name": "WSP",
+    "semester": "Fall 2023",
+    "date": "15 Nov 2023",
+    "image": "images/seminars/2023_11_15_wsp.jpg",
+    "caption": "Dr. William Hansmire from WSP"
+  },
+  {
+    "name": "NTU",
+    "semester": "Fall 2023",
+    "date": "3 Nov 2023",
+    "image": "images/seminars/2023_11_03_ntu.jpg",
+    "caption": "Dr. Kuo-Hsin Yang from National Taiwan University"
+  },
+  {
     "name": "Buchanan",
     "semester": "Fall 2023",
     "date": "20 October 2023",

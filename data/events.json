@@ -1,5 +1,21 @@
 [
   {
+    "name": "End of the Semester Graduation/Christmas Party",
+    "semester": "Fall 2023",
+    "date": "10 December 2023",
+    "image": "images/social/2023_12_10_christmas.jpeg",
+    "hover_img": "images/social/2023_12_10_christmas2.jpeg",
+    "caption": null
+  },
+  {
+    "name": "Alumni Tailgate - Kansas State Wildcats vs Texas Longhorns",
+    "semester": "Fall 2023",
+    "date": "4 November 2023",
+    "image": "images/social/2023_11_04_tailgate.jpg",
+    "hover_img": "images/social/2023_11_04_tailgate2.jpg",
+    "caption": null
+  },
+  {
     "name": "Halloween Party - Pumpkin Carving",
     "semester": "Fall 2023",
     "date": "27 October 2023",

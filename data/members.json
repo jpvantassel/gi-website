@@ -45,15 +45,6 @@
         "link": "https://www.linkedin.com/in/anthony-matar-546546192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B560K2yp%2BSi20IQjXKMtS%2Bg%3D%3D"
     },
     {
-        "name": "Anusha  Vajapeyajula",
-        "path": "images/members/anusha__vajapeyajula.jpg",
-        "degree": "MS",
-        "country": "India",
-        "state": "",
-        "city": "",
-        "link": "https://www.linkedin.com/in/anusha-vajapeyajulaa5"
-    },
-    {
         "name": "Ashish Govindan",
         "path": "images/members/ashish_govindan.jpg",
         "degree": "MS",
@@ -216,6 +207,15 @@
         "link": null
     },
     {
+        "name": "Mahsa Nia",
+        "path": "images/members/mahsa_nia.jpg",
+        "degree": "PhD",
+        "country": "Iran",
+        "state": "",
+        "city": "Tehran",
+        "link": null
+    },
+    {
         "name": "Mehmet Turkezer",
         "path": "images/members/mehmet_turkezer.jpg",
         "degree": "PhD",
@@ -243,15 +243,6 @@
         "link": "https://www.caee.utexas.edu/people/faculty/faculty-directory/gilbert"
     },
     {
-        "name": "Shantel Ramlo",
-        "path": "images/members/shantel_ramlo.jpg",
-        "degree": "MS",
-        "country": "United States",
-        "state": "South Dakota",
-        "city": "Brookings",
-        "link": "https://www.linkedin.com/in/shantelramlo/"
-    },
-    {
         "name": "Sharen Wallace",
         "path": "images/members/sharen_wallace.jpg",
         "degree": "MS",
@@ -277,6 +268,15 @@
         "state": "",
         "city": "Seoul",
         "link": "https://drive.google.com/file/d/1IVJEVAZj_Br5IBFouw2oygf96cWHQWM_/view?usp=drive_link"
+    },
+    {
+        "name": "Venkataraman Ramesh",
+        "path": "images/members/venkataraman_ramesh.jpg",
+        "degree": "PhD",
+        "country": "India",
+        "state": "Tamilnadu",
+        "city": "Trichy",
+        "link": null
     },
     {
         "name": "Will Pliska",

@@ -6,6 +6,12 @@
         "link": "https://www.linkedin.com/in/abhigyap"
     },
     {
+        "name": "Anusha  Vajapeyajula",
+        "path": "images/members/anusha__vajapeyajula.jpg",
+        "class": "2023",
+        "link": "https://www.linkedin.com/in/anusha-vajapeyajulaa5"
+    },
+    {
         "name": "Ahmed Hussien",
         "class": "2022",
         "path": "images/members/ahmed_hussien.jpg",
@@ -118,6 +124,12 @@
         "class": null,
         "path": "images/members/saurabh_pgupta.jpeg",
         "link": null
+    },
+    {
+        "name": "Shantel Ramlo",
+        "path": "images/members/shantel_ramlo.jpg",
+        "class": "2023",
+        "link": "https://www.linkedin.com/in/shantelramlo/"
     },
     {
         "name": "Shiyuan Li",
