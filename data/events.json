@@ -1,5 +1,13 @@
 [
   {
+    "name": "Bowling night",
+    "semester": "Spring 2024",
+    "date": "19 January 2023",
+    "image": "images/social/2024_01_19_bowling.jpg",
+    "hover_img": "images/social/2024_01_19_bowling2.jpg",
+    "caption": null
+  },
+  {
     "name": "End of the Semester Graduation/Christmas Party",
     "semester": "Fall 2023",
     "date": "10 December 2023",
