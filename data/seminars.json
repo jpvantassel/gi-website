@@ -1,5 +1,26 @@
 [
   {
+    "name": "Site Visit",
+    "semester": "Spring 2024",
+    "date": "14 Feb 2024",
+    "image": "images/seminars/2024_02_14_site.jpg",
+    "caption": "Site Visit at EDB"
+  },
+  {
+    "name": "WSP",
+    "semester": "Spring 2024",
+    "date": "2 Feb 2024",
+    "image": "images/seminars/2024_02_02_wsp.jpeg",
+    "caption": "Dr. Ahmed Hussien from WSP"
+  },
+  {
+    "name": "Innovative Geotechnology",
+    "semester": "Spring 2024",
+    "date": "26 Jan 2024",
+    "image": "images/seminars/2024_01_26_innovative.jpg",
+    "caption": "Dr. Jeong-Yun Won from Innovative Geotechnology"
+  },
+  {
     "name": "WSP",
     "semester": "Fall 2023",
     "date": "15 Nov 2023",

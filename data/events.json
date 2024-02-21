@@ -1,8 +1,24 @@
 [
   {
+    "name": "Sports day",
+    "semester": "Spring 2024",
+    "date": "17 February 2024",
+    "image": "images/social/2024_02_17_sport.jpeg",
+    "hover_img": "images/social/2024_02_17_sport2.jpeg",
+    "caption": null
+  },
+  {
+    "name": "Geotechnical Trivia",
+    "semester": "Spring 2024",
+    "date": "09 February 2024",
+    "image": "images/social/2024_02_09_trivia.jpeg",
+    "hover_img": "images/social/2024_02_09_trivia2.jpeg",
+    "caption": null
+  },
+  {
     "name": "Bowling night",
     "semester": "Spring 2024",
-    "date": "19 January 2023",
+    "date": "19 January 2024",
     "image": "images/social/2024_01_19_bowling.jpg",
     "hover_img": "images/social/2024_01_19_bowling2.jpg",
     "caption": null
