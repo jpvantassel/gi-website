@@ -1,5 +1,21 @@
 [
   {
+    "name": "Geo-Congress 2024",
+    "semester": "Spring 2024",
+    "date": "25 Feb 2024",
+    "image": "images/social/2024_02_25_geocongress.jpg",
+    "hover_img": "images/social/2024_02_25_geocongress2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Girls day",
+    "semester": "Spring 2024",
+    "date": "24 February 2024",
+    "image": "images/social/2024_02_24_girl.JPG",
+    "hover_img": "images/social/2024_02_24_girl2.JPG",
+    "caption": null
+  },
+  {
     "name": "Sports day",
     "semester": "Spring 2024",
     "date": "17 February 2024",
