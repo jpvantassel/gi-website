@@ -1,5 +1,13 @@
 [
   {
+    "name": "Geology Field Trip",
+    "semester": "Spring 2024",
+    "date": "23 Mar 2024",
+    "image": "images/social/2024_03_23_geology.jpg",
+    "hover_img": "images/social/2024_03_23_geology2.jpg",
+    "caption": null
+  },
+  {
     "name": "Geo-Congress 2024",
     "semester": "Spring 2024",
     "date": "25 Feb 2024",
