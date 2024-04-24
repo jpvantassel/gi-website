@@ -1,4 +1,26 @@
 [
+  
+  {
+    "name": "Site Visit - EDB",
+    "semester": "Spring 2024",
+    "date": "17 April 2024",
+    "image": "images/seminars/2024_04_17_edb.jpg",
+    "caption": "Site Visit - Installation of the drilled shafts for EDB"
+  },
+  {
+    "name": "Reese",
+    "semester": "Spring 2024",
+    "date": "12 April 2024",
+    "image": "images/seminars/2024_04_12_reese.jpg",
+    "caption": "Reese Lecture - Dr. Rudy Bonaparte of GeoSyntec Consultants"
+  },
+  {
+    "name": "Kiewit",
+    "semester": "Spring 2024",
+    "date": "5 April 2024",
+    "image": "images/seminars/2024_04_05_kiewit.jpg",
+    "caption": "Lizan Gilbert, Paul Madsen, and Ben Seling of Kiewit"
+  },
   {
     "name": "Fugro",
     "semester": "Spring 2024",

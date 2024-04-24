@@ -22,7 +22,7 @@ function donorTemplate(donor) {
 }
 
 $.getJSON('data/donors.json', function (donordata) {
-    var ncols = 4;
+    var ncols = 3;
     var master = ``;
     var div_open = false;
     for (var i = 0; i<donordata.length; i++ ){

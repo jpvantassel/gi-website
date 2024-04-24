@@ -1,5 +1,13 @@
 [
   {
+    "name": "Reese Golf Tournament",
+    "semester": "Spring 2024",
+    "date": "13 April 2024",
+    "image": "images/social/2024_04_13_golf.jpg",
+    "hover_img": "images/social/2024_04_13_golf2.jpg",
+    "caption": null
+  },
+  {
     "name": "Geology Field Trip",
     "semester": "Spring 2024",
     "date": "23 Mar 2024",
