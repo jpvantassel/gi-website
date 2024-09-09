@@ -1,5 +1,21 @@
 [
   {
+    "name": "Fall 2024 Kayaking",
+    "semester": "Fall 2024",
+    "date": "7 September 2024",
+    "image": "images/social/2024_09_07_kayaking.jpeg",
+    "hover_img": "images/social/2024_09_07_kayaking2.jpeg",
+    "caption": null
+  },
+  {
+    "name": "Fall 2024 First General Meeting",
+    "semester": "Fall 2024",
+    "date": "30 August 2024",
+    "image": "images/social/2024_08_30_gi_meeting.jpg",
+    "hover_img": "images/social/2024_08_30_gi_meeting2.jpg",
+    "caption": null
+  },
+  {
     "name": "Reese Golf Tournament",
     "semester": "Spring 2024",
     "date": "13 April 2024",
