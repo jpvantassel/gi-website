@@ -1,21 +1,51 @@
 [
     {
-        "name": ".Ds Store",
+        "name": "A. Mert Kavala",
         "class": null,
-        "path": "images/members/.DS_Store",
-        "link": null
+        "path": "images/members/a._mert_kavala.jpg",
+        "link": "https://www.linkedin.com/in/mertkavala"
     },
     {
         "name": "Abhigya Paudyal",
-        "class": null,
+        "class": "2023",
         "path": "images/members/abhigya_paudyal.jpg",
-        "link": null
+        "link": "https://www.linkedin.com/in/abhigyap"
     },
     {
-        "name": "Ashray Saxena",
+        "name": "Adityo Andikaputra",
         "class": null,
-        "path": "images/members/ashray_saxena.jpg",
-        "link": null
+        "path": "images/members/adityo_andikaputra.jpg",
+        "link": "https://www.linkedin.com/in/adityo-muhammad-andikaputra-940554124"
+    },
+    {
+        "name": "Ahmed Hussien",
+        "class": "2022",
+        "path": "images/members/ahmed_hussien.jpg",
+        "link": "https://www.linkedin.com/in/ahmed-hussien-geo"
+    },
+    {
+        "name": "Angel de la Cruz",
+        "class": null,
+        "path": "images/members/angel_de_la_cruz.jpg",
+        "link": "https://www.linkedin.com/in/angel-de-la-cruz-90473b190"
+    },
+    {
+        "name": "Anthony Matar",
+        "class": null,
+        "path": "images/members/anthony__matar.jpg",
+        "link": "https://www.linkedin.com/in/anthony-matar-546546192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B560K2yp%2BSi20IQjXKMtS%2Bg%3D%3D"
+    },
+    {
+        "name": "Anusha  Vajapeyajula",
+        "path": "images/members/anusha__vajapeyajula.jpg",
+        "class": "2023",
+        "link": "https://www.linkedin.com/in/anusha-vajapeyajulaa5"
+    },
+    {
+        "name": "Ashish Govindan",
+        "class": null,
+        "path": "images/members/ashish_govindan.jpg",
+        "link": "www.linkedin.com/in/ashish-govindan-eit-571868151"
     },
     {
         "name": "Behdad Mofarraj",
@@ -30,122 +60,152 @@
         "link": null
     },
     {
-        "name": "Eder Tapia",
+        "name": "Brent Sordo",
         "class": null,
-        "path": "images/members/eder_tapia.JPG",
+        "path": "images/members/brent_sordo.jpg",
         "link": null
     },
     {
-        "name": "Faisal Alotaibi",
+        "name": "Carlos Acosta",
         "class": null,
-        "path": "images/members/faisal_alotaibi.jpg",
-        "link": null
+        "path": "images/members/carlos_acosta.jpg",
+        "link": "https://sites.utexas.edu/zornberg/carlos-acosta/"
     },
     {
-        "name": "Hassan Alkaaby Alzoaby",
+        "name": "Chih-Yu Tung",
         "class": null,
-        "path": "images/members/hassan_alkaaby_alzoaby.jpg",
-        "link": null
+        "path": "images/members/chih-yu_tung.jpg",
+        "link": "https://www.linkedin.com/in/chih-yu-tung-sheldon/"
+    },
+    {
+        "name": "Dawie Marx",
+        "class": null,
+        "path": "images/members/dawie_marx.jpg",
+        "link": "https://www.linkedin.com/in/dawie-marx/"
+    },
+    {
+        "name": "Etienne Gonzalez",
+        "class": null,
+        "path": "images/members/etienne_gonzalez.jpg",
+        "link": "https://www.linkedin.com/in/etiennegonzalez/"
+    },
+    {
+        "name": "Fernando Ramirez",
+        "class": null,
+        "path": "images/members/fernando_ramirez.jpg",
+        "link": "https://www.linkedin.com/in/fernando-ramirez-engineer/"
+    },
+    {
+        "name": "Jeremy Goethals",
+        "class": null,
+        "path": "images/members/jeremy_goethals.jpg",
+        "link": "https://www.linkedin.com/me?trk=p_mwlite_my_network-secondary_nav"
     },
     {
         "name": "Jie Xiong",
-        "class": null,
+        "class": "2023",
         "path": "images/members/jie_xiong.jpg",
         "link": null
     },
     {
         "name": "Jodie Crocker",
-        "class": null,
+        "class": "2023",
         "path": "images/members/jodie_crocker.jpg",
         "link": null
     },
     {
-        "name": "Kai Feng",
+        "name": "Jorge Loaisiga",
         "class": null,
+        "path": "images/members/jorge_loaisiga.jpg",
+        "link": "linkedin.com/in/loaisiga"
+    },
+    {
+        "name": "Julia Grasley",
+        "class": null,
+        "path": "images/members/julia_grasley.jpg",
+        "link": "https://www.linkedin.com/in/julia-grasley-6b7a83130/"
+    },
+    {
+        "name": "Kai Feng",
+        "class": "2022",
         "path": "images/members/kai_feng.jpg",
         "link": null
     },
     {
         "name": "Karen Mena Arango",
-        "class": null,
+        "class": "2023",
         "path": "images/members/karen_mena_arango.jpg",
         "link": null
     },
     {
         "name": "Laxmi Manisha Gandham",
-        "class": null,
+        "class": "2023",
         "path": "images/members/laxmi_manisha_gandham.jpg",
         "link": null
     },
     {
-        "name": "Mahfooz Alam",
+        "name": "Mehmet Turkezer",
         "class": null,
-        "path": "images/members/mahfooz_alam.jpg",
-        "link": null
+        "path": "images/members/mehmet_turkezer.jpg",
+        "link": "https://linkedin.com/in/mturkezer"
     },
     {
         "name": "Meredith Normand",
-        "class": null,
+        "class": "2022",
         "path": "images/members/meredith_normand.jpg",
         "link": null
     },
     {
         "name": "Michael Schillage",
-        "class": null,
+        "class": "2022",
         "path": "images/members/michael_schillage.JPG",
         "link": null
     },
     {
         "name": "Michael Yust",
-        "class": null,
+        "class": "2022",
         "path": "images/members/michael_yust.jpg",
         "link": null
     },
     {
         "name": "Miqueias Brikalski",
-        "class": null,
+        "class": "2022",
         "path": "images/members/miqueias_brikalski.jpg",
         "link": null
     },
     {
         "name": "Mrunmay J",
-        "class": null,
+        "class": "2022",
         "path": "images/members/mrunmay_j.jpg",
         "link": null
     },
     {
         "name": "Nazek Naja",
-        "class": null,
+        "class": "2023",
         "path": "images/members/nazek_naja.jpg",
         "link": null
     },
     {
         "name": "Olaide Ojomo",
-        "class": null,
+        "class": "2023",
         "path": "images/members/olaide_ojomo.jpg",
         "link": null
     },
     {
         "name": "Olivia Chasse",
-        "class": null,
+        "class": "2023",
         "path": "images/members/olivia_chasse.jpeg",
         "link": null
     },
     {
-        "name": "Original Logo",
-        "class": null,
-        "path": "images/members/original_logo.jpeg",
-        "link": null
-    },
-    {
         "name": "Qiuyu Wang",
-        "class": null,
+        "class": "2023",
         "path": "images/members/qiuyu_wang.jpg",
         "link": null
     },
     {
         "name": "Reihaneh Hosseini",
-        "class": null,
+        "class": "2022",
         "path": "images/members/reihaneh_hosseini.jpg",
         "link": null
     },
@@ -156,15 +216,57 @@
         "link": null
     },
     {
-        "name": "Shiyuan Li",
+        "name": "Shantel Ramlo",
+        "path": "images/members/shantel_ramlo.jpg",
+        "class": "2023",
+        "link": "https://www.linkedin.com/in/shantelramlo/"
+    },
+    {
+        "name": "Sharen Wallace",
         "class": null,
+        "path": "images/members/sharen_wallace.jpg",
+        "link": "http://linkedin.com/in/sharenwallace"
+    },
+    {
+        "name": "Shiyuan Li",
+        "class": "2023",
         "path": "images/members/shiyuan_li.jpg",
         "link": null
     },
     {
         "name": "Steve Xu",
-        "class": null,
+        "class": "2022",
         "path": "images/members/steve_xu.jpg",
         "link": null
+    },
+    {
+        "name": "Tarig Abuzeid ",
+        "class": "2022",
+        "path": "images/members/tarig_abuzeid.jpg",
+        "link": "https://www.linkedin.com/in/tarig-abuzeid-b95507196"
+    },
+    {
+        "name": "Venkataraman Ramesh",
+        "class": null,
+        "path": "images/members/venkataraman_ramesh.jpg",
+        "link": null
+    },
+    {
+        "name": "Will Pliska",
+        "class": null,
+        "path": "images/members/will_pliska.jpg",
+        "link": null
+    },
+    {
+        "name": "Yiwei Ye",
+        "class": null,
+        "path": "images/members/yiwei_ye.jpg",
+        "link": "https://www.yeyiwei.org/"
+    },
+    {
+        "name": "Yongjin Choi",
+        "class": null,
+        "path": "images/members/yongjin_choi.jpg",
+        "link": "https://sites.google.com/view/geo-yjchoi/"
     }
 ]

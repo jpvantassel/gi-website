@@ -1,24 +1,6 @@
 [
     {
-        "name": "A. Mert Kavala",
-        "path": "images/members/a._mert_kavala.jpg",
-        "degree": "MSc & PhD",
-        "country": "Turkey",
-        "state": "",
-        "city": "Istanbul",
-        "link": "https://www.linkedin.com/in/mertkavala"
-    },
-    {
-        "name": "Adityo Andikaputra",
-        "path": "images/members/adityo_andikaputra.jpg",
-        "degree": "MS",
-        "country": "Indonesia",
-        "state": "West Java",
-        "city": "Bandung",
-        "link": "https://www.linkedin.com/in/adityo-muhammad-andikaputra-940554124"
-    },
-    {
-        "name": "Alexandra Clarà Saracho",
+        "name": "Alexandra Clar\u00e0 Saracho",
         "path": "images/members/saracho.jpg",
         "degree": "Professor",
         "country": "Spain",
@@ -27,49 +9,13 @@
         "link": "https://www.caee.utexas.edu/people/faculty/faculty-directory/saracho"
     },
     {
-        "name": "Angel de la Cruz",
-        "path": "images/members/angel_de_la_cruz.jpg",
-        "degree": "MS",
-        "country": "United States",
-        "state": "Texas",
-        "city": "Austin",
-        "link": "https://www.linkedin.com/in/angel-de-la-cruz-90473b190"
-    },
-    {
-        "name": "Anthony  Matar",
-        "path": "images/members/anthony__matar.jpg",
-        "degree": "MS",
-        "country": "Lebanon",
-        "state": "",
-        "city": "Beirut",
-        "link": "https://www.linkedin.com/in/anthony-matar-546546192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B560K2yp%2BSi20IQjXKMtS%2Bg%3D%3D"
-    },
-    {
-        "name": "Ashish Govindan",
-        "path": "images/members/ashish_govindan.jpg",
-        "degree": "MS",
-        "country": "United States",
-        "state": "Texas",
-        "city": "Lubbock",
-        "link": "www.linkedin.com/in/ashish-govindan-eit-571868151"
-    },
-    {
-        "name": "Brent Sordo",
-        "path": "images/members/brent_sordo.jpg",
+        "name": "Ashray Saxena",
+        "path": "images/members/ashray_saxena.jpg",
         "degree": "PhD",
-        "country": "United States",
-        "state": "California",
-        "city": "Modesto",
+        "country": "India",
+        "state": "",
+        "city": "Aligarh",
         "link": null
-    },
-    {
-        "name": "Carlos Acosta",
-        "path": "images/members/carlos_acosta.jpg",
-        "degree": "PhD",
-        "country": "Colombia",
-        "state": "",
-        "city": "",
-        "link": "https://sites.utexas.edu/zornberg/carlos-acosta/"
     },
     {
         "name": "Chadi El Mohtar",
@@ -99,22 +45,13 @@
         "link": "https://www.linkedin.com/in/chenghao-bai-8168b3207/"
     },
     {
-        "name": "Chih-Yu Tung",
-        "path": "images/members/chih-yu_tung.jpg",
-        "degree": "PhD",
-        "country": "Taiwan",
+        "name": "DesiNur Marlina",
+        "path": "images/members/desinur_marlina.jpg",
+        "degree": "MS",
+        "country": "Indonesia",
         "state": "",
-        "city": "Taichung",
-        "link": "https://www.linkedin.com/in/chih-yu-tung-sheldon/"
-    },
-    {
-        "name": "Dawie Marx",
-        "path": "images/members/dawie_marx.jpg",
-        "degree": "PhD",
-        "country": "South Africa",
-        "state": "",
-        "city": "Pretoria",
-        "link": "https://www.linkedin.com/in/dawie-marx/"
+        "city": "Bandung",
+        "link": "https://www.linkedin.com/in/desi-nur-marlina-b44915301/"
     },
     {
         "name": "Ellen Rathje",
@@ -126,40 +63,13 @@
         "link": "https://sites.google.com/view/erathje"
     },
     {
-        "name": "Etienne Gonzalez",
-        "path": "images/members/etienne_gonzalez.jpg",
+        "name": "Faisal Alotaibi",
+        "path": "images/members/faisal_alotaibi.jpg",
         "degree": "PhD",
-        "country": "Mexico",
+        "country": "Saudi Arabia",
         "state": "",
-        "city": "Mexico City",
-        "link": "https://www.linkedin.com/in/etiennegonzalez/"
-    },
-    {
-        "name": "Fernando Ramirez",
-        "path": "images/members/fernando_ramirez.jpg",
-        "degree": "MS",
-        "country": "Mexico",
-        "state": "",
-        "city": "San Luis Potosi",
-        "link": "https://www.linkedin.com/in/fernando-ramirez-engineer/"
-    },
-    {
-        "name": "Jeremy Goethals",
-        "path": "images/members/jeremy_goethals.jpg",
-        "degree": "MS",
-        "country": "United States",
-        "state": "Texas",
-        "city": "Houston",
-        "link": "https://www.linkedin.com/me?trk=p_mwlite_my_network-secondary_nav"
-    },
-    {
-        "name": "Jorge Loaisiga",
-        "path": "images/members/jorge_loaisiga.jpg",
-        "degree": "MS",
-        "country": "Nicaragua",
-        "state": "",
-        "city": "Managua",
-        "link": "linkedin.com/in/loaisiga"
+        "city": "Riyadh",
+        "link": "https://www.linkedin.com/in/faisal-alotaibi-5221a4165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
         "name": "Jorge Zornberg",
@@ -171,15 +81,6 @@
         "link": "https://sites.utexas.edu/zornberg/"
     },
     {
-        "name": "Julia Grasley",
-        "path": "images/members/julia_grasley.jpg",
-        "degree": "PhD",
-        "country": "United States",
-        "state": "Texas",
-        "city": "College Station",
-        "link": "https://www.linkedin.com/in/julia-grasley-6b7a83130/"
-    },
-    {
         "name": "Kenneth Stokoe",
         "path": "images/members/stokoe.jpg",
         "degree": "Professor",
@@ -187,6 +88,15 @@
         "state": "",
         "city": "",
         "link": "https://www.caee.utexas.edu/prof/stokoe/home.html"
+    },
+    {
+        "name": "KowshikKumar Thalluru",
+        "path": "images/members/kowshikkumar_thalluru.jpg",
+        "degree": "MS",
+        "country": "India",
+        "state": "Andhra Pradesh",
+        "city": "Nellore",
+        "link": "https://www.linkedin.com/in/kowshik-kumar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
     },
     {
         "name": "Krishna Kumar",
@@ -198,13 +108,13 @@
         "link": null
     },
     {
-        "name": "Leila  Roshanali ",
-        "path": "images/members/leila__roshanali_.jpg",
-        "degree": "PhD",
+        "name": "Leila Roshanali",
+        "path": "images/members/leila_roshanali.jpg",
+        "degree": "MS",
         "country": "Iran",
         "state": "",
-        "city": "Shiraz",
-        "link": null
+        "city": "Shiraz ",
+        "link": "https://www.linkedin.com/in/leila-roshanali/"
     },
     {
         "name": "Mahsa Nia",
@@ -216,22 +126,22 @@
         "link": null
     },
     {
-        "name": "Mehmet Turkezer",
-        "path": "images/members/mehmet_turkezer.jpg",
+        "name": "Miles Drazkowski",
+        "path": "images/members/miles_drazkowski.jpg",
         "degree": "PhD",
-        "country": "Turkey",
-        "state": "",
-        "city": "Ankara",
-        "link": "https://linkedin.com/in/mturkezer"
+        "country": "United States",
+        "state": "Oregon",
+        "city": "Willamina",
+        "link": "www.linkedin.com/in/miles-drazkowski-ei-eit-a87923126"
     },
     {
-        "name": "Omar  Abukassab",
-        "path": "images/members/omar__abukassab.jpg",
+        "name": "Omar Abukassab",
+        "path": "images/members/omar_abukassab.jpg",
         "degree": "MSc & PhD",
         "country": "Jordan",
         "state": "",
         "city": "Irbid",
-        "link": null
+        "link": "https://www.linkedin.com/in/omar-abukassab-658a75241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
         "name": "Robert Gilbert",
@@ -243,22 +153,22 @@
         "link": "https://www.caee.utexas.edu/people/faculty/faculty-directory/gilbert"
     },
     {
-        "name": "Sharen Wallace",
-        "path": "images/members/sharen_wallace.jpg",
-        "degree": "MS",
-        "country": "British Virgin Islands",
-        "state": "",
-        "city": "",
-        "link": "http://linkedin.com/in/sharenwallace"
-    },
-    {
         "name": "Shuyi Zhang",
         "path": "images/members/shuyi_zhang.jpg",
         "degree": "PhD",
         "country": "China",
-        "state": "Jiangxi",
+        "state": "",
         "city": "Ganzhou",
-        "link": null
+        "link": "https://www.linkedin.com/in/shuyi-zhang-a50434301/"
+    },
+    {
+        "name": "Stepan Tretiakov",
+        "path": "images/members/stepan_tretiakov.jpg",
+        "degree": "MSc & PhD",
+        "country": "Russia",
+        "state": "",
+        "city": "Kurgan",
+        "link": "Coming Soon "
     },
     {
         "name": "Sujin Park",
@@ -267,42 +177,24 @@
         "country": "South Korea",
         "state": "",
         "city": "Seoul",
-        "link": "https://drive.google.com/file/d/1IVJEVAZj_Br5IBFouw2oygf96cWHQWM_/view?usp=drive_link"
+        "link": "https://drive.google.com/file/d/1rU4EhGuV3PVtx91-bcPdCVJg_YclrTgD/view?usp=sharing"
     },
     {
-        "name": "Venkataraman Ramesh",
-        "path": "images/members/venkataraman_ramesh.jpg",
+        "name": "Taylor Stinson",
+        "path": "images/members/taylor_stinson.jpg",
         "degree": "PhD",
-        "country": "India",
-        "state": "Tamilnadu",
-        "city": "Trichy",
-        "link": null
-    },
-    {
-        "name": "Will Pliska",
-        "path": "images/members/will_pliska.jpg",
-        "degree": "MS",
         "country": "United States",
-        "state": "Washington",
-        "city": "Seattle",
+        "state": "Tennessee",
+        "city": "Clarksville",
         "link": null
     },
     {
-        "name": "Yiwei Ye",
-        "path": "images/members/yiwei_ye.jpg",
+        "name": "Yagizer Yalcin",
+        "path": "images/members/yagizer_yalcin.jpg",
         "degree": "PhD",
-        "country": "China",
+        "country": "Turkey",
         "state": "",
-        "city": "Wenzhou",
-        "link": "https://www.yeyiwei.org/"
-    },
-    {
-        "name": "Yongjin Choi",
-        "path": "images/members/yongjin_choi.jpg",
-        "degree": "PhD",
-        "country": "South Korea",
-        "state": "",
-        "city": "Busan",
-        "link": "https://sites.google.com/view/geo-yjchoi/"
+        "city": "Ankara",
+        "link": "https://www.linkedin.com/in/yagizeryalcin"
     }
 ]

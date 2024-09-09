@@ -1,5 +1,11 @@
 [
-  
+  {
+    "name": "Prof. Rathje",
+    "semester": "Fall 2024",
+    "date": "6 September 2024",
+    "image": "images/seminars/2024_09_06_rathje.jpg",
+    "caption": "Dr. Rathje - Learning from Earthquakes and Other Natural Hazards: Past, Present, and Future"
+  },
   {
     "name": "Site Visit - EDB",
     "semester": "Spring 2024",

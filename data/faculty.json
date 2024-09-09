@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Alexandra Clarà Saracho",
+        "path": "images/members/saracho.jpg",
+        "degree": "Professor",
+        "country": "Spain",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/people/faculty/faculty-directory/saracho"
+    },
+    {
+        "name": "Chadi El Mohtar",
+        "path": "images/members/el_mohtar.jpg",
+        "degree": "Professor",
+        "country": "Lebanon",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/prof/El_Mohtar/"
+    },
+    {
+        "name": "Ellen Rathje",
+        "path": "images/members/rathje.jpg",
+        "degree": "Professor",
+        "country": "United States",
+        "state": "New York",
+        "city": "East Northport",
+        "link": "https://sites.google.com/view/erathje"
+    },
+    {
+        "name": "Jorge Zornberg",
+        "path": "images/members/jorge_zornberg.jpg",
+        "degree": "Professor",
+        "country": "USA/Argentina",
+        "state": "",
+        "city": "",
+        "link": "https://sites.utexas.edu/zornberg/"
+    },
+    {
+        "name": "Kenneth Stokoe",
+        "path": "images/members/stokoe.jpg",
+        "degree": "Professor",
+        "country": "United States",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/prof/stokoe/home.html"
+    },
+    {
+        "name": "Krishna Kumar",
+        "path": "images/members/krishna_kumar.jpg",
+        "degree": "Professor",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Madurai",
+        "link": null
+    },
+    {
+        "name": "Robert Gilbert",
+        "path": "images/members/gilbert.jpg",
+        "degree": "Professor",
+        "country": "United States",
+        "state": "",
+        "city": "",
+        "link": "https://www.caee.utexas.edu/people/faculty/faculty-directory/gilbert"
+    }
+]
