@@ -1,5 +1,23 @@
 [
     {
+        "name": "AbhilashReddy Goli",
+        "path": "images/members/abhilashreddy_goli.jpg",
+        "degree": "MS",
+        "country": "India",
+        "state": "",
+        "city": "Hyderabad",
+        "link": "https://www.linkedin.com/in/abhilash-reddy-goli-b57039175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+        "name": "Ahmed Alsadah",
+        "path": "images/members/ahmed_alsadah.jpg",
+        "degree": "MS",
+        "country": "Saudi Arabia",
+        "state": "Eastern province ",
+        "city": "Safwa - Qatif",
+        "link": null
+    },
+    {
         "name": "Alexandra Clar\u00e0 Saracho",
         "path": "images/members/saracho.jpg",
         "degree": "Professor",
@@ -45,6 +63,15 @@
         "link": "https://www.linkedin.com/in/chenghao-bai-8168b3207/"
     },
     {
+        "name": "Chih-Yu Tung",
+        "path": "images/members/chih-yu_tung.jpg",
+        "degree": "PhD",
+        "country": "TAIWAN",
+        "state": "",
+        "city": "Taichung",
+        "link": null
+    },
+    {
         "name": "DesiNur Marlina",
         "path": "images/members/desinur_marlina.jpg",
         "degree": "MS",
@@ -79,6 +106,15 @@
         "state": "",
         "city": "",
         "link": "https://sites.utexas.edu/zornberg/"
+    },
+    {
+        "name": "Juan Ortega",
+        "path": "images/members/juan_ortega.jpg",
+        "degree": "MS",
+        "country": "Colombia",
+        "state": "",
+        "city": "Bogot\u00e1 ",
+        "link": "https://www.linkedin.com/in/juan-ortega-5b6581206?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
     },
     {
         "name": "Kenneth Stokoe",
@@ -187,6 +223,15 @@
         "state": "Tennessee",
         "city": "Clarksville",
         "link": null
+    },
+    {
+        "name": "Venkataraman Ramesh",
+        "path": "images/members/venkataraman_ramesh.jpg",
+        "degree": "PhD",
+        "country": "India",
+        "state": "Tamil Nadu",
+        "city": "Trichy",
+        "link": "https://www.linkedin.com/in/venkataraman-ramesh/"
     },
     {
         "name": "Yagizer Yalcin",
