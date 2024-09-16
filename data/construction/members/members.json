@@ -1,5 +1,14 @@
 [
     {
+        "name": "A.Mert Kavala",
+        "path": "images/members/a.mert_kavala.jpg",
+        "degree": "MSc & PhD",
+        "country": "Turkey",
+        "state": "",
+        "city": "Istanbul",
+        "link": "https://www.linkedin.com/in/mertkavala"
+    },
+    {
         "name": "AbhilashReddy Goli",
         "path": "images/members/abhilashreddy_goli.jpg",
         "degree": "MS",
@@ -9,12 +18,30 @@
         "link": "https://www.linkedin.com/in/abhilash-reddy-goli-b57039175?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     },
     {
+        "name": "Adityo Andikaputra",
+        "path": "images/members/adityo_andikaputra.jpg",
+        "degree": "MS",
+        "country": "Indonesia",
+        "state": "",
+        "city": "Bandung",
+        "link": "linkedin.com/in/adityoandikaputra"
+    },
+    {
         "name": "Ahmed Alsadah",
         "path": "images/members/ahmed_alsadah.jpg",
         "degree": "MS",
         "country": "Saudi Arabia",
         "state": "Eastern province ",
         "city": "Safwa - Qatif",
+        "link": null
+    },
+    {
+        "name": "Ajay Rajupalem",
+        "path": "images/members/ajay_rajupalem.jpg",
+        "degree": "MS",
+        "country": "India",
+        "state": "",
+        "city": "Hyderabad",
         "link": null
     },
     {
@@ -33,6 +60,15 @@
         "country": "India",
         "state": "",
         "city": "Aligarh",
+        "link": null
+    },
+    {
+        "name": "Bartik Pandel",
+        "path": "images/members/bartik_pandel.jpg",
+        "degree": "PhD",
+        "country": "India",
+        "state": "",
+        "city": "Jaipur",
         "link": null
     },
     {
@@ -90,6 +126,15 @@
         "link": "https://sites.google.com/view/erathje"
     },
     {
+        "name": "Faik Cuceoglu",
+        "path": "images/members/faik_cuceoglu.jpg",
+        "degree": "Visiting Research Scholar",
+        "country": "Turkiye",
+        "state": "",
+        "city": "Ankara",
+        "link": "https://www.linkedin.com/in/faik-c%C3%BCceo%C4%9Flu-3096b2328/"
+    },
+    {
         "name": "Faisal Alotaibi",
         "path": "images/members/faisal_alotaibi.jpg",
         "degree": "PhD",
@@ -97,6 +142,24 @@
         "state": "",
         "city": "Riyadh",
         "link": "https://www.linkedin.com/in/faisal-alotaibi-5221a4165?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    },
+    {
+        "name": "Griffin Berse",
+        "path": "images/members/griffin_berse.jpg",
+        "degree": "MSc & PhD",
+        "country": "USA",
+        "state": "FL",
+        "city": "Jacksonville",
+        "link": null
+    },
+    {
+        "name": "Jihwan Lee",
+        "path": "images/members/jihwan_lee.jpg",
+        "degree": "PhD",
+        "country": "South Korea",
+        "state": "",
+        "city": "Gwangju",
+        "link": null
     },
     {
         "name": "Jorge Zornberg",
@@ -162,6 +225,15 @@
         "link": null
     },
     {
+        "name": "Mehmet Turkezer",
+        "path": "images/members/mehmet_turkezer.jpg",
+        "degree": "PhD",
+        "country": "Turkiye",
+        "state": "",
+        "city": "Ankara",
+        "link": "https://www.linkedin.com/in/mturkezer/"
+    },
+    {
         "name": "Miles Drazkowski",
         "path": "images/members/miles_drazkowski.jpg",
         "degree": "PhD",
@@ -169,6 +241,15 @@
         "state": "Oregon",
         "city": "Willamina",
         "link": "www.linkedin.com/in/miles-drazkowski-ei-eit-a87923126"
+    },
+    {
+        "name": "NaveenRaj Manoharan",
+        "path": "images/members/naveenraj_manoharan.jpg",
+        "degree": "PhD",
+        "country": "India",
+        "state": "Tamilnadu",
+        "city": "Erode",
+        "link": "https://www.linkedin.com/in/naveen-raj-m"
     },
     {
         "name": "Omar Abukassab",
@@ -232,6 +313,15 @@
         "state": "Tamil Nadu",
         "city": "Trichy",
         "link": "https://www.linkedin.com/in/venkataraman-ramesh/"
+    },
+    {
+        "name": "Willa Egan",
+        "path": "images/members/willa_egan.jpg",
+        "degree": "PhD",
+        "country": "USA",
+        "state": "Maine",
+        "city": "Bangor",
+        "link": null
     },
     {
         "name": "Yagizer Yalcin",

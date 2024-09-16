@@ -1,21 +1,9 @@
 [
     {
-        "name": "A. Mert Kavala",
-        "class": null,
-        "path": "images/members/a._mert_kavala.jpg",
-        "link": "https://www.linkedin.com/in/mertkavala"
-    },
-    {
         "name": "Abhigya Paudyal",
         "class": "2023",
         "path": "images/members/abhigya_paudyal.jpg",
         "link": "https://www.linkedin.com/in/abhigyap"
-    },
-    {
-        "name": "Adityo Andikaputra",
-        "class": null,
-        "path": "images/members/adityo_andikaputra.jpg",
-        "link": "https://www.linkedin.com/in/adityo-muhammad-andikaputra-940554124"
     },
     {
         "name": "Ahmed Hussien",
@@ -136,12 +124,6 @@
         "class": "2023",
         "path": "images/members/laxmi_manisha_gandham.jpg",
         "link": null
-    },
-    {
-        "name": "Mehmet Turkezer",
-        "class": null,
-        "path": "images/members/mehmet_turkezer.jpg",
-        "link": "https://linkedin.com/in/mturkezer"
     },
     {
         "name": "Meredith Normand",
