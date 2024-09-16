@@ -8,7 +8,7 @@ function officerTemplate(person) {
 
         <div class="row">
             <div class="col-6 col-12-medium">
-                <a class="image featured"><img src=${person.image} alt=''></a>
+                <a class="image featured"><img src=${person.image} alt='Not found', onerror="this.src='images/original_logo.jpeg';"></a>
             </div>
 
             <div class="col-6 col-12-medium">

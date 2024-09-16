@@ -1,58 +1,56 @@
 [
 	{
-			"name": "Ashish Govindan",
-			"position": "President",
-			"image": "images/officers/ashish.jpg",
-			"email": "a.govindan@utexas.edu",
-			"bio": "Ashish joined UT Austin's graduate program in Fall 2022. He is currently working with Dr. Chadi El Mohtar, where they are focusing on soil grouting and flow through porous media. Presently, Ashish is working on assessing how material testing of grouts is carried out in the industry. Ashish graduated with a bachelor's degree from the University of Texas at Austin in May 2022. He thoroughly enjoyed learning at UT Austin, which led to his continued education in Austin. After completing his graduate studies at UT Austin, Ashish plans to work in the industry. During his free time, he tries to relieve stress by running, hiking, cooking, bouldering, and spending time with family and friends. As President, Ashish will focus on building a solid and close-nit geotech community at UT Austin by providing a stellar experience for the members of Geo-Institute during their time at UT Austin. To achieve this, Ashish plans on exposing the students to the newest practices in the industry, organizing events to help the students develop their network, and scheduling a series of social events that can help nurture lifelong friendships with each other."
+		"name": "Cheng-Hsi Hsiao",
+		"position": "President",
+		"image": "images/officers/chenghsi.jpg",
+		"email": "chhsiao@utexas.edu",
+		"bio": "Cheng-Hsi became a member of the University of Texas at Austin community in August 2021, embarking on a journey towards a PhD degree. His academic pursuit is under the guidance of Dr. Rathje and Dr. Kumar, exploring their fields. Cheng-Hsi's research interests include Machine Learning and its applications in Liquefaction, while also delving into the realm of differentiable programming and property identification via novel view synthesis . Beyond the academic realm, Cheng-Hsi shows his passion for cats, cherishing the companion of his beloved cat Clawsy, a charming tabby cat from Taiwan."
 	},
 	{
-			"name": "Ashray Saxena",
-			"position": "Vice President",
-			"image": "images/officers/ashray.jpg",
-			"email": "saxena_ashray@utexas.edu",
-			"bio": "Ashray Saxena, an accomplished researcher in the field of civil engineering, has embarked on a Geotechnical Engineering Ph.D. journey at the University of Texas at Austin, a path he embarked upon in 2021. Armed with an M.Tech from IIT Gandhinagar and a B.Tech from AMU, he stands on a robust academic footing. Working as a Graduate Research Assistant under the guidance of Dr. Zornberg, his research focuses on the application of geosynthetics in asphalt pavements. Ashray's commitment to education can be seen through his roles as a Teaching Assistant at both UT Austin and IITGn. Currently he is serving as the co-chair within the GeoCongress Planning Committee and vice-chair for networking and communication within NHERI, thus fostering community engagement. He was recently honored as the 2023 New Face of Civil Engineering by ASCE and earned the UT Tower Award for his two years of dedicated service to UT Austin. In his role as the Vice-President of the Geo-Institute UT chapter, Ashray's responsibilities encompass mentoring students regarding conferences, workshops, and volunteering prospects. He will not only support his team members but also aid in decision-making, and the orchestration of event-planning and management."
+		"name": "Griffin Berse",
+		"position": "Vice President",
+		"image": "images/officers/griffin.jpg",
+		"email": "griffinberse@utexas.edu",
+		"bio": "Griffin joined UT Austin in January 2024, and is conducting research on seismic site response under the tutelage of Dr. Ellen Rathje. He received his undergraduate degree from Northwestern University, and has a research background in construction vibrations. He has worked professionally as a  geotechnical engineer internationally, and has been involved on projects in London, Bochum, Chicago, and Jacksonville.  His favorite things to do outside of work include reading, birdwatching, and going on long walks."	},
+	{
+		"name": "Mahsa S. Nia",
+		"position": "Secretary of Communications ",
+		"image": "images/officers/mahsa.jpg",
+		"email": "mahsa.nia@utexas.edu",
+		"bio": "Mahsa is a PhD student in Geotechnical Engineering at The UT Austin, where she works under the guidance of Professor Chadi El Mohtar. Her research focuses on ground improvement and grouting, with a specific emphasis on evaluating the carbon footprint of various cement types. Through her work, Mahsa aims to advance sustainable practices in the field of geotechnical engineering by exploring ways to reduce the environmental impact associated with cement production and usage."	},
+	{
+		"name": "Miles Drazkowski",
+		"position": "Treasurer",
+		"image": "images/members/miles.jpg",
+		"email": "milesd@utexas.edu",
+		"bio": ""
 	},
 	{
-			"name": "Sharen Wallace",
-			"position": "Secretary",
-			"image": "images/officers/sharen_wallace.jpg",
-			"email": "sawallace@utexas.edu",
-			"bio": "Sharen is a 2nd year M.S. student at the University of Texas at Austin, currently working under the guidance of Dr.Gilbert on assessing the impact of hurricane waves have on offshore structures through the application of probabilistic methods. She completed a B.S. degree in Civil Engineering at the University of Florida in May 2018. After graduating, she worked as a structural engineer in the Virgin Islands. Aside from her structural engineering duties, she was also responsible for designing retaining walls and analyzing geotechnical reports to assist in designing shallow and deep foundations for government infrastructure and residential and commercial buildings. Prior to joining UT, Sharen also taught an introductory engineering course at a community college. In her spare time, she enjoys outdoor activities such as hiking and going to the beach. In her role as secretary, she aims to maintain efficient communication within the group, assist in organizing club activities, and offer support to her fellow officers whenever needed."
+		"name": "Leila Roshanali",
+		"position": "Community Engagement Officer",
+		"image": "images/officers/leila.jpg",
+		"email": "leila.roshanali@utexas.edu ",
+		"bio": "Leila Roshanali is a dedicated and accomplished Master’s student in Geotechnical Engineering at the University of Texas at Austin, where she has maintained a 4.0 GPA since beginning her studies in Fall 2023. During her second semester, she presented a well-received poster on optimizing heat dissipation in underground duct banks using differentiable programming. In addition to her academic achievements, Leila has demonstrated strong leadership and organizational skills as the Community Engagement Officer in the Geo-Institute, where she orchestrates events such as tailgates and trivia nights to create a positive, supportive environment that encourages students to refresh and connect ahead of their rigorous academic workloads. Prior to her time at UT, she earned both a Bachelor’s degree in Civil Engineering and a Master’s degree in Geotechnical Engineering in Iran, graduating as the top-ranked student in her class. As a research assistant, she showcased exceptional analytical and problem-solving abilities, developing a novel formula for calculating hydraulic conductivity in anisotropic granular porous media. This breakthrough led to two publications in esteemed peer-reviewed journals. Leila brings extensive industry experience to her current studies, having spent two years in the geotechnical engineering industry. Her expertise includes designing retaining walls and foundations, conducting geotechnical explorations, performing slope stability analyses, and soil improvements. Currently, she is expanding her practical knowledge as a Geotechnical Engineer at one of the leading firms in the U.S. In her personal time, Leila values staying active through fitness and cooking, activities that help her manage stress and maintain a balanced, healthy lifestyle."	},
+	{
+		"name": "Omar Abukassab",
+		"position": "Community Engagement Officer",
+		"image": "images/officers/omar.jpg",
+		"email": "oakassab@utexas.edu",
+		"bio": "Omar joined the Geotechnical Engineering group at UT Austin in Fall 2023 to pursue MSc and PhD degrees, focusing on research into seismically induced landslides under the guidance of Prof. Ellen Rathje. He earned his Bachelor's degree in Civil Engineering in 2022 from the Jordan University of Science and Technology in Jordan. Prior to joining UT Austin, he worked on seismic analysis and the design of a high-rise building for his capstone project and also gained experience as a site engineer on a medical laboratory complex project."
 	},
 	{
-			"name": "Jorge Loaisiga",
-			"position": "Treasurer",
-			"image": "images/members/jorge_loaisiga.jpg",
-			"email": "jorge.loaisiga@utexas.edu",
-			"bio": ""
+		"name": "Shuyi Zhang",
+		"position": "Community Engagement Officer",
+		"image": "images/officers/shuyi.jpg",
+		"email": "shuyi_zhang@utexas.edu",
+		"bio": "Shuyi joined the Geotechnical Engineering group of UT Austin in Fall 2023 as a PhD student. She obtained her Bachelor’s degree from Sichuan University in China and a Master degree in Civil Engineering from Souch China University of Technology. Her research during master degree has primarily focused on studying the structural reinforcement mechanism of shield tunnels, involving model tests with a geometric similarity ratio of 1:5. She has also participated in many consulting projects about tunnel structural safety assessment. She is planing to do research about geosynthetic application in pavement later. After graduation, she plans to teach in the university and continue her academic research career. Outside of academics, she enjoys singing, playing the guita, and playing badmiton. Beside, she loves cats. She has a cat named “Sanwen” in China but couldn’t bring it to America because it’s too timid."	
 	},
 	{
-			"name": "Cheng-Hsi Hsiao",
-			"position": "Web Developer",
-			"image": "images/officers/chenghsi.jpg",
-			"email": "chhsiao@utexas.edu",
-			"bio": "Cheng-Hsi became a member of the University of Texas at Austin community in August 2021, embarking on a journey towards a PhD degree. His academic pursuit is under the guidance of Dr. Rathje and Dr. Kumar, exploring their fields. Cheng-Hsi's research interests include Machine Learning and its applications in Liquefaction, while also delving into the realm of Explainable AI. Prior to his academic endeavor at UT Austin, Cheng-Hsi acquired his foundational education from the National Taiwan University (NTU). Here, he finished his bachelor's degree in 2016 and his master's degree in 2018, specializing in Civil Engineering. His dedication to academic exploration was also manifested through his role as a research assistant at NTU, a chapter preceding his chapter at UT Austin. Beyond the academic realm, Cheng-Hsi shows his passion for cats, cherishing the companion of his beloved cat Clawsy, a charming tabby cat from Taiwan. Uniting his technical skills with a creative touch, he serves as the web developer of the Geo-Institute. In this role, he undertakes the responsibility of maintaining and enhancing the functionality of the GI website, thereby contributing to the digital landscape of the institute."
-	},
-	{
-			"name": "Anusha Vajapeyajula",
-			"position": "GSAB Representative",
-			"image": "images/officers/anusha.jpg",
-			"email": "anushav@utexas.edu",
-			"bio": "Anusha joined the Geotechnical Engineering group of UT Austin in Fall 2021.  She completed her Bachelor’s from JNTU Hyderabad in India and has a Master’s in Civil Engineering from Indian Institute of Science, Bangalore. She is currently working with Dr. Krishna Kumar, where her work is focused on the use of Differentiable programming in obtaining the soil properties for use in design of buried duct banks. She plans to work in the industry upon graduation and use her experience from the industry and the knowledge from course work in teaching later in life. She likes music and arts and loves to draw/ paint in her leisure. As a GSAB Representative, she hopes to help in the mingling of students of Geotechnical Engineering with their peers from the other tracks in the Civil Engineering Department as well as advocate for student concerns in the GSAB meetings. She strongly believes that active interaction among graduate students of different disciplines would make progressing through academic life easier."
-	},
-	{
-			"name": "Leila Roshanali",
-			"position": "Student Representative",
-			"image": "images/officers/leila.jpg",
-			"email": "leila.roshanali@utexas.edu ",
-			"bio": "I am a Ph.D. student specializing in Geotechnical Engineering working with Prof. Kumar.I am.originally from Shiraz (Persepolis), Iran. I earned my B.S. in 2019 and M.S. degree in 2021 from Shiraz University, where I was ranked first among my peers. Prior to pursuing my Ph.D. I worked as a geotechnical Engineer for JPS- a reputable geotechnical consulting company for two years in my hometown. I was responsible for Designing the Retaining Walls and Foundations, Geotechnical Explorations, Slope Stability Analysis, and many more.  My areas of specialization include Geomechanics and Numerical Methods, Continuum Mechanics, Anisotropy, Granular Porous Media, Hydro-Mechanical Process in Porous Media. During her free time, she tries to relieve stress by working out and fitness."
-	},
-	{
-			"name": "Shuyi Zhang",
-			"position": "Student Representative",
-			"image": "images/officers/shuyi.jpg",
-			"email": "shuyi_zhang@utexas.edu",
-			"bio": "Shuyi joined the Geotechnical Engineering group of UT Austin in Fall 2023 as a PhD student. She obtained her Bachelor’s degree from Sichuan University in China and a Master degree in Civil Engineering from Souch China University of Technology. Her research during master degree has primarily focused on studying the structural reinforcement mechanism of shield tunnels, involving model tests with a geometric similarity ratio of 1:5. She has also participated in many consulting projects about tunnel structural safety assessment. She is planing to do research about geosynthetic application in pavement later. After graduation, she plans to teach in the university and continue her academic research career. Outside of academics, she enjoys singing, playing the guita, and playing badmiton. Beside, she loves cats. She has a cat named “Sanwen” in China but couldn’t bring it to America because it’s too timid."
+		"name": "Venkataraman Ramesh",
+		"position": "Community Engagement Officer",
+		"image": "images/officers/venka.jpg",
+		"email": "vramesh@utexas.edu",
+		"bio": "Venkat joined the UT Geotech group in fall 2023 and is currently conducting research on seismic slope stability analysis under the guidance of Dr. Rathje. He holds a bachelor's degree in civil engineering from India and a master's degree from the Georgia Institute of Technology. Before joining UT, Venkat worked at BGC Engineering, specializing in the seismic design and analysis of tailing storage facilities (TSF). When he's not hiking, skiing, or playing soccer, you can find him at home playing guitar."
 	}
+
 ]
