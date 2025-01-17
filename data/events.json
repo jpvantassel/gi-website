@@ -1,6 +1,83 @@
 [
   {
-    "name": "Fall 2024 Kayaking",
+    "name": "Graduation Party",
+    "semester": "Fall 2024",
+    "date": "7 December 2024",
+    "image": "images/social/2024_12_07_grad.jpg",
+    "hover_img": "images/social/2024_12_07_grad2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Halloween Party - Pumpkin Carving",
+    "semester": "Fall 2024",
+    "date": "25 October 2024",
+    "image": "images/social/2024_10_25_pumpkin.jpg",
+    "hover_img": "images/social/2024_10_25_pumpkin2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Halloween Party - Boardgame and International Potluck",
+    "semester": "Fall 2024",
+    "date": "25 October 2024",
+    "image": "images/social/2024_10_25_boardgame.jpg",
+    "hover_img": "images/social/2024_10_25_boardgame2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Halloween Party - Costume Walk Off",
+    "semester": "Fall 2024",
+    "date": "25 October 2024",
+    "image": "images/social/2024_10_25_costume.jpg",
+    "caption": null
+  },
+  {
+    "name": "Alumni Tailgate - Georgia Bulldogs vs Texas Longhorns",
+    "semester": "Fall 2024",
+    "date": "19 October 2024",
+    "image": "images/social/2024_10_19_tailgate.jpg",
+    "hover_img": "images/social/2024_10_19_tailgate2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Happy Hour",
+    "semester": "Fall 2024",
+    "date": "October 2024",
+    "image": "images/social/2024_10_xx_happy.jpg",
+    "caption": null
+  },
+  {
+    "name": "Annual Geotechnical Graduate Student Party",
+    "semester": "Fall 2024",
+    "date": "27 September 2024",
+    "image": "images/social/2024_09_27_geotech.jpg",
+    "caption": null
+  },
+  {
+    "name": "Geotechnical Trivia",
+    "semester": "Fall 2024",
+    "date": "27 September 2024",
+    "image": "images/social/2024_09_27_trivia.jpg",
+    "hover_img": "images/social/2024_09_27_trivia2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Tailgate LA-Monroe Warhawks vs Texas Longhorns",
+    "semester": "Fall 2024",
+    "date": "21 September 2024",
+    "image": "images/social/2024_09_21_tailgate.jpg",
+    "hover_img": "images/social/2024_09_21_tailgate2.jpg",
+    "caption": null
+  },
+  {
+    "name": "Sport Day",
+    "semester": "Fall 2024",
+    "date": "14 September 2024",
+    "image": "images/social/2024_09_14_sport2.jpg",
+    "hover_img": "images/social/2024_09_14_sport.jpg",
+    "caption": null
+  },
+  {
+    "name": "Kayaking",
     "semester": "Fall 2024",
     "date": "7 September 2024",
     "image": "images/social/2024_09_07_kayaking.jpeg",
@@ -8,7 +85,7 @@
     "caption": null
   },
   {
-    "name": "Fall 2024 First General Meeting",
+    "name": "First General Meeting",
     "semester": "Fall 2024",
     "date": "30 August 2024",
     "image": "images/social/2024_08_30_gi_meeting.jpg",

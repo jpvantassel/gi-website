@@ -1814,15 +1814,14 @@ input, select, textarea {
 		}
 
 		.image.donor {
-			display: block;
-			max-width: 18em;
-			width: 50%;
-			height: 5em;
-			margin: 0 0 0.2em 0;
-			margin-left: auto;
-			margin-right: auto;
-			overflow: hidden;
-			object-fit: scale-down;
+			display: flex;
+			max-width: 100%;
+			width: 10em;
+			height: 10em;
+			margin: 0.2em auto;
+			object-fit: contain;
+			align-items: center;
+			justify-content: center;
 		}
 
 /* Button */

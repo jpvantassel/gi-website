@@ -1,5 +1,77 @@
 [
   {
+    "name": "Arup",
+    "semester": "Fall 2024",
+    "date": "6 December 2024",
+    "image": "images/seminars/2024_12_06_arup.jpg",
+    "caption": "Dr. Amber Wang from Arup - Seismic SSI Modeling for Major Underground Projects"
+  },
+  {
+    "name": "Freese and Nichols",
+    "semester": "Fall 2024",
+    "date": "22 November 2024",
+    "image": "images/seminars/2024_11_22_fni.jpg",
+    "caption": "Jeremy Goethals and Victor Vasquez from Freese and Nichols- Water Resources Design and Geotechnical Engineering Services at Freese and Nichols, Inc."
+  },
+  {
+    "name": "ENGEO",
+    "semester": "Fall 2024",
+    "date": "15 November 2024",
+    "image": "images/seminars/2024_11_15_engeo.jpg",
+    "caption": "Jeff Fippin and Teresa Klotzback from ENGEO - Alameda Marina: Challenges of Redeveloping Former Waterfront Industrial Properties"
+  },
+  {
+    "name": "GRL Engineers",
+    "semester": "Fall 2024",
+    "date": "8 November 2024",
+    "image": "images/seminars/2024_11_08_grl.jpg",
+    "caption": "Mohamad Hussein from GRL Engineers - Testing Methods of Deep Foundations for Load Bearing Capacity and Structural Integrity"
+  },
+  {
+    "name": "Buchanan",
+    "semester": "Fall 2024",
+    "date": "1 November 2024",
+    "image": "images/seminars/2024_11_01_buchanan.jpg",
+    "caption": "Buchanan Lecture"
+  },
+  {
+    "name": "Black and Veatch",
+    "semester": "Fall 2024",
+    "date": "18 October 2024",
+    "image": "images/seminars/2024_10_18_blackandveatch.jpg",
+    "caption": "Audrey Housson from Black and Veatch - Tunneling Deep in the Heart of Austin, Texas"
+  },
+  {
+    "name": "Schnabel",
+    "semester": "Fall 2024",
+    "date": "11 October 2024",
+    "image": "images/seminars/2024_10_11_schnabel.jpg",
+    "caption": "Victoria Webber from Schnabel - Day in the Life of a Dam Upgrade"
+  },
+  {
+    "name": "Dr. Kawamata Yohsuke",
+    "semester": "Fall 2024",
+    "date": "4 October 2024",
+    "image": "images/seminars/2024_10_04_kawamata.jpg",
+    "caption": "Dr. Kawamata Yohsuke - Toward Future U.S.-Japan Research Collaboration on Geotechnical Engineering"
+  },
+  {
+    "name": "Student Presentations-1",
+    "semester": "Fall 2024",
+    "date": "20 September 2024",
+    "image": "images/seminars/2024_09_20_std_present1.jpg",
+    "hover_img": "images/seminars/2024_09_20_std_present2.jpg",
+    "caption": "Student Presentations - Hassan and Mert"
+  },
+  {
+    "name": "Student Presentations-1",
+    "semester": "Fall 2024",
+    "date": "13 September 2024",
+    "image": "images/seminars/2024_09_13_std_present1.jpg",
+    "hover_img": "images/seminars/2024_09_13_std_present2.jpg",
+    "caption": "Student Presentations - Sheldon and Cheng-Hsi"
+  },
+  {
     "name": "Prof. Rathje",
     "semester": "Fall 2024",
     "date": "6 September 2024",
