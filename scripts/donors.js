@@ -14,7 +14,7 @@ function donorTemplate(donor) {
 
     return `
         <div class="col-3 col-12-medium" style="margin:auto;">
-            <a class="image donor" ${href_profile}><img src=${donor.image} alt='Not found', onerror="this.src='images/longhorn.png';"></a>
+            <a class="image donor" ${href_profile}><img src=${donor.image} alt='Not found', onerror="this.src='images/original_logo.jpeg';"></a>
             <h2><strong><center>${donor.name}</center></strong></h2>
             <h6><center>${second_line}</center></h6>
             <div style="padding: 10px;"></div>
